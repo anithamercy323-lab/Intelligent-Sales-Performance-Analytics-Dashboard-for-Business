@@ -1,0 +1,1201 @@
+﻿sale_id,order_date,customer_name,product_name,category,region,quantity,discount,sales_amount,profit,payment_method
+1,2025-01-01,Ishita,USB-C Hub,Electronics,South,1,15,46.75,13.02,Credit Card
+2,2025-01-01,Priya,USB-C Hub,Electronics,North,3,10,148.5,54.45,Credit Card
+3,2025-01-01,Rohan,Wireless Headphones,Electronics,Central,1,10,162.0,38.08,Net Banking
+4,2025-01-01,Aarav,Mechanical Keyboard,Electronics,South,2,5,209.0,47.04,Net Banking
+5,2025-01-02,Aditya,Standing Desk,Furniture,North,1,3,407.4,83.93,Credit Card
+6,2025-01-02,Diya,Notebook Set,Stationery,West,1,5,17.1,4.7,Cash
+7,2025-01-02,Nila,Wireless Headphones,Electronics,Central,6,8,993.6,380.03,Debit Card
+8,2025-01-03,Ishita,Smart Watch,Accessories,East,1,0,220.0,96.68,Credit Card
+9,2025-01-03,Vikram,Monitor 27,Electronics,East,1,0,330.0,119.65,UPI
+10,2025-01-03,Arjun,Standing Desk,Furniture,Central,2,15,714.0,200.42,UPI
+11,2025-01-04,Kavin,Backpack,Accessories,Central,3,3,189.15,61.17,UPI
+12,2025-01-04,Diya,USB-C Hub,Electronics,East,2,0,110.0,43.71,Net Banking
+13,2025-01-04,Aditya,Office Chair,Furniture,South,1,10,234.0,38.59,Net Banking
+14,2025-01-04,Kavin,Notebook Set,Stationery,South,4,15,61.2,14.0,UPI
+15,2025-01-05,Priya,Desk Lamp,Furniture,Central,2,5,91.2,21.91,Net Banking
+16,2025-01-05,Arjun,Standing Desk,Furniture,North,1,3,407.4,127.18,Credit Card
+17,2025-01-05,Arjun,Smartphone X,Electronics,West,3,15,2167.5,517.4,Net Banking
+18,2025-01-06,Aarav,Smart Watch,Accessories,North,6,10,1188.0,385.67,Cash
+19,2025-01-06,Nila,Water Bottle,Accessories,West,1,15,21.25,5.54,UPI
+20,2025-01-06,Kavin,Premium Pen,Stationery,Central,1,15,10.2,1.18,UPI
+21,2025-01-07,Rohan,Backpack,Accessories,South,5,15,276.25,75.19,Debit Card
+22,2025-01-07,Aditya,Water Bottle,Accessories,West,1,10,22.5,3.47,Credit Card
+23,2025-01-07,Ishita,Wireless Headphones,Electronics,Central,5,5,855.0,310.43,Credit Card
+24,2025-01-07,Vihaan,Wireless Headphones,Electronics,South,3,0,540.0,121.53,Net Banking
+25,2025-01-08,Priya,Backpack,Accessories,South,1,10,58.5,9.71,Cash
+26,2025-01-08,Rahul,Water Bottle,Accessories,East,3,3,72.75,19.2,Net Banking
+27,2025-01-08,Arjun,Printer,Electronics,East,2,0,420.0,165.05,Credit Card
+28,2025-01-09,Arjun,Smart Watch,Accessories,North,2,10,396.0,131.71,UPI
+29,2025-01-09,Ishita,Wireless Headphones,Electronics,East,5,5,855.0,345.33,Net Banking
+30,2025-01-09,Aisha,Mechanical Keyboard,Electronics,South,2,15,187.0,18.66,Net Banking
+31,2025-01-10,Priya,Water Bottle,Accessories,East,2,0,50.0,21.39,Net Banking
+32,2025-01-10,Meera,Notebook Set,Stationery,North,2,15,30.6,10.35,Net Banking
+33,2025-01-10,Rohan,Desk Lamp,Furniture,Central,2,0,96.0,37.71,Net Banking
+34,2025-01-11,Arjun,Smartphone X,Electronics,West,2,5,1615.0,499.11,Cash
+35,2025-01-11,Arjun,Wireless Headphones,Electronics,South,1,10,162.0,28.39,UPI
+36,2025-01-11,Diya,Notebook Set,Stationery,South,2,3,34.92,7.96,Net Banking
+37,2025-01-11,Vikram,Laptop Pro 14,Electronics,East,6,5,6840.0,1345.69,Net Banking
+38,2025-01-12,Aisha,Desk Lamp,Furniture,South,6,10,259.2,56.96,UPI
+39,2025-01-12,Diya,Office Chair,Furniture,East,1,0,260.0,82.37,Credit Card
+40,2025-01-12,Anaya,Laptop Pro 14,Electronics,North,2,10,2160.0,332.5,Cash
+41,2025-01-13,Ishita,Wireless Headphones,Electronics,West,4,0,720.0,225.46,Credit Card
+42,2025-01-13,Arjun,Printer,Electronics,West,2,10,378.0,89.57,Cash
+43,2025-01-13,Aditya,Smart Watch,Accessories,South,2,5,418.0,155.33,Debit Card
+44,2025-01-14,Aditya,Notebook Set,Stationery,North,1,15,15.3,4.16,Credit Card
+45,2025-01-14,Arjun,Premium Pen,Stationery,Central,3,10,32.4,4.35,UPI
+46,2025-01-14,Ishita,Backpack,Accessories,East,1,5,61.75,12.83,Debit Card
+47,2025-01-14,Aarav,Smartphone X,Electronics,Central,2,10,1530.0,319.92,Debit Card
+48,2025-01-15,Meera,Printer,Electronics,Central,3,3,611.1,226.28,UPI
+49,2025-01-15,Rohan,Office Chair,Furniture,East,1,3,252.2,66.29,Cash
+50,2025-01-15,Priya,Premium Pen,Stationery,East,1,0,12.0,5.15,Credit Card
+51,2025-01-16,Kavin,Laptop Pro 14,Electronics,South,2,3,2328.0,656.31,Net Banking
+52,2025-01-16,Arjun,Backpack,Accessories,South,3,10,175.5,67.82,Cash
+53,2025-01-16,Priya,Laptop Pro 14,Electronics,South,4,10,4320.0,1070.01,Credit Card
+54,2025-01-17,Rohan,Office Chair,Furniture,South,2,0,520.0,126.49,Credit Card
+55,2025-01-17,Vihaan,Standing Desk,Furniture,South,4,8,1545.6,245.31,UPI
+56,2025-01-17,Aditya,Water Bottle,Accessories,West,4,8,92.0,36.43,UPI
+57,2025-01-18,Diya,Office Chair,Furniture,West,1,15,221.0,71.54,UPI
+58,2025-01-18,Ishita,Mechanical Keyboard,Electronics,South,4,8,404.8,127.41,Credit Card
+59,2025-01-18,Arjun,USB-C Hub,Electronics,East,1,5,52.25,18.48,Debit Card
+60,2025-01-18,Aditya,USB-C Hub,Electronics,North,2,15,93.5,8.18,Credit Card
+61,2025-01-19,Kavin,Printer,Electronics,North,6,3,1222.2,360.95,Credit Card
+62,2025-01-19,Priya,Smart Watch,Accessories,Central,2,15,374.0,52.41,Cash
+63,2025-01-19,Diya,Wireless Headphones,Electronics,West,2,10,324.0,110.26,Credit Card
+64,2025-01-20,Rohan,Backpack,Accessories,East,5,10,292.5,62.41,Net Banking
+65,2025-01-20,Meera,Wireless Headphones,Electronics,East,5,5,855.0,231.01,Cash
+66,2025-01-20,Nila,Office Chair,Furniture,Central,3,5,741.0,239.81,UPI
+67,2025-01-21,Anaya,Mechanical Keyboard,Electronics,Central,2,8,202.4,47.13,Cash
+68,2025-01-21,Rohan,Office Chair,Furniture,West,2,0,520.0,197.66,Cash
+69,2025-01-21,Rohan,Smart Watch,Accessories,Central,3,8,607.2,177.14,Net Banking
+70,2025-01-21,Arjun,Water Bottle,Accessories,East,5,15,106.25,32.62,Cash
+71,2025-01-22,Ishita,USB-C Hub,Electronics,East,3,5,156.75,62.46,UPI
+72,2025-01-22,Aisha,Water Bottle,Accessories,Central,1,0,25.0,10.98,Credit Card
+73,2025-01-22,Rahul,Premium Pen,Stationery,West,2,15,20.4,4.02,Net Banking
+74,2025-01-23,Meera,Mechanical Keyboard,Electronics,West,1,15,93.5,32.86,UPI
+75,2025-01-23,Diya,Smartphone X,Electronics,Central,4,15,2890.0,614.96,UPI
+76,2025-01-23,Vikram,Printer,Electronics,Central,4,8,772.8,285.04,Cash
+77,2025-01-24,Priya,Smart Watch,Accessories,Central,1,8,202.4,50.4,Net Banking
+78,2025-01-24,Ishita,Printer,Electronics,East,1,8,193.2,55.96,Cash
+79,2025-01-24,Nila,Premium Pen,Stationery,South,3,5,34.2,10.76,Debit Card
+80,2025-01-24,Vihaan,Standing Desk,Furniture,South,1,10,378.0,139.22,Net Banking
+81,2025-01-25,Priya,Desk Lamp,Furniture,East,1,3,46.56,19.45,Cash
+82,2025-01-25,Rahul,Premium Pen,Stationery,Central,2,3,23.28,5.48,Credit Card
+83,2025-01-25,Aarav,Monitor 27,Electronics,East,4,10,1188.0,346.52,Debit Card
+84,2025-01-26,Ishita,Water Bottle,Accessories,West,2,8,46.0,12.31,UPI
+85,2025-01-26,Rahul,Office Chair,Furniture,South,2,0,520.0,187.49,Net Banking
+86,2025-01-26,Rahul,Printer,Electronics,Central,1,10,189.0,47.7,Cash
+87,2025-01-27,Vikram,USB-C Hub,Electronics,South,1,15,46.75,11.08,Credit Card
+88,2025-01-27,Aditya,Office Chair,Furniture,West,2,3,504.4,164.02,Debit Card
+89,2025-01-27,Arjun,Water Bottle,Accessories,West,6,8,138.0,46.8,Credit Card
+90,2025-01-28,Arjun,Desk Lamp,Furniture,North,2,5,91.2,33.45,Credit Card
+91,2025-01-28,Ishita,Mechanical Keyboard,Electronics,South,1,0,110.0,33.78,Net Banking
+92,2025-01-28,Kavin,USB-C Hub,Electronics,East,1,3,53.35,17.22,UPI
+93,2025-01-28,Anaya,Smart Watch,Accessories,East,3,15,561.0,88.95,Credit Card
+94,2025-01-29,Rahul,Smart Watch,Accessories,West,1,5,209.0,58.86,UPI
+95,2025-01-29,Nila,Wireless Headphones,Electronics,Central,2,15,306.0,87.89,Credit Card
+96,2025-01-29,Priya,Water Bottle,Accessories,East,6,0,150.0,55.52,Credit Card
+97,2025-01-30,Aisha,Backpack,Accessories,North,3,0,195.0,49.65,Net Banking
+98,2025-01-30,Priya,Standing Desk,Furniture,South,3,8,1159.2,261.22,Cash
+99,2025-01-30,Vikram,USB-C Hub,Electronics,West,1,10,49.5,9.45,Cash
+100,2025-01-31,Arjun,Office Chair,Furniture,East,2,3,504.4,119.04,Net Banking
+101,2025-01-31,Rahul,Mechanical Keyboard,Electronics,East,3,10,297.0,69.18,Credit Card
+102,2025-01-31,Sara,Premium Pen,Stationery,East,4,3,46.56,14.78,Debit Card
+103,2025-01-31,Aarav,Office Chair,Furniture,Central,4,15,884.0,101.48,UPI
+104,2025-02-01,Ishita,Wireless Headphones,Electronics,West,1,8,165.6,46.37,Net Banking
+105,2025-02-01,Rahul,Premium Pen,Stationery,South,4,0,48.0,18.35,Debit Card
+106,2025-02-01,Sara,USB-C Hub,Electronics,West,2,8,101.2,26.7,Cash
+107,2025-02-02,Kavin,Standing Desk,Furniture,South,2,8,772.8,258.46,Credit Card
+108,2025-02-02,Anaya,Desk Lamp,Furniture,South,1,0,48.0,13.4,UPI
+109,2025-02-02,Nila,Desk Lamp,Furniture,North,2,15,81.6,15.78,UPI
+110,2025-02-03,Vihaan,Office Chair,Furniture,East,1,3,252.2,91.12,Credit Card
+111,2025-02-03,Aisha,Laptop Pro 14,Electronics,North,2,15,2040.0,198.86,Credit Card
+112,2025-02-03,Anaya,Smart Watch,Accessories,North,1,8,202.4,59.11,Debit Card
+113,2025-02-04,Arjun,Monitor 27,Electronics,Central,2,0,660.0,236.17,Credit Card
+114,2025-02-04,Arjun,Smartphone X,Electronics,South,1,10,765.0,111.95,Credit Card
+115,2025-02-04,Ishita,Backpack,Accessories,Central,3,10,175.5,41.51,Net Banking
+116,2025-02-04,Priya,Premium Pen,Stationery,East,5,5,57.0,12.13,Cash
+117,2025-02-05,Rohan,Smart Watch,Accessories,South,1,15,187.0,60.98,Debit Card
+118,2025-02-05,Arjun,USB-C Hub,Electronics,South,1,3,53.35,20.9,Credit Card
+119,2025-02-05,Diya,Notebook Set,Stationery,South,2,10,32.4,8.71,Debit Card
+120,2025-02-06,Ishita,Desk Lamp,Furniture,East,1,8,44.16,16.97,Cash
+121,2025-02-06,Ishita,USB-C Hub,Electronics,South,4,3,213.4,70.89,Debit Card
+122,2025-02-06,Nila,Monitor 27,Electronics,Central,1,0,330.0,135.91,Cash
+123,2025-02-07,Nila,Printer,Electronics,West,1,0,210.0,71.86,Debit Card
+124,2025-02-07,Diya,Backpack,Accessories,West,2,8,119.6,45.69,Debit Card
+125,2025-02-07,Aarav,Smart Watch,Accessories,East,1,0,220.0,87.42,Cash
+126,2025-02-07,Vikram,Laptop Pro 14,Electronics,East,3,3,3492.0,1122.43,UPI
+127,2025-02-08,Aisha,Smart Watch,Accessories,East,2,8,404.8,64.73,Net Banking
+128,2025-02-08,Aditya,Standing Desk,Furniture,West,2,0,840.0,212.29,Net Banking
+129,2025-02-08,Diya,Office Chair,Furniture,West,3,8,717.6,142.65,Credit Card
+130,2025-02-09,Rahul,Standing Desk,Furniture,Central,1,0,420.0,95.28,Credit Card
+131,2025-02-09,Rohan,USB-C Hub,Electronics,Central,4,8,202.4,60.49,Debit Card
+132,2025-02-09,Diya,Smart Watch,Accessories,South,3,15,561.0,130.9,Debit Card
+133,2025-02-10,Aisha,Backpack,Accessories,North,1,5,61.75,19.45,Credit Card
+134,2025-02-10,Nila,USB-C Hub,Electronics,Central,3,3,160.05,42.36,Credit Card
+135,2025-02-10,Meera,Backpack,Accessories,West,2,3,126.1,24.93,Credit Card
+136,2025-02-10,Nila,USB-C Hub,Electronics,Central,4,8,202.4,34.21,Debit Card
+137,2025-02-11,Vihaan,Notebook Set,Stationery,West,4,8,66.24,22.6,UPI
+138,2025-02-11,Arjun,Printer,Electronics,East,2,15,357.0,41.06,Net Banking
+139,2025-02-11,Aarav,Standing Desk,Furniture,East,5,10,1890.0,605.96,Debit Card
+140,2025-02-12,Vihaan,Monitor 27,Electronics,West,2,15,561.0,123.67,Cash
+141,2025-02-12,Rahul,Premium Pen,Stationery,West,2,10,21.6,4.19,Debit Card
+142,2025-02-12,Rahul,Monitor 27,Electronics,South,1,15,280.5,80.87,Net Banking
+143,2025-02-13,Rahul,Laptop Pro 14,Electronics,West,1,8,1104.0,249.36,UPI
+144,2025-02-13,Aditya,Premium Pen,Stationery,North,6,3,69.84,21.92,Net Banking
+145,2025-02-13,Vihaan,Wireless Headphones,Electronics,West,2,8,331.2,131.93,UPI
+146,2025-02-14,Rahul,Wireless Headphones,Electronics,North,2,5,342.0,115.97,Debit Card
+147,2025-02-14,Aditya,Monitor 27,Electronics,West,3,10,891.0,259.97,Cash
+148,2025-02-14,Nila,Laptop Pro 14,Electronics,South,3,3,3492.0,989.4,Credit Card
+149,2025-02-14,Meera,Notebook Set,Stationery,West,6,15,91.8,14.92,UPI
+150,2025-02-15,Diya,Desk Lamp,Furniture,East,1,0,48.0,21.09,Debit Card
+151,2025-02-15,Anaya,Standing Desk,Furniture,South,2,3,814.8,250.18,UPI
+152,2025-02-15,Ishita,Wireless Headphones,Electronics,West,3,8,496.8,122.83,Cash
+153,2025-02-16,Kavin,Smartphone X,Electronics,North,1,15,722.5,205.35,Net Banking
+154,2025-02-16,Vikram,Printer,Electronics,East,1,10,189.0,65.87,Cash
+155,2025-02-16,Vikram,Office Chair,Furniture,East,3,8,717.6,164.76,UPI
+156,2025-02-17,Sara,Notebook Set,Stationery,Central,4,0,72.0,28.47,Debit Card
+157,2025-02-17,Aarav,Desk Lamp,Furniture,Central,1,15,40.8,10.03,Credit Card
+158,2025-02-17,Nila,Printer,Electronics,South,3,8,579.6,112.42,Cash
+159,2025-02-17,Kavin,Water Bottle,Accessories,South,2,15,42.5,12.81,Credit Card
+160,2025-02-18,Vikram,Printer,Electronics,North,3,0,630.0,238.74,Cash
+161,2025-02-18,Aditya,Standing Desk,Furniture,West,3,0,1260.0,303.39,UPI
+162,2025-02-18,Sara,Mechanical Keyboard,Electronics,Central,1,10,99.0,16.33,Cash
+163,2025-02-19,Aisha,Printer,Electronics,East,1,3,203.7,75.79,Debit Card
+164,2025-02-19,Ishita,Water Bottle,Accessories,West,1,0,25.0,10.44,Cash
+165,2025-02-19,Meera,Standing Desk,Furniture,West,1,8,386.4,154.06,Debit Card
+166,2025-02-20,Sara,USB-C Hub,Electronics,North,3,5,156.75,43.82,UPI
+167,2025-02-20,Ishita,Premium Pen,Stationery,North,1,10,10.8,3.29,Net Banking
+168,2025-02-20,Vihaan,Printer,Electronics,North,3,15,535.5,129.84,Credit Card
+169,2025-02-21,Vihaan,Office Chair,Furniture,West,6,0,1560.0,667.13,Net Banking
+170,2025-02-21,Priya,Standing Desk,Furniture,Central,3,15,1071.0,176.16,UPI
+171,2025-02-21,Priya,Printer,Electronics,East,2,0,420.0,108.47,Credit Card
+172,2025-02-21,Ishita,Desk Lamp,Furniture,East,2,8,88.32,25.7,Credit Card
+173,2025-02-22,Rahul,USB-C Hub,Electronics,East,2,15,93.5,23.93,UPI
+174,2025-02-22,Rohan,Wireless Headphones,Electronics,Central,5,8,828.0,314.02,Credit Card
+175,2025-02-22,Rohan,Laptop Pro 14,Electronics,North,4,3,4656.0,924.34,Cash
+176,2025-02-23,Vihaan,Mechanical Keyboard,Electronics,Central,2,3,213.4,75.77,Credit Card
+177,2025-02-23,Kavin,Office Chair,Furniture,South,4,3,1008.8,200.58,Credit Card
+178,2025-02-23,Ishita,USB-C Hub,Electronics,Central,4,3,213.4,91.65,Debit Card
+179,2025-02-24,Priya,Laptop Pro 14,Electronics,Central,1,0,1200.0,505.01,Credit Card
+180,2025-02-24,Meera,Desk Lamp,Furniture,West,1,8,44.16,9.17,Cash
+181,2025-02-24,Nila,Mechanical Keyboard,Electronics,West,5,0,550.0,155.5,Credit Card
+182,2025-02-24,Meera,Laptop Pro 14,Electronics,West,6,8,6624.0,1958.09,Net Banking
+183,2025-02-25,Arjun,Wireless Headphones,Electronics,South,5,5,855.0,234.08,Debit Card
+184,2025-02-25,Rahul,Smart Watch,Accessories,Central,3,10,594.0,122.9,Cash
+185,2025-02-25,Meera,Office Chair,Furniture,Central,2,10,468.0,130.55,UPI
+186,2025-02-26,Vikram,Notebook Set,Stationery,West,2,3,34.92,11.69,Net Banking
+187,2025-02-26,Kavin,Desk Lamp,Furniture,East,1,8,44.16,14.31,UPI
+188,2025-02-26,Arjun,USB-C Hub,Electronics,North,5,0,275.0,117.98,Net Banking
+189,2025-02-27,Diya,Wireless Headphones,Electronics,Central,3,5,513.0,115.18,Cash
+190,2025-02-27,Priya,Backpack,Accessories,North,2,0,130.0,46.22,Debit Card
+191,2025-02-27,Rohan,Smart Watch,Accessories,South,1,0,220.0,69.76,Net Banking
+192,2025-02-27,Sara,Mechanical Keyboard,Electronics,North,4,5,418.0,90.45,Debit Card
+193,2025-02-28,Aarav,Smart Watch,Accessories,Central,1,8,202.4,38.64,Debit Card
+194,2025-02-28,Aditya,Laptop Pro 14,Electronics,East,1,15,1020.0,149.57,Credit Card
+195,2025-02-28,Arjun,Smartphone X,Electronics,South,4,10,3060.0,675.96,Credit Card
+196,2025-03-01,Vikram,Wireless Headphones,Electronics,East,3,3,523.8,180.08,UPI
+197,2025-03-01,Arjun,Standing Desk,Furniture,North,1,5,399.0,92.96,UPI
+198,2025-03-01,Kavin,Smartphone X,Electronics,West,3,0,2550.0,752.22,Net Banking
+199,2025-03-02,Meera,Premium Pen,Stationery,East,3,8,33.12,11.06,Net Banking
+200,2025-03-02,Nila,Wireless Headphones,Electronics,North,1,15,153.0,29.44,UPI
+201,2025-03-02,Nila,Notebook Set,Stationery,South,6,0,108.0,48.41,UPI
+202,2025-03-03,Aisha,Water Bottle,Accessories,West,1,5,23.75,9.31,UPI
+203,2025-03-03,Sara,Smartphone X,Electronics,North,2,15,1445.0,420.03,Net Banking
+204,2025-03-03,Arjun,Monitor 27,Electronics,East,3,8,910.8,362.03,Cash
+205,2025-03-03,Nila,Notebook Set,Stationery,North,2,15,30.6,5.5,Net Banking
+206,2025-03-04,Vikram,Laptop Pro 14,Electronics,East,6,3,6984.0,1697.01,Credit Card
+207,2025-03-04,Rahul,Notebook Set,Stationery,Central,4,3,69.84,23.03,Credit Card
+208,2025-03-04,Aditya,Notebook Set,Stationery,South,4,15,61.2,15.98,Credit Card
+209,2025-03-05,Sara,Backpack,Accessories,East,3,10,175.5,45.38,UPI
+210,2025-03-05,Vihaan,Mechanical Keyboard,Electronics,North,1,5,104.5,39.01,UPI
+211,2025-03-05,Vikram,Water Bottle,Accessories,Central,3,8,69.0,14.74,Cash
+212,2025-03-06,Vikram,Standing Desk,Furniture,North,4,15,1428.0,381.84,Net Banking
+213,2025-03-06,Sara,Premium Pen,Stationery,Central,3,5,34.2,9.5,Credit Card
+214,2025-03-06,Nila,Office Chair,Furniture,North,2,0,520.0,227.2,Credit Card
+215,2025-03-06,Diya,Smart Watch,Accessories,West,2,8,404.8,115.97,Cash
+216,2025-03-07,Vihaan,USB-C Hub,Electronics,North,1,10,49.5,13.23,Net Banking
+217,2025-03-07,Arjun,Wireless Headphones,Electronics,Central,4,5,684.0,125.32,UPI
+218,2025-03-07,Anaya,Laptop Pro 14,Electronics,East,1,8,1104.0,170.49,Debit Card
+219,2025-03-08,Diya,Printer,Electronics,East,1,8,193.2,40.29,Credit Card
+220,2025-03-08,Kavin,Standing Desk,Furniture,Central,1,15,357.0,88.66,UPI
+221,2025-03-08,Sara,Standing Desk,Furniture,East,1,15,357.0,112.34,Net Banking
+222,2025-03-09,Rahul,Smartphone X,Electronics,East,2,0,1700.0,643.95,UPI
+223,2025-03-09,Arjun,USB-C Hub,Electronics,West,3,15,140.25,11.66,Cash
+224,2025-03-09,Rohan,Standing Desk,Furniture,East,1,5,399.0,150.59,Net Banking
+225,2025-03-10,Nila,Mechanical Keyboard,Electronics,North,1,3,106.7,42.28,Cash
+226,2025-03-10,Diya,Water Bottle,Accessories,East,2,15,42.5,4.84,Cash
+227,2025-03-10,Anaya,Smartphone X,Electronics,West,2,3,1649.0,650.56,Credit Card
+228,2025-03-10,Vikram,Notebook Set,Stationery,Central,2,15,30.6,8.83,Debit Card
+229,2025-03-11,Ishita,Water Bottle,Accessories,East,3,8,69.0,23.71,Net Banking
+230,2025-03-11,Vikram,Printer,Electronics,West,4,5,798.0,204.95,Debit Card
+231,2025-03-11,Anaya,Water Bottle,Accessories,South,2,10,45.0,12.69,Cash
+232,2025-03-12,Sara,Smartphone X,Electronics,Central,4,0,3400.0,1028.6,Credit Card
+233,2025-03-12,Anaya,Desk Lamp,Furniture,East,4,0,192.0,73.81,Net Banking
+234,2025-03-12,Ishita,Printer,Electronics,West,2,8,386.4,146.54,Debit Card
+235,2025-03-13,Sara,Printer,Electronics,South,1,0,210.0,75.35,Net Banking
+236,2025-03-13,Meera,Wireless Headphones,Electronics,East,2,0,360.0,135.61,UPI
+237,2025-03-13,Vihaan,Smartphone X,Electronics,West,1,8,782.0,178.42,Net Banking
+238,2025-03-13,Rohan,Smart Watch,Accessories,South,1,0,220.0,98.04,Cash
+239,2025-03-14,Nila,Desk Lamp,Furniture,South,3,8,132.48,49.6,Debit Card
+240,2025-03-14,Vikram,Wireless Headphones,Electronics,North,1,8,165.6,40.15,Credit Card
+241,2025-03-14,Ishita,Monitor 27,Electronics,South,5,10,1485.0,374.07,Debit Card
+242,2025-03-15,Priya,Notebook Set,Stationery,South,1,5,17.1,6.2,Credit Card
+243,2025-03-15,Aarav,Backpack,Accessories,West,6,0,390.0,89.98,Net Banking
+244,2025-03-15,Aarav,Laptop Pro 14,Electronics,East,3,5,3420.0,1229.98,Credit Card
+245,2025-03-16,Aditya,Standing Desk,Furniture,South,1,15,357.0,65.31,Credit Card
+246,2025-03-16,Vikram,Standing Desk,Furniture,West,2,15,714.0,218.17,UPI
+247,2025-03-16,Vikram,Water Bottle,Accessories,North,1,15,21.25,3.04,Debit Card
+248,2025-03-16,Aditya,Mechanical Keyboard,Electronics,East,1,3,106.7,23.79,Cash
+249,2025-03-17,Diya,Notebook Set,Stationery,South,6,10,97.2,26.04,Debit Card
+250,2025-03-17,Aditya,Standing Desk,Furniture,East,4,0,1680.0,421.46,Credit Card
+251,2025-03-17,Rahul,Water Bottle,Accessories,East,2,8,46.0,9.95,UPI
+252,2025-03-18,Kavin,Premium Pen,Stationery,North,3,5,34.2,6.75,Net Banking
+253,2025-03-18,Aditya,Wireless Headphones,Electronics,North,2,3,349.2,106.03,Credit Card
+254,2025-03-18,Priya,Standing Desk,Furniture,South,3,5,1197.0,374.77,Net Banking
+255,2025-03-19,Sara,Standing Desk,Furniture,Central,2,15,714.0,83.91,Net Banking
+256,2025-03-19,Rahul,Office Chair,Furniture,East,3,0,780.0,337.54,Cash
+257,2025-03-19,Vihaan,Water Bottle,Accessories,Central,3,3,72.75,15.06,Net Banking
+258,2025-03-20,Sara,Laptop Pro 14,Electronics,East,1,3,1164.0,289.13,Net Banking
+259,2025-03-20,Sara,Smart Watch,Accessories,East,1,3,213.4,58.04,Net Banking
+260,2025-03-20,Rahul,Water Bottle,Accessories,East,1,3,24.25,7.46,Debit Card
+261,2025-03-20,Aisha,Mechanical Keyboard,Electronics,Central,6,0,660.0,185.32,Net Banking
+262,2025-03-21,Vikram,Printer,Electronics,South,2,5,399.0,93.14,Cash
+263,2025-03-21,Vihaan,Office Chair,Furniture,North,3,8,717.6,252.69,Net Banking
+264,2025-03-21,Aditya,Smartphone X,Electronics,East,5,8,3910.0,597.68,Credit Card
+265,2025-03-22,Anaya,Backpack,Accessories,East,2,5,123.5,26.54,Cash
+266,2025-03-22,Ishita,Mechanical Keyboard,Electronics,West,1,3,106.7,26.16,Credit Card
+267,2025-03-22,Vihaan,Standing Desk,Furniture,Central,2,5,798.0,245.7,Credit Card
+268,2025-03-23,Priya,Wireless Headphones,Electronics,West,1,15,153.0,24.24,Cash
+269,2025-03-23,Vikram,Wireless Headphones,Electronics,West,1,5,171.0,45.41,Cash
+270,2025-03-23,Anaya,Standing Desk,Furniture,South,1,10,378.0,85.2,Net Banking
+271,2025-03-23,Vihaan,Backpack,Accessories,East,5,0,325.0,84.1,UPI
+272,2025-03-24,Nila,Smartphone X,Electronics,North,2,15,1445.0,421.84,Debit Card
+273,2025-03-24,Nila,Mechanical Keyboard,Electronics,Central,3,10,297.0,94.67,Cash
+274,2025-03-24,Vihaan,Wireless Headphones,Electronics,South,2,3,349.2,102.2,Cash
+275,2025-03-25,Diya,Desk Lamp,Furniture,North,5,5,228.0,49.49,Credit Card
+276,2025-03-25,Rohan,Laptop Pro 14,Electronics,Central,5,10,5400.0,1734.77,Net Banking
+277,2025-03-25,Nila,Smart Watch,Accessories,East,3,8,607.2,109.25,Net Banking
+278,2025-03-26,Vikram,Mechanical Keyboard,Electronics,North,4,15,374.0,90.9,Credit Card
+279,2025-03-26,Aditya,Smartphone X,Electronics,Central,2,8,1564.0,447.4,UPI
+280,2025-03-26,Sara,Standing Desk,Furniture,West,4,5,1596.0,388.31,UPI
+281,2025-03-27,Ishita,Water Bottle,Accessories,West,2,10,45.0,16.28,Credit Card
+282,2025-03-27,Nila,Office Chair,Furniture,West,2,3,504.4,206.82,Cash
+283,2025-03-27,Aditya,Notebook Set,Stationery,South,1,3,17.46,4.19,UPI
+284,2025-03-27,Nila,Premium Pen,Stationery,West,6,8,66.24,18.38,Credit Card
+285,2025-03-28,Ishita,Wireless Headphones,Electronics,South,5,10,810.0,220.35,Cash
+286,2025-03-28,Aisha,Standing Desk,Furniture,East,1,5,399.0,120.19,Cash
+287,2025-03-28,Kavin,Laptop Pro 14,Electronics,East,4,8,4416.0,1628.14,Net Banking
+288,2025-03-29,Rohan,Standing Desk,Furniture,East,1,0,420.0,133.91,Cash
+289,2025-03-29,Kavin,Office Chair,Furniture,Central,1,10,234.0,64.07,Cash
+290,2025-03-29,Aditya,Wireless Headphones,Electronics,Central,1,0,180.0,64.69,Debit Card
+291,2025-03-30,Diya,Water Bottle,Accessories,North,1,10,22.5,5.82,Credit Card
+292,2025-03-30,Vihaan,Smartphone X,Electronics,Central,3,8,2346.0,638.91,Cash
+293,2025-03-30,Rahul,Smartphone X,Electronics,Central,2,10,1530.0,470.45,Debit Card
+294,2025-03-30,Nila,Smart Watch,Accessories,West,2,10,396.0,100.13,Credit Card
+295,2025-03-31,Nila,Standing Desk,Furniture,North,2,0,840.0,188.68,Cash
+296,2025-03-31,Ishita,Premium Pen,Stationery,North,1,15,10.2,1.44,Cash
+297,2025-03-31,Rahul,Premium Pen,Stationery,South,1,15,10.2,1.61,UPI
+298,2025-04-01,Aarav,Laptop Pro 14,Electronics,West,2,15,2040.0,659.34,Debit Card
+299,2025-04-01,Aisha,Notebook Set,Stationery,North,1,15,15.3,4.56,UPI
+300,2025-04-01,Aisha,Backpack,Accessories,Central,1,5,61.75,11.08,Net Banking
+301,2025-04-02,Aditya,Standing Desk,Furniture,Central,6,8,2318.4,403.73,Debit Card
+302,2025-04-02,Kavin,USB-C Hub,Electronics,Central,3,15,140.25,23.67,Net Banking
+303,2025-04-02,Ishita,Mechanical Keyboard,Electronics,East,6,5,627.0,179.28,Debit Card
+304,2025-04-02,Aisha,Desk Lamp,Furniture,East,1,15,40.8,9.0,Cash
+305,2025-04-03,Meera,Printer,Electronics,Central,5,15,892.5,248.96,Cash
+306,2025-04-03,Vihaan,Notebook Set,Stationery,East,5,8,82.8,16.36,Credit Card
+307,2025-04-03,Vikram,Office Chair,Furniture,East,6,0,1560.0,577.72,Net Banking
+308,2025-04-04,Kavin,Mechanical Keyboard,Electronics,South,1,10,99.0,31.64,Credit Card
+309,2025-04-04,Ishita,Smart Watch,Accessories,South,3,3,640.2,240.39,Credit Card
+310,2025-04-04,Vihaan,Wireless Headphones,Electronics,North,2,15,306.0,68.88,Cash
+311,2025-04-05,Aisha,Printer,Electronics,West,1,15,178.5,17.84,UPI
+312,2025-04-05,Diya,Water Bottle,Accessories,North,6,5,142.5,50.15,Cash
+313,2025-04-05,Diya,Mechanical Keyboard,Electronics,South,2,15,187.0,22.97,Net Banking
+314,2025-04-06,Rahul,Printer,Electronics,West,4,0,840.0,185.35,UPI
+315,2025-04-06,Aarav,Printer,Electronics,East,3,5,598.5,124.96,Cash
+316,2025-04-06,Aisha,Smart Watch,Accessories,South,1,5,209.0,73.6,Cash
+317,2025-04-06,Vikram,Premium Pen,Stationery,East,1,0,12.0,4.49,UPI
+318,2025-04-07,Rohan,Laptop Pro 14,Electronics,South,3,5,3420.0,969.88,Cash
+319,2025-04-07,Aditya,Monitor 27,Electronics,North,3,8,910.8,177.99,Net Banking
+320,2025-04-07,Ishita,USB-C Hub,Electronics,North,1,3,53.35,17.06,Debit Card
+321,2025-04-08,Nila,Notebook Set,Stationery,Central,1,5,17.1,3.25,Cash
+322,2025-04-08,Diya,Laptop Pro 14,Electronics,North,1,5,1140.0,288.8,Net Banking
+323,2025-04-08,Nila,Office Chair,Furniture,North,1,15,221.0,47.95,Debit Card
+324,2025-04-09,Aisha,Standing Desk,Furniture,South,3,3,1222.2,251.76,Net Banking
+325,2025-04-09,Aisha,Desk Lamp,Furniture,Central,6,5,273.6,87.65,UPI
+326,2025-04-09,Arjun,Water Bottle,Accessories,Central,1,10,22.5,3.73,Net Banking
+327,2025-04-09,Meera,Backpack,Accessories,North,3,0,195.0,46.61,Cash
+328,2025-04-10,Anaya,Printer,Electronics,East,2,10,378.0,95.16,Cash
+329,2025-04-10,Aisha,Premium Pen,Stationery,North,1,3,11.64,3.06,Cash
+330,2025-04-10,Priya,Premium Pen,Stationery,West,4,8,44.16,16.3,Cash
+331,2025-04-11,Aarav,Laptop Pro 14,Electronics,West,2,15,2040.0,274.58,Debit Card
+332,2025-04-11,Diya,Monitor 27,Electronics,West,1,3,320.1,94.71,Debit Card
+333,2025-04-11,Arjun,Desk Lamp,Furniture,West,1,0,48.0,11.28,Credit Card
+334,2025-04-12,Priya,Office Chair,Furniture,East,2,3,504.4,126.81,Net Banking
+335,2025-04-12,Vihaan,Premium Pen,Stationery,East,4,8,44.16,13.61,Credit Card
+336,2025-04-12,Ishita,Smartphone X,Electronics,North,6,8,4692.0,1266.67,Credit Card
+337,2025-04-13,Rahul,Office Chair,Furniture,South,2,15,442.0,90.88,UPI
+338,2025-04-13,Meera,Premium Pen,Stationery,North,2,5,22.8,8.56,Net Banking
+339,2025-04-13,Arjun,Smart Watch,Accessories,North,3,0,660.0,260.47,Cash
+340,2025-04-13,Diya,Laptop Pro 14,Electronics,South,2,15,2040.0,331.79,Credit Card
+341,2025-04-14,Diya,Notebook Set,Stationery,South,2,10,32.4,10.8,Cash
+342,2025-04-14,Aditya,Office Chair,Furniture,South,1,15,221.0,43.55,Debit Card
+343,2025-04-14,Priya,Printer,Electronics,East,1,15,178.5,37.82,Debit Card
+344,2025-04-15,Anaya,Laptop Pro 14,Electronics,West,2,10,2160.0,354.4,Cash
+345,2025-04-15,Rahul,Premium Pen,Stationery,Central,1,5,11.4,2.2,Debit Card
+346,2025-04-15,Anaya,Desk Lamp,Furniture,Central,2,3,93.12,33.7,Net Banking
+347,2025-04-16,Vihaan,Mechanical Keyboard,Electronics,West,4,5,418.0,89.22,Credit Card
+348,2025-04-16,Vihaan,Backpack,Accessories,West,2,8,119.6,31.44,UPI
+349,2025-04-16,Vikram,Office Chair,Furniture,East,1,15,221.0,73.27,Credit Card
+350,2025-04-16,Rahul,Backpack,Accessories,Central,3,3,189.15,79.59,Cash
+351,2025-04-17,Rohan,Laptop Pro 14,Electronics,West,4,3,4656.0,1127.67,UPI
+352,2025-04-17,Aarav,Monitor 27,Electronics,South,5,5,1567.5,296.81,UPI
+353,2025-04-17,Rohan,Desk Lamp,Furniture,West,1,8,44.16,7.66,UPI
+354,2025-04-18,Sara,Backpack,Accessories,East,2,5,123.5,40.62,Debit Card
+355,2025-04-18,Aisha,Standing Desk,Furniture,East,2,8,772.8,220.77,UPI
+356,2025-04-18,Ishita,Standing Desk,Furniture,South,1,0,420.0,134.66,Credit Card
+357,2025-04-19,Priya,Office Chair,Furniture,East,2,10,468.0,112.73,UPI
+358,2025-04-19,Ishita,Mechanical Keyboard,Electronics,West,2,8,202.4,52.57,Cash
+359,2025-04-19,Aisha,USB-C Hub,Electronics,West,5,5,261.25,93.72,Net Banking
+360,2025-04-19,Aisha,Smartphone X,Electronics,South,3,5,2422.5,920.73,Cash
+361,2025-04-20,Arjun,USB-C Hub,Electronics,North,6,10,297.0,112.93,Credit Card
+362,2025-04-20,Vihaan,Notebook Set,Stationery,North,1,15,15.3,4.44,UPI
+363,2025-04-20,Aisha,Backpack,Accessories,West,2,0,130.0,40.03,Credit Card
+364,2025-04-21,Kavin,Laptop Pro 14,Electronics,Central,2,8,2208.0,881.46,Debit Card
+365,2025-04-21,Anaya,Laptop Pro 14,Electronics,North,2,15,2040.0,347.93,Credit Card
+366,2025-04-21,Kavin,Backpack,Accessories,East,1,3,63.05,18.03,Debit Card
+367,2025-04-22,Vikram,Water Bottle,Accessories,Central,2,5,47.5,8.97,UPI
+368,2025-04-22,Arjun,Desk Lamp,Furniture,North,1,15,40.8,5.26,Credit Card
+369,2025-04-22,Aarav,Notebook Set,Stationery,South,2,10,32.4,8.66,Credit Card
+370,2025-04-23,Meera,Premium Pen,Stationery,Central,4,15,40.8,5.74,Credit Card
+371,2025-04-23,Aisha,Mechanical Keyboard,Electronics,East,1,15,93.5,10.54,Credit Card
+372,2025-04-23,Diya,Printer,Electronics,South,1,5,199.5,40.56,Debit Card
+373,2025-04-23,Rahul,Laptop Pro 14,Electronics,North,6,10,6480.0,2281.22,Debit Card
+374,2025-04-24,Rahul,Smartphone X,Electronics,Central,2,10,1530.0,268.65,Debit Card
+375,2025-04-24,Arjun,Notebook Set,Stationery,Central,3,3,52.38,12.86,Debit Card
+376,2025-04-24,Aditya,Laptop Pro 14,Electronics,Central,1,3,1164.0,272.53,Cash
+377,2025-04-25,Kavin,Smart Watch,Accessories,West,2,5,418.0,173.0,Net Banking
+378,2025-04-25,Rahul,Mechanical Keyboard,Electronics,North,2,8,202.4,59.55,Cash
+379,2025-04-25,Kavin,Office Chair,Furniture,South,4,15,884.0,294.42,Net Banking
+380,2025-04-26,Aditya,Desk Lamp,Furniture,East,4,3,186.24,47.98,Credit Card
+381,2025-04-26,Kavin,Wireless Headphones,Electronics,North,1,5,171.0,53.59,UPI
+382,2025-04-26,Priya,Wireless Headphones,Electronics,North,1,8,165.6,43.54,Credit Card
+383,2025-04-26,Aditya,Wireless Headphones,Electronics,West,2,0,360.0,112.57,Credit Card
+384,2025-04-27,Ishita,Office Chair,Furniture,Central,2,0,520.0,147.31,Cash
+385,2025-04-27,Nila,Smartphone X,Electronics,East,3,3,2473.5,989.57,Net Banking
+386,2025-04-27,Nila,Smartphone X,Electronics,West,1,8,782.0,260.55,Credit Card
+387,2025-04-28,Aisha,Standing Desk,Furniture,Central,1,3,407.4,106.76,Cash
+388,2025-04-28,Rahul,Mechanical Keyboard,Electronics,East,2,3,213.4,76.98,Cash
+389,2025-04-28,Priya,Notebook Set,Stationery,Central,4,5,68.4,21.51,UPI
+390,2025-04-29,Aditya,Office Chair,Furniture,South,2,15,442.0,131.98,Net Banking
+391,2025-04-29,Ishita,Standing Desk,Furniture,East,1,15,357.0,64.86,Net Banking
+392,2025-04-29,Rohan,Office Chair,Furniture,Central,4,8,956.8,297.49,Cash
+393,2025-04-30,Vikram,Smartphone X,Electronics,South,3,10,2295.0,876.71,Net Banking
+394,2025-04-30,Priya,Water Bottle,Accessories,West,1,15,21.25,7.1,UPI
+395,2025-04-30,Priya,USB-C Hub,Electronics,West,1,5,52.25,13.67,Credit Card
+396,2025-04-30,Priya,Premium Pen,Stationery,Central,6,8,66.24,17.0,Credit Card
+397,2025-05-01,Arjun,Water Bottle,Accessories,North,6,15,127.5,14.11,UPI
+398,2025-05-01,Diya,USB-C Hub,Electronics,Central,3,3,160.05,44.75,Net Banking
+399,2025-05-01,Meera,Water Bottle,Accessories,East,2,8,46.0,17.28,UPI
+400,2025-05-02,Ishita,Backpack,Accessories,West,3,10,175.5,42.21,Debit Card
+401,2025-05-02,Vihaan,Notebook Set,Stationery,East,2,15,30.6,5.93,Credit Card
+402,2025-05-02,Arjun,Premium Pen,Stationery,North,1,8,11.04,1.9,UPI
+403,2025-05-03,Aisha,Standing Desk,Furniture,East,1,8,386.4,79.64,Net Banking
+404,2025-05-03,Arjun,Wireless Headphones,Electronics,East,2,15,306.0,70.54,Credit Card
+405,2025-05-03,Meera,Water Bottle,Accessories,South,3,0,75.0,19.1,UPI
+406,2025-05-03,Priya,Backpack,Accessories,West,1,3,63.05,22.35,UPI
+407,2025-05-04,Priya,Water Bottle,Accessories,West,2,3,48.5,18.86,Credit Card
+408,2025-05-04,Priya,Desk Lamp,Furniture,West,3,3,139.68,45.59,Credit Card
+409,2025-05-04,Arjun,Desk Lamp,Furniture,Central,1,5,45.6,10.89,Credit Card
+410,2025-05-05,Rohan,Water Bottle,Accessories,West,4,3,97.0,33.59,Credit Card
+411,2025-05-05,Aditya,Office Chair,Furniture,Central,3,8,717.6,193.93,Net Banking
+412,2025-05-05,Vikram,Smart Watch,Accessories,Central,2,0,440.0,162.79,UPI
+413,2025-05-06,Arjun,Monitor 27,Electronics,South,3,5,940.5,186.82,Debit Card
+414,2025-05-06,Vihaan,Wireless Headphones,Electronics,Central,1,0,180.0,73.42,Net Banking
+415,2025-05-06,Anaya,Notebook Set,Stationery,West,2,10,32.4,9.42,Cash
+416,2025-05-06,Aisha,Desk Lamp,Furniture,East,5,3,232.8,70.17,UPI
+417,2025-05-07,Sara,Smartphone X,Electronics,North,1,8,782.0,193.41,Net Banking
+418,2025-05-07,Aisha,Smartphone X,Electronics,West,1,8,782.0,126.07,Net Banking
+419,2025-05-07,Arjun,Notebook Set,Stationery,Central,3,8,49.68,13.91,Credit Card
+420,2025-05-08,Ishita,Water Bottle,Accessories,Central,3,5,71.25,29.44,Debit Card
+421,2025-05-08,Aisha,Smartphone X,Electronics,Central,4,10,3060.0,609.35,Cash
+422,2025-05-08,Sara,Wireless Headphones,Electronics,Central,2,5,342.0,79.82,Credit Card
+423,2025-05-09,Priya,Water Bottle,Accessories,North,3,10,67.5,22.48,UPI
+424,2025-05-09,Sara,Office Chair,Furniture,North,4,0,1040.0,360.42,Net Banking
+425,2025-05-09,Sara,Monitor 27,Electronics,Central,6,3,1920.6,736.02,Net Banking
+426,2025-05-10,Diya,Smartphone X,Electronics,Central,3,3,2473.5,593.86,Debit Card
+427,2025-05-10,Nila,Backpack,Accessories,East,1,10,58.5,20.23,Cash
+428,2025-05-10,Meera,Office Chair,Furniture,South,6,10,1404.0,192.41,Net Banking
+429,2025-05-10,Vihaan,Printer,Electronics,South,1,5,199.5,42.12,UPI
+430,2025-05-11,Rahul,Smartphone X,Electronics,West,3,3,2473.5,624.4,UPI
+431,2025-05-11,Vikram,Smart Watch,Accessories,North,3,15,561.0,135.12,Credit Card
+432,2025-05-11,Sara,Notebook Set,Stationery,West,2,5,34.2,8.65,Net Banking
+433,2025-05-12,Vikram,Standing Desk,Furniture,East,2,15,714.0,234.01,Credit Card
+434,2025-05-12,Rohan,Water Bottle,Accessories,West,2,3,48.5,9.87,Debit Card
+435,2025-05-12,Vihaan,Standing Desk,Furniture,Central,4,5,1596.0,460.52,Net Banking
+436,2025-05-13,Diya,Water Bottle,Accessories,North,2,15,42.5,6.23,Net Banking
+437,2025-05-13,Aarav,Laptop Pro 14,Electronics,West,1,3,1164.0,382.21,UPI
+438,2025-05-13,Kavin,Desk Lamp,Furniture,North,5,15,204.0,55.34,Debit Card
+439,2025-05-13,Anaya,Office Chair,Furniture,North,1,15,221.0,23.95,Net Banking
+440,2025-05-14,Priya,USB-C Hub,Electronics,North,1,15,46.75,6.95,Credit Card
+441,2025-05-14,Ishita,Laptop Pro 14,Electronics,Central,1,0,1200.0,503.37,Net Banking
+442,2025-05-14,Priya,Laptop Pro 14,Electronics,South,1,5,1140.0,254.48,Net Banking
+443,2025-05-15,Meera,Wireless Headphones,Electronics,North,1,0,180.0,50.75,Debit Card
+444,2025-05-15,Vihaan,Standing Desk,Furniture,South,4,3,1629.6,557.72,Credit Card
+445,2025-05-15,Vikram,Backpack,Accessories,East,2,10,117.0,26.06,UPI
+446,2025-05-16,Vikram,USB-C Hub,Electronics,South,3,8,151.8,37.67,Credit Card
+447,2025-05-16,Rahul,Printer,Electronics,East,1,0,210.0,66.02,Net Banking
+448,2025-05-16,Arjun,Standing Desk,Furniture,South,4,3,1629.6,598.58,Cash
+449,2025-05-17,Aarav,Smart Watch,Accessories,East,3,10,594.0,187.75,UPI
+450,2025-05-17,Nila,Backpack,Accessories,North,3,3,189.15,48.36,UPI
+451,2025-05-17,Arjun,Premium Pen,Stationery,Central,2,3,23.28,7.32,Credit Card
+452,2025-05-17,Priya,Standing Desk,Furniture,East,5,3,2037.0,695.16,Cash
+453,2025-05-18,Arjun,USB-C Hub,Electronics,North,1,8,50.6,8.28,Cash
+454,2025-05-18,Diya,Wireless Headphones,Electronics,West,1,3,174.6,73.95,Cash
+455,2025-05-18,Priya,Office Chair,Furniture,West,3,10,702.0,135.38,Credit Card
+456,2025-05-19,Arjun,USB-C Hub,Electronics,East,2,10,99.0,34.64,Credit Card
+457,2025-05-19,Rahul,Backpack,Accessories,Central,5,3,315.25,96.4,Credit Card
+458,2025-05-19,Ishita,Office Chair,Furniture,North,3,15,663.0,62.96,UPI
+459,2025-05-20,Diya,Wireless Headphones,Electronics,East,5,0,900.0,311.15,UPI
+460,2025-05-20,Anaya,Wireless Headphones,Electronics,West,1,3,174.6,46.56,Debit Card
+461,2025-05-20,Sara,Backpack,Accessories,South,2,15,110.5,31.25,Debit Card
+462,2025-05-20,Priya,Desk Lamp,Furniture,East,4,0,192.0,71.61,Cash
+463,2025-05-21,Aisha,Wireless Headphones,Electronics,West,1,10,162.0,37.02,Cash
+464,2025-05-21,Anaya,Standing Desk,Furniture,East,1,10,378.0,130.88,Credit Card
+465,2025-05-21,Aarav,Printer,Electronics,North,2,15,357.0,114.86,Credit Card
+466,2025-05-22,Vihaan,Mechanical Keyboard,Electronics,South,1,5,104.5,34.31,Credit Card
+467,2025-05-22,Priya,Backpack,Accessories,South,4,15,221.0,33.71,Debit Card
+468,2025-05-22,Arjun,Mechanical Keyboard,Electronics,Central,2,15,187.0,49.81,Debit Card
+469,2025-05-23,Diya,Wireless Headphones,Electronics,West,2,0,360.0,147.15,Credit Card
+470,2025-05-23,Nila,Printer,Electronics,East,2,5,399.0,93.28,Credit Card
+471,2025-05-23,Nila,Backpack,Accessories,Central,2,5,123.5,46.0,UPI
+472,2025-05-23,Rohan,Premium Pen,Stationery,Central,2,8,22.08,3.37,UPI
+473,2025-05-24,Sara,Smartphone X,Electronics,North,1,8,782.0,309.83,Debit Card
+474,2025-05-24,Nila,Laptop Pro 14,Electronics,North,3,8,3312.0,629.02,UPI
+475,2025-05-24,Diya,Backpack,Accessories,South,6,8,358.8,100.17,Debit Card
+476,2025-05-25,Priya,Wireless Headphones,Electronics,East,1,3,174.6,38.45,Net Banking
+477,2025-05-25,Rahul,Desk Lamp,Furniture,North,1,0,48.0,16.02,Cash
+478,2025-05-25,Ishita,Smart Watch,Accessories,East,1,15,187.0,17.21,Debit Card
+479,2025-05-26,Aditya,Monitor 27,Electronics,East,1,8,303.6,68.91,Net Banking
+480,2025-05-26,Meera,Office Chair,Furniture,South,1,3,252.2,101.06,Credit Card
+481,2025-05-26,Sara,Smartphone X,Electronics,South,2,5,1615.0,521.05,Net Banking
+482,2025-05-27,Nila,Office Chair,Furniture,Central,2,0,520.0,223.19,Credit Card
+483,2025-05-27,Ishita,Mechanical Keyboard,Electronics,East,4,5,418.0,160.99,Net Banking
+484,2025-05-27,Anaya,Backpack,Accessories,North,1,5,61.75,22.11,Net Banking
+485,2025-05-27,Meera,Monitor 27,Electronics,West,2,15,561.0,114.49,Credit Card
+486,2025-05-28,Ishita,Water Bottle,Accessories,South,4,0,100.0,44.72,UPI
+487,2025-05-28,Arjun,Monitor 27,Electronics,Central,2,15,561.0,102.32,Cash
+488,2025-05-28,Arjun,Office Chair,Furniture,South,5,0,1300.0,578.48,Net Banking
+489,2025-05-29,Vikram,Water Bottle,Accessories,North,1,5,23.75,9.3,UPI
+490,2025-05-29,Aarav,Printer,Electronics,West,2,15,357.0,87.84,Net Banking
+491,2025-05-29,Vikram,Smartphone X,Electronics,South,2,3,1649.0,606.48,Credit Card
+492,2025-05-30,Aisha,Smart Watch,Accessories,West,3,3,640.2,178.94,Cash
+493,2025-05-30,Priya,Premium Pen,Stationery,South,1,5,11.4,3.74,Cash
+494,2025-05-30,Rahul,Mechanical Keyboard,Electronics,East,3,10,297.0,55.17,Net Banking
+495,2025-05-30,Aditya,Backpack,Accessories,West,4,5,247.0,49.42,Debit Card
+496,2025-05-31,Kavin,Smartphone X,Electronics,North,1,10,765.0,254.68,Net Banking
+497,2025-05-31,Anaya,Backpack,Accessories,North,2,10,117.0,15.61,UPI
+498,2025-05-31,Diya,USB-C Hub,Electronics,South,1,10,49.5,8.92,Cash
+499,2025-06-01,Anaya,Monitor 27,Electronics,South,6,8,1821.6,571.02,UPI
+500,2025-06-01,Aarav,Smart Watch,Accessories,East,1,15,187.0,30.7,Cash
+501,2025-06-01,Aisha,Smart Watch,Accessories,Central,1,3,213.4,50.06,Debit Card
+502,2025-06-02,Ishita,Smartphone X,Electronics,North,2,0,1700.0,743.04,Cash
+503,2025-06-02,Vihaan,Premium Pen,Stationery,East,1,10,10.8,3.64,UPI
+504,2025-06-02,Vihaan,Printer,Electronics,Central,4,5,798.0,324.49,UPI
+505,2025-06-03,Arjun,Water Bottle,Accessories,East,1,10,22.5,3.8,Net Banking
+506,2025-06-03,Anaya,Smart Watch,Accessories,West,1,5,209.0,71.68,Net Banking
+507,2025-06-03,Sara,USB-C Hub,Electronics,South,1,15,46.75,4.25,Cash
+508,2025-06-03,Nila,Monitor 27,Electronics,South,1,5,313.5,76.29,UPI
+509,2025-06-04,Rahul,Desk Lamp,Furniture,Central,1,15,40.8,3.93,Credit Card
+510,2025-06-04,Meera,Smartphone X,Electronics,West,3,10,2295.0,762.94,UPI
+511,2025-06-04,Aditya,Standing Desk,Furniture,South,3,3,1222.2,428.69,Credit Card
+512,2025-06-05,Aditya,Monitor 27,Electronics,West,3,15,841.5,130.94,Credit Card
+513,2025-06-05,Kavin,Office Chair,Furniture,North,1,15,221.0,73.95,Credit Card
+514,2025-06-05,Anaya,Laptop Pro 14,Electronics,West,2,15,2040.0,488.35,Net Banking
+515,2025-06-06,Aisha,Printer,Electronics,Central,2,10,378.0,110.74,UPI
+516,2025-06-06,Aditya,Smartphone X,Electronics,East,2,0,1700.0,649.69,Credit Card
+517,2025-06-06,Arjun,Wireless Headphones,Electronics,Central,2,8,331.2,119.88,Credit Card
+518,2025-06-06,Aarav,Standing Desk,Furniture,West,2,10,756.0,121.43,UPI
+519,2025-06-07,Aditya,Smart Watch,Accessories,South,4,3,853.6,358.76,UPI
+520,2025-06-07,Kavin,Notebook Set,Stationery,East,3,15,45.9,4.7,Debit Card
+521,2025-06-07,Aisha,Mechanical Keyboard,Electronics,South,1,8,101.2,26.23,Credit Card
+522,2025-06-08,Aisha,Standing Desk,Furniture,South,1,0,420.0,160.55,Credit Card
+523,2025-06-08,Arjun,Laptop Pro 14,Electronics,West,1,15,1020.0,279.46,Credit Card
+524,2025-06-08,Kavin,Office Chair,Furniture,North,4,8,956.8,267.81,Cash
+525,2025-06-09,Vikram,Notebook Set,Stationery,North,1,8,16.56,5.13,Debit Card
+526,2025-06-09,Diya,Premium Pen,Stationery,South,2,3,23.28,5.46,Credit Card
+527,2025-06-09,Ishita,Wireless Headphones,Electronics,Central,3,10,486.0,137.58,Credit Card
+528,2025-06-09,Aisha,Monitor 27,Electronics,Central,2,10,594.0,167.45,UPI
+529,2025-06-10,Diya,Premium Pen,Stationery,Central,1,8,11.04,1.95,Cash
+530,2025-06-10,Vihaan,Printer,Electronics,North,2,10,378.0,81.55,Net Banking
+531,2025-06-10,Rohan,Smartphone X,Electronics,South,5,3,4122.5,834.71,Credit Card
+532,2025-06-11,Vihaan,Notebook Set,Stationery,Central,1,15,15.3,3.6,Debit Card
+533,2025-06-11,Rahul,Standing Desk,Furniture,Central,5,0,2100.0,902.97,Debit Card
+534,2025-06-11,Aarav,Monitor 27,Electronics,Central,1,8,303.6,52.49,Cash
+535,2025-06-12,Vihaan,Backpack,Accessories,Central,4,0,260.0,92.22,Cash
+536,2025-06-12,Meera,Smart Watch,Accessories,East,3,0,660.0,156.6,Cash
+537,2025-06-12,Aisha,Printer,Electronics,Central,2,8,386.4,129.88,Cash
+538,2025-06-13,Rahul,Premium Pen,Stationery,North,1,5,11.4,3.69,Net Banking
+539,2025-06-13,Aisha,Printer,Electronics,East,4,15,714.0,206.1,Debit Card
+540,2025-06-13,Aisha,Laptop Pro 14,Electronics,North,2,5,2280.0,788.36,UPI
+541,2025-06-13,Aditya,Smartphone X,Electronics,East,1,15,722.5,168.37,Net Banking
+542,2025-06-14,Priya,Smart Watch,Accessories,West,3,3,640.2,210.15,Cash
+543,2025-06-14,Anaya,Monitor 27,Electronics,North,2,0,660.0,218.78,Debit Card
+544,2025-06-14,Aarav,Desk Lamp,Furniture,South,2,3,93.12,23.09,UPI
+545,2025-06-15,Vikram,Printer,Electronics,North,4,0,840.0,329.8,Debit Card
+546,2025-06-15,Rahul,Desk Lamp,Furniture,North,1,5,45.6,10.11,Credit Card
+547,2025-06-15,Aisha,Mechanical Keyboard,Electronics,Central,2,10,198.0,54.43,Cash
+548,2025-06-16,Arjun,Standing Desk,Furniture,East,2,5,798.0,191.3,Credit Card
+549,2025-06-16,Rohan,Notebook Set,Stationery,South,1,10,16.2,3.07,UPI
+550,2025-06-16,Aarav,USB-C Hub,Electronics,North,1,15,46.75,11.32,Net Banking
+551,2025-06-16,Aarav,Printer,Electronics,South,1,3,203.7,59.16,Debit Card
+552,2025-06-17,Kavin,Smart Watch,Accessories,West,4,5,836.0,207.74,Net Banking
+553,2025-06-17,Nila,Monitor 27,Electronics,Central,2,5,627.0,230.88,Cash
+554,2025-06-17,Sara,Notebook Set,Stationery,Central,2,0,36.0,11.96,Cash
+555,2025-06-18,Arjun,Smart Watch,Accessories,East,1,15,187.0,60.53,Debit Card
+556,2025-06-18,Nila,USB-C Hub,Electronics,South,2,5,104.5,37.39,UPI
+557,2025-06-18,Rahul,Backpack,Accessories,East,3,0,195.0,51.63,UPI
+558,2025-06-19,Kavin,Desk Lamp,Furniture,West,1,8,44.16,6.75,Net Banking
+559,2025-06-19,Rohan,Notebook Set,Stationery,East,3,10,48.6,10.11,UPI
+560,2025-06-19,Sara,USB-C Hub,Electronics,Central,2,8,101.2,17.76,Debit Card
+561,2025-06-20,Anaya,Monitor 27,Electronics,East,1,15,280.5,32.47,Credit Card
+562,2025-06-20,Anaya,Premium Pen,Stationery,East,1,5,11.4,2.8,Credit Card
+563,2025-06-20,Priya,Mechanical Keyboard,Electronics,East,2,15,187.0,21.91,Debit Card
+564,2025-06-20,Aisha,Office Chair,Furniture,North,2,8,478.4,90.59,Cash
+565,2025-06-21,Rohan,Smart Watch,Accessories,Central,5,0,1100.0,375.53,Credit Card
+566,2025-06-21,Diya,Monitor 27,Electronics,South,3,10,891.0,278.56,UPI
+567,2025-06-21,Vikram,Mechanical Keyboard,Electronics,South,2,10,198.0,31.82,Debit Card
+568,2025-06-22,Anaya,Monitor 27,Electronics,East,3,0,990.0,334.48,Credit Card
+569,2025-06-22,Anaya,Laptop Pro 14,Electronics,Central,2,3,2328.0,587.82,UPI
+570,2025-06-22,Priya,Premium Pen,Stationery,West,4,0,48.0,20.17,Net Banking
+571,2025-06-23,Rohan,Notebook Set,Stationery,East,6,8,99.36,39.84,Credit Card
+572,2025-06-23,Aarav,Printer,Electronics,South,2,10,378.0,128.59,UPI
+573,2025-06-23,Rahul,Desk Lamp,Furniture,Central,4,5,182.4,71.11,Cash
+574,2025-06-23,Nila,Office Chair,Furniture,West,1,0,260.0,99.17,Cash
+575,2025-06-24,Vihaan,Smart Watch,Accessories,East,2,8,404.8,72.94,Net Banking
+576,2025-06-24,Rahul,Standing Desk,Furniture,North,3,3,1222.2,254.45,UPI
+577,2025-06-24,Aarav,Mechanical Keyboard,Electronics,Central,3,3,320.1,122.57,Cash
+578,2025-06-25,Diya,Smartphone X,Electronics,West,1,15,722.5,127.82,Debit Card
+579,2025-06-25,Diya,Water Bottle,Accessories,North,2,0,50.0,15.67,Credit Card
+580,2025-06-25,Meera,Laptop Pro 14,Electronics,Central,3,8,3312.0,964.11,Debit Card
+581,2025-06-26,Aarav,Premium Pen,Stationery,East,3,3,34.92,9.36,Net Banking
+582,2025-06-26,Vihaan,USB-C Hub,Electronics,West,1,10,49.5,15.83,Credit Card
+583,2025-06-26,Meera,Backpack,Accessories,West,3,0,195.0,75.07,UPI
+584,2025-06-26,Rohan,Smart Watch,Accessories,East,1,5,209.0,45.93,Net Banking
+585,2025-06-27,Rohan,Office Chair,Furniture,West,1,10,234.0,61.32,Debit Card
+586,2025-06-27,Meera,Mechanical Keyboard,Electronics,Central,1,15,93.5,30.75,Net Banking
+587,2025-06-27,Meera,Smartphone X,Electronics,East,5,10,3825.0,1414.14,UPI
+588,2025-06-28,Diya,Premium Pen,Stationery,North,6,5,68.4,24.43,UPI
+589,2025-06-28,Aditya,Monitor 27,Electronics,West,1,5,313.5,104.66,Credit Card
+590,2025-06-28,Vihaan,Wireless Headphones,Electronics,South,4,0,720.0,322.4,Debit Card
+591,2025-06-29,Arjun,Standing Desk,Furniture,East,5,10,1890.0,605.41,Debit Card
+592,2025-06-29,Kavin,Smartphone X,Electronics,West,1,8,782.0,126.37,Net Banking
+593,2025-06-29,Diya,Water Bottle,Accessories,South,2,3,48.5,19.7,Credit Card
+594,2025-06-30,Vikram,Notebook Set,Stationery,South,5,8,82.8,16.69,Cash
+595,2025-06-30,Vihaan,Notebook Set,Stationery,West,3,10,48.6,18.54,Net Banking
+596,2025-06-30,Kavin,Wireless Headphones,Electronics,East,4,8,662.4,258.79,Credit Card
+597,2025-06-30,Ishita,Desk Lamp,Furniture,East,4,10,172.8,33.31,Cash
+598,2025-07-01,Ishita,Backpack,Accessories,West,3,10,175.5,63.98,Debit Card
+599,2025-07-01,Diya,USB-C Hub,Electronics,North,3,8,151.8,55.41,UPI
+600,2025-07-01,Arjun,Backpack,Accessories,West,4,8,239.2,44.21,Debit Card
+601,2025-07-02,Ishita,Mechanical Keyboard,Electronics,Central,2,5,209.0,85.45,Net Banking
+602,2025-07-02,Vikram,Notebook Set,Stationery,North,4,0,72.0,24.8,Net Banking
+603,2025-07-02,Aarav,Premium Pen,Stationery,North,1,8,11.04,2.38,Net Banking
+604,2025-07-03,Arjun,Notebook Set,Stationery,Central,1,10,16.2,6.3,Cash
+605,2025-07-03,Vikram,USB-C Hub,Electronics,East,1,10,49.5,12.14,Debit Card
+606,2025-07-03,Aditya,Monitor 27,Electronics,Central,1,3,320.1,74.52,Cash
+607,2025-07-03,Vikram,Smart Watch,Accessories,North,2,15,374.0,95.23,Credit Card
+608,2025-07-04,Nila,Water Bottle,Accessories,Central,3,0,75.0,27.86,Cash
+609,2025-07-04,Aisha,Standing Desk,Furniture,South,3,0,1260.0,307.09,Net Banking
+610,2025-07-04,Rahul,Wireless Headphones,Electronics,South,1,3,174.6,67.84,Net Banking
+611,2025-07-05,Priya,Monitor 27,Electronics,North,4,15,1122.0,293.4,Cash
+612,2025-07-05,Vihaan,Wireless Headphones,Electronics,West,3,8,496.8,142.99,Credit Card
+613,2025-07-05,Aisha,Backpack,Accessories,Central,3,10,175.5,26.3,UPI
+614,2025-07-06,Meera,Desk Lamp,Furniture,West,2,15,81.6,10.8,Cash
+615,2025-07-06,Priya,Smart Watch,Accessories,Central,4,10,792.0,129.61,UPI
+616,2025-07-06,Vikram,Office Chair,Furniture,South,2,5,494.0,91.93,UPI
+617,2025-07-07,Aditya,Notebook Set,Stationery,Central,3,15,45.9,9.84,UPI
+618,2025-07-07,Sara,Mechanical Keyboard,Electronics,South,1,15,93.5,25.65,UPI
+619,2025-07-07,Meera,Backpack,Accessories,East,2,15,110.5,29.36,Cash
+620,2025-07-07,Nila,Premium Pen,Stationery,West,2,15,20.4,3.28,Credit Card
+621,2025-07-08,Diya,Backpack,Accessories,South,1,8,59.8,21.88,Debit Card
+622,2025-07-08,Vihaan,Water Bottle,Accessories,North,4,5,95.0,24.28,Debit Card
+623,2025-07-08,Vikram,Mechanical Keyboard,Electronics,North,3,0,330.0,121.28,Cash
+624,2025-07-09,Rahul,Monitor 27,Electronics,South,3,10,891.0,149.58,Cash
+625,2025-07-09,Diya,Water Bottle,Accessories,West,4,15,85.0,23.38,Net Banking
+626,2025-07-09,Diya,Notebook Set,Stationery,North,6,15,91.8,24.63,Debit Card
+627,2025-07-10,Sara,Mechanical Keyboard,Electronics,Central,3,8,303.6,59.1,Cash
+628,2025-07-10,Nila,Desk Lamp,Furniture,West,3,15,122.4,11.26,UPI
+629,2025-07-10,Meera,USB-C Hub,Electronics,West,1,3,53.35,13.8,Credit Card
+630,2025-07-10,Kavin,Notebook Set,Stationery,North,1,5,17.1,6.66,Debit Card
+631,2025-07-11,Aditya,Premium Pen,Stationery,Central,3,3,34.92,14.79,Credit Card
+632,2025-07-11,Nila,Water Bottle,Accessories,West,5,10,112.5,19.51,Cash
+633,2025-07-11,Ishita,Backpack,Accessories,South,2,15,110.5,29.5,Cash
+634,2025-07-12,Rahul,Wireless Headphones,Electronics,North,4,3,698.4,233.52,Debit Card
+635,2025-07-12,Sara,Mechanical Keyboard,Electronics,East,4,15,374.0,98.41,UPI
+636,2025-07-12,Aarav,Water Bottle,Accessories,North,3,8,69.0,10.56,Debit Card
+637,2025-07-13,Ishita,Premium Pen,Stationery,North,1,15,10.2,1.91,Debit Card
+638,2025-07-13,Nila,Notebook Set,Stationery,North,5,0,90.0,32.51,Cash
+639,2025-07-13,Vikram,Monitor 27,Electronics,West,3,10,891.0,163.7,Credit Card
+640,2025-07-13,Arjun,Office Chair,Furniture,North,5,3,1261.0,450.23,UPI
+641,2025-07-14,Rohan,Water Bottle,Accessories,South,2,0,50.0,15.29,Net Banking
+642,2025-07-14,Priya,Monitor 27,Electronics,North,1,10,297.0,52.6,UPI
+643,2025-07-14,Arjun,Laptop Pro 14,Electronics,North,2,5,2280.0,939.09,UPI
+644,2025-07-15,Ishita,Water Bottle,Accessories,East,1,0,25.0,7.94,Net Banking
+645,2025-07-15,Aarav,Notebook Set,Stationery,West,2,8,33.12,9.73,Credit Card
+646,2025-07-15,Diya,Backpack,Accessories,North,1,15,55.25,10.26,Debit Card
+647,2025-07-16,Nila,Printer,Electronics,Central,2,5,399.0,91.99,Credit Card
+648,2025-07-16,Aarav,Office Chair,Furniture,West,3,8,717.6,220.17,UPI
+649,2025-07-16,Nila,Backpack,Accessories,South,1,15,55.25,13.65,Debit Card
+650,2025-07-17,Aarav,USB-C Hub,Electronics,Central,4,15,187.0,33.21,Cash
+651,2025-07-17,Rahul,Smartphone X,Electronics,Central,1,0,850.0,270.53,Cash
+652,2025-07-17,Sara,Wireless Headphones,Electronics,South,1,15,153.0,23.3,Net Banking
+653,2025-07-17,Anaya,Printer,Electronics,South,3,10,567.0,199.86,Cash
+654,2025-07-18,Diya,Monitor 27,Electronics,Central,1,0,330.0,134.73,Net Banking
+655,2025-07-18,Kavin,USB-C Hub,Electronics,North,2,5,104.5,27.01,UPI
+656,2025-07-18,Ishita,Desk Lamp,Furniture,North,2,5,91.2,30.51,Debit Card
+657,2025-07-19,Vikram,Smart Watch,Accessories,East,1,3,213.4,76.32,Cash
+658,2025-07-19,Sara,USB-C Hub,Electronics,East,1,10,49.5,17.32,Net Banking
+659,2025-07-19,Priya,Smartphone X,Electronics,East,1,3,824.5,203.4,Debit Card
+660,2025-07-20,Vikram,Smartphone X,Electronics,West,3,5,2422.5,505.12,Debit Card
+661,2025-07-20,Arjun,Water Bottle,Accessories,East,1,10,22.5,8.12,UPI
+662,2025-07-20,Arjun,Printer,Electronics,North,2,5,399.0,97.14,Credit Card
+663,2025-07-20,Rahul,Monitor 27,Electronics,Central,2,0,660.0,173.64,UPI
+664,2025-07-21,Aisha,Printer,Electronics,South,1,5,199.5,57.75,Debit Card
+665,2025-07-21,Nila,Notebook Set,Stationery,South,1,10,16.2,3.26,Net Banking
+666,2025-07-21,Aarav,Backpack,Accessories,South,2,8,119.6,37.22,Cash
+667,2025-07-22,Anaya,USB-C Hub,Electronics,South,1,10,49.5,17.47,Cash
+668,2025-07-22,Aisha,Smart Watch,Accessories,East,3,3,640.2,165.49,Credit Card
+669,2025-07-22,Sara,Mechanical Keyboard,Electronics,South,3,3,320.1,133.83,Credit Card
+670,2025-07-23,Vikram,USB-C Hub,Electronics,North,1,5,52.25,17.09,Credit Card
+671,2025-07-23,Kavin,USB-C Hub,Electronics,East,2,15,93.5,8.5,Cash
+672,2025-07-23,Sara,Backpack,Accessories,Central,2,8,119.6,28.56,Credit Card
+673,2025-07-24,Sara,Backpack,Accessories,East,1,3,63.05,19.58,Net Banking
+674,2025-07-24,Vihaan,Water Bottle,Accessories,West,2,10,45.0,17.42,UPI
+675,2025-07-24,Vihaan,Mechanical Keyboard,Electronics,South,1,15,93.5,25.9,UPI
+676,2025-07-24,Priya,Standing Desk,Furniture,East,3,0,1260.0,375.41,Credit Card
+677,2025-07-25,Anaya,Premium Pen,Stationery,West,3,8,33.12,11.58,Credit Card
+678,2025-07-25,Vihaan,Mechanical Keyboard,Electronics,Central,1,10,99.0,23.51,Credit Card
+679,2025-07-25,Anaya,Printer,Electronics,Central,2,0,420.0,172.93,Net Banking
+680,2025-07-26,Nila,Smart Watch,Accessories,North,6,15,1122.0,390.35,UPI
+681,2025-07-26,Anaya,Premium Pen,Stationery,South,3,8,33.12,6.14,Net Banking
+682,2025-07-26,Anaya,Smart Watch,Accessories,Central,1,10,198.0,35.49,Cash
+683,2025-07-27,Vikram,Office Chair,Furniture,Central,1,15,221.0,57.51,Cash
+684,2025-07-27,Aarav,Wireless Headphones,Electronics,South,1,8,165.6,61.13,Cash
+685,2025-07-27,Vihaan,Monitor 27,Electronics,Central,5,15,1402.5,335.69,Credit Card
+686,2025-07-27,Meera,Smartphone X,Electronics,North,2,10,1530.0,360.47,Net Banking
+687,2025-07-28,Aarav,USB-C Hub,Electronics,West,1,10,49.5,12.43,Cash
+688,2025-07-28,Priya,Notebook Set,Stationery,South,2,0,36.0,10.42,Net Banking
+689,2025-07-28,Meera,Water Bottle,Accessories,West,3,5,71.25,19.84,UPI
+690,2025-07-29,Arjun,Office Chair,Furniture,East,2,3,504.4,109.55,Cash
+691,2025-07-29,Aarav,Printer,Electronics,Central,2,5,399.0,149.74,Cash
+692,2025-07-29,Aditya,Wireless Headphones,Electronics,West,2,8,331.2,79.0,Debit Card
+693,2025-07-30,Kavin,Wireless Headphones,Electronics,Central,1,15,153.0,29.77,Net Banking
+694,2025-07-30,Rahul,Smart Watch,Accessories,South,2,5,418.0,75.63,Net Banking
+695,2025-07-30,Aisha,Backpack,Accessories,East,4,8,239.2,85.51,Debit Card
+696,2025-07-30,Vihaan,Smart Watch,Accessories,North,2,15,374.0,91.71,UPI
+697,2025-07-31,Rahul,Premium Pen,Stationery,East,4,3,46.56,19.05,Cash
+698,2025-07-31,Rahul,Smart Watch,Accessories,North,3,15,561.0,190.1,Credit Card
+699,2025-07-31,Arjun,Monitor 27,Electronics,East,1,10,297.0,82.45,UPI
+700,2025-08-01,Rahul,Standing Desk,Furniture,Central,1,0,420.0,119.01,Cash
+701,2025-08-01,Anaya,Office Chair,Furniture,West,3,10,702.0,262.69,Net Banking
+702,2025-08-01,Nila,Laptop Pro 14,Electronics,South,1,15,1020.0,103.11,Credit Card
+703,2025-08-02,Anaya,Water Bottle,Accessories,North,2,10,45.0,9.47,Debit Card
+704,2025-08-02,Kavin,Mechanical Keyboard,Electronics,West,3,3,320.1,132.01,Debit Card
+705,2025-08-02,Aarav,USB-C Hub,Electronics,North,2,10,99.0,33.43,Credit Card
+706,2025-08-03,Sara,Backpack,Accessories,East,1,10,58.5,9.07,Debit Card
+707,2025-08-03,Rahul,Mechanical Keyboard,Electronics,Central,3,3,320.1,104.08,Credit Card
+708,2025-08-03,Arjun,Office Chair,Furniture,Central,1,10,234.0,84.63,Debit Card
+709,2025-08-03,Kavin,Standing Desk,Furniture,West,5,10,1890.0,272.91,Net Banking
+710,2025-08-04,Vikram,Smart Watch,Accessories,West,2,3,426.8,108.14,Cash
+711,2025-08-04,Rahul,Monitor 27,Electronics,South,1,0,330.0,128.93,UPI
+712,2025-08-04,Aarav,Water Bottle,Accessories,East,1,5,23.75,7.03,UPI
+713,2025-08-05,Aditya,Office Chair,Furniture,North,1,15,221.0,33.22,Cash
+714,2025-08-05,Kavin,Printer,Electronics,South,1,5,199.5,66.92,UPI
+715,2025-08-05,Kavin,Premium Pen,Stationery,South,3,3,34.92,9.03,UPI
+716,2025-08-06,Meera,Mechanical Keyboard,Electronics,North,4,10,396.0,117.97,Credit Card
+717,2025-08-06,Diya,USB-C Hub,Electronics,West,6,8,303.6,75.51,Debit Card
+718,2025-08-06,Aisha,Smart Watch,Accessories,South,1,10,198.0,33.04,Cash
+719,2025-08-06,Priya,Office Chair,Furniture,West,2,10,468.0,166.66,Cash
+720,2025-08-07,Anaya,Laptop Pro 14,Electronics,West,2,8,2208.0,413.06,Credit Card
+721,2025-08-07,Aarav,Desk Lamp,Furniture,South,2,5,91.2,23.18,Net Banking
+722,2025-08-07,Kavin,Smart Watch,Accessories,South,1,5,209.0,56.99,Cash
+723,2025-08-08,Aditya,Office Chair,Furniture,East,1,8,239.2,38.88,UPI
+724,2025-08-08,Sara,Premium Pen,Stationery,East,2,8,22.08,5.01,Net Banking
+725,2025-08-08,Ishita,Office Chair,Furniture,North,2,10,468.0,166.32,Debit Card
+726,2025-08-09,Rohan,Water Bottle,Accessories,South,1,8,23.0,4.33,UPI
+727,2025-08-09,Vihaan,Premium Pen,Stationery,Central,4,3,46.56,15.51,Cash
+728,2025-08-09,Diya,Desk Lamp,Furniture,West,1,8,44.16,14.45,Credit Card
+729,2025-08-10,Aisha,Desk Lamp,Furniture,North,1,3,46.56,11.18,Net Banking
+730,2025-08-10,Kavin,Desk Lamp,Furniture,East,2,5,91.2,30.44,Credit Card
+731,2025-08-10,Rohan,Notebook Set,Stationery,Central,1,15,15.3,1.41,Cash
+732,2025-08-10,Nila,USB-C Hub,Electronics,East,3,3,160.05,32.13,Debit Card
+733,2025-08-11,Arjun,USB-C Hub,Electronics,West,2,15,93.5,21.69,Cash
+734,2025-08-11,Aditya,Office Chair,Furniture,West,2,3,504.4,114.56,Cash
+735,2025-08-11,Aditya,Smart Watch,Accessories,South,2,0,440.0,189.99,Debit Card
+736,2025-08-12,Rahul,Standing Desk,Furniture,East,3,15,1071.0,300.49,Net Banking
+737,2025-08-12,Vikram,Water Bottle,Accessories,West,4,5,95.0,22.8,UPI
+738,2025-08-12,Kavin,Smartphone X,Electronics,North,4,3,3298.0,858.88,UPI
+739,2025-08-13,Aisha,Smartphone X,Electronics,Central,2,0,1700.0,740.06,Credit Card
+740,2025-08-13,Arjun,Laptop Pro 14,Electronics,North,3,10,3240.0,626.58,Debit Card
+741,2025-08-13,Rahul,Smart Watch,Accessories,East,1,15,187.0,18.86,UPI
+742,2025-08-13,Vihaan,Mechanical Keyboard,Electronics,Central,3,8,303.6,74.55,UPI
+743,2025-08-14,Aditya,Laptop Pro 14,Electronics,West,1,5,1140.0,242.54,Net Banking
+744,2025-08-14,Vihaan,Monitor 27,Electronics,Central,2,5,627.0,180.73,UPI
+745,2025-08-14,Priya,Smart Watch,Accessories,Central,2,15,374.0,56.21,Cash
+746,2025-08-15,Arjun,Office Chair,Furniture,West,5,8,1196.0,319.64,Debit Card
+747,2025-08-15,Aarav,Standing Desk,Furniture,Central,2,3,814.8,294.15,UPI
+748,2025-08-15,Aisha,Standing Desk,Furniture,West,1,10,378.0,146.2,Debit Card
+749,2025-08-16,Aarav,Laptop Pro 14,Electronics,Central,3,5,3420.0,945.68,Debit Card
+750,2025-08-16,Ishita,Mechanical Keyboard,Electronics,South,2,10,198.0,54.88,Net Banking
+751,2025-08-16,Ishita,Monitor 27,Electronics,Central,2,5,627.0,251.98,Cash
+752,2025-08-16,Kavin,Water Bottle,Accessories,West,3,5,71.25,25.09,UPI
+753,2025-08-17,Vikram,Monitor 27,Electronics,Central,1,3,320.1,116.62,Net Banking
+754,2025-08-17,Aarav,Office Chair,Furniture,South,3,8,717.6,254.91,Credit Card
+755,2025-08-17,Vihaan,Backpack,Accessories,West,1,0,65.0,25.03,Credit Card
+756,2025-08-18,Aditya,Mechanical Keyboard,Electronics,West,1,0,110.0,37.01,Debit Card
+757,2025-08-18,Diya,Water Bottle,Accessories,East,4,5,95.0,29.34,Credit Card
+758,2025-08-18,Rahul,Monitor 27,Electronics,North,3,3,960.3,403.04,Cash
+759,2025-08-19,Aarav,Premium Pen,Stationery,North,1,5,11.4,2.54,UPI
+760,2025-08-19,Diya,Notebook Set,Stationery,South,3,8,49.68,16.91,Net Banking
+761,2025-08-19,Rohan,Desk Lamp,Furniture,West,3,10,129.6,28.34,Net Banking
+762,2025-08-20,Diya,USB-C Hub,Electronics,Central,6,5,313.5,119.96,Cash
+763,2025-08-20,Sara,Wireless Headphones,Electronics,North,1,15,153.0,41.63,UPI
+764,2025-08-20,Anaya,Wireless Headphones,Electronics,East,1,8,165.6,53.17,Cash
+765,2025-08-20,Diya,Wireless Headphones,Electronics,Central,2,3,349.2,150.46,Net Banking
+766,2025-08-21,Ishita,Desk Lamp,Furniture,South,2,5,91.2,21.38,Net Banking
+767,2025-08-21,Diya,Wireless Headphones,Electronics,North,3,5,513.0,100.39,Debit Card
+768,2025-08-21,Vihaan,USB-C Hub,Electronics,West,1,10,49.5,9.24,UPI
+769,2025-08-22,Vikram,Standing Desk,Furniture,South,6,15,2142.0,317.42,Credit Card
+770,2025-08-22,Diya,Desk Lamp,Furniture,West,2,15,81.6,25.83,Net Banking
+771,2025-08-22,Anaya,Backpack,Accessories,Central,1,15,55.25,12.17,Debit Card
+772,2025-08-23,Anaya,Standing Desk,Furniture,North,3,5,1197.0,252.55,Cash
+773,2025-08-23,Vikram,Smartphone X,Electronics,North,2,5,1615.0,468.23,Cash
+774,2025-08-23,Sara,Notebook Set,Stationery,Central,3,0,54.0,16.6,UPI
+775,2025-08-23,Rahul,Standing Desk,Furniture,South,3,15,1071.0,97.72,Cash
+776,2025-08-24,Nila,USB-C Hub,Electronics,East,2,10,99.0,34.6,Net Banking
+777,2025-08-24,Arjun,USB-C Hub,Electronics,North,2,0,110.0,36.26,UPI
+778,2025-08-24,Rohan,Smartphone X,Electronics,North,4,3,3298.0,1344.28,Credit Card
+779,2025-08-25,Kavin,Smart Watch,Accessories,North,3,8,607.2,144.33,Debit Card
+780,2025-08-25,Rohan,Mechanical Keyboard,Electronics,West,3,0,330.0,147.51,Credit Card
+781,2025-08-25,Priya,Premium Pen,Stationery,East,4,0,48.0,17.62,Credit Card
+782,2025-08-26,Arjun,Monitor 27,Electronics,East,3,10,891.0,337.24,Credit Card
+783,2025-08-26,Ishita,Mechanical Keyboard,Electronics,Central,6,0,660.0,281.63,Net Banking
+784,2025-08-26,Anaya,Mechanical Keyboard,Electronics,Central,1,15,93.5,26.71,Cash
+785,2025-08-27,Vikram,Notebook Set,Stationery,West,3,15,45.9,9.04,Credit Card
+786,2025-08-27,Aditya,Smartphone X,Electronics,South,4,10,3060.0,875.98,Cash
+787,2025-08-27,Aditya,Smart Watch,Accessories,East,2,5,418.0,84.67,Net Banking
+788,2025-08-27,Ishita,Water Bottle,Accessories,Central,3,15,63.75,16.92,Cash
+789,2025-08-28,Kavin,Mechanical Keyboard,Electronics,East,2,10,198.0,30.14,Net Banking
+790,2025-08-28,Nila,Premium Pen,Stationery,Central,6,0,72.0,20.37,Credit Card
+791,2025-08-28,Ishita,Backpack,Accessories,South,1,5,61.75,25.9,Debit Card
+792,2025-08-29,Vihaan,Laptop Pro 14,Electronics,North,3,15,3060.0,399.1,Credit Card
+793,2025-08-29,Ishita,Premium Pen,Stationery,South,2,3,23.28,8.62,Debit Card
+794,2025-08-29,Rohan,Water Bottle,Accessories,North,1,10,22.5,6.45,Debit Card
+795,2025-08-30,Meera,Water Bottle,Accessories,Central,2,8,46.0,9.0,Debit Card
+796,2025-08-30,Diya,Laptop Pro 14,Electronics,East,3,10,3240.0,944.08,Debit Card
+797,2025-08-30,Meera,Printer,Electronics,South,4,8,772.8,131.08,Cash
+798,2025-08-30,Nila,Printer,Electronics,Central,1,15,178.5,44.53,Credit Card
+799,2025-08-31,Ishita,Standing Desk,Furniture,South,2,3,814.8,289.66,Credit Card
+800,2025-08-31,Arjun,USB-C Hub,Electronics,South,3,8,151.8,24.2,Net Banking
+801,2025-08-31,Arjun,Office Chair,Furniture,West,4,3,1008.8,405.18,Cash
+802,2025-09-01,Rahul,Desk Lamp,Furniture,Central,1,8,44.16,14.86,Net Banking
+803,2025-09-01,Rohan,Water Bottle,Accessories,West,3,3,72.75,23.2,Net Banking
+804,2025-09-01,Ishita,USB-C Hub,Electronics,South,2,10,99.0,22.92,Credit Card
+805,2025-09-02,Arjun,Office Chair,Furniture,North,3,5,741.0,189.16,Net Banking
+806,2025-09-02,Aarav,Notebook Set,Stationery,East,2,3,34.92,12.46,UPI
+807,2025-09-02,Vikram,Standing Desk,Furniture,North,3,8,1159.2,285.6,UPI
+808,2025-09-02,Arjun,Mechanical Keyboard,Electronics,North,3,3,320.1,81.09,Credit Card
+809,2025-09-03,Nila,Mechanical Keyboard,Electronics,North,5,3,533.5,121.1,Debit Card
+810,2025-09-03,Aarav,Desk Lamp,Furniture,East,4,5,182.4,56.93,UPI
+811,2025-09-03,Kavin,Desk Lamp,Furniture,Central,2,3,93.12,28.25,Net Banking
+812,2025-09-04,Aarav,Smart Watch,Accessories,West,3,3,640.2,171.69,Cash
+813,2025-09-04,Diya,Printer,Electronics,East,3,0,630.0,246.48,UPI
+814,2025-09-04,Aarav,Water Bottle,Accessories,North,3,5,71.25,29.08,Net Banking
+815,2025-09-05,Meera,USB-C Hub,Electronics,North,1,15,46.75,11.94,Debit Card
+816,2025-09-05,Rahul,Monitor 27,Electronics,Central,4,8,1214.4,418.22,Credit Card
+817,2025-09-05,Anaya,Printer,Electronics,South,1,10,189.0,47.83,Cash
+818,2025-09-06,Ishita,Premium Pen,Stationery,Central,2,15,20.4,7.08,Debit Card
+819,2025-09-06,Sara,Standing Desk,Furniture,East,2,15,714.0,221.67,Debit Card
+820,2025-09-06,Diya,USB-C Hub,Electronics,East,1,10,49.5,15.76,Net Banking
+821,2025-09-06,Kavin,Printer,Electronics,South,6,0,1260.0,293.39,UPI
+822,2025-09-07,Rahul,Standing Desk,Furniture,Central,5,15,1785.0,563.7,Cash
+823,2025-09-07,Vihaan,Monitor 27,Electronics,West,3,3,960.3,320.77,Debit Card
+824,2025-09-07,Rohan,Printer,Electronics,South,3,8,579.6,154.53,Cash
+825,2025-09-08,Nila,Backpack,Accessories,Central,3,3,189.15,43.21,UPI
+826,2025-09-08,Anaya,Notebook Set,Stationery,East,6,3,104.76,29.06,Credit Card
+827,2025-09-08,Aditya,Backpack,Accessories,South,2,15,110.5,35.46,Credit Card
+828,2025-09-09,Nila,Water Bottle,Accessories,West,1,8,23.0,3.72,Debit Card
+829,2025-09-09,Aarav,Smartphone X,Electronics,Central,3,0,2550.0,1070.35,Cash
+830,2025-09-09,Ishita,Office Chair,Furniture,South,3,10,702.0,231.57,Credit Card
+831,2025-09-09,Aisha,Standing Desk,Furniture,East,1,8,386.4,142.45,UPI
+832,2025-09-10,Rohan,Monitor 27,Electronics,South,2,8,607.2,223.33,Credit Card
+833,2025-09-10,Priya,Notebook Set,Stationery,South,3,0,54.0,12.81,UPI
+834,2025-09-10,Vikram,Water Bottle,Accessories,Central,1,3,24.25,5.17,Net Banking
+835,2025-09-11,Priya,Desk Lamp,Furniture,West,2,8,88.32,15.92,Credit Card
+836,2025-09-11,Rahul,Smart Watch,Accessories,Central,3,8,607.2,134.87,Cash
+837,2025-09-11,Diya,Smart Watch,Accessories,Central,2,15,374.0,43.37,Credit Card
+838,2025-09-12,Ishita,Premium Pen,Stationery,Central,2,0,24.0,5.95,Cash
+839,2025-09-12,Diya,Notebook Set,Stationery,South,6,0,108.0,34.75,Debit Card
+840,2025-09-12,Nila,Premium Pen,Stationery,West,2,5,22.8,5.33,UPI
+841,2025-09-13,Vihaan,Notebook Set,Stationery,West,1,0,18.0,5.24,Net Banking
+842,2025-09-13,Vihaan,Wireless Headphones,Electronics,West,3,0,540.0,220.67,Net Banking
+843,2025-09-13,Rohan,Standing Desk,Furniture,West,2,3,814.8,265.15,Credit Card
+844,2025-09-13,Anaya,Office Chair,Furniture,North,2,15,442.0,47.5,Credit Card
+845,2025-09-14,Rahul,Wireless Headphones,Electronics,Central,3,15,459.0,116.92,Cash
+846,2025-09-14,Anaya,Smartphone X,Electronics,East,2,8,1564.0,611.83,Cash
+847,2025-09-14,Vihaan,Monitor 27,Electronics,South,3,3,960.3,378.88,Credit Card
+848,2025-09-15,Vikram,Notebook Set,Stationery,East,1,15,15.3,2.22,UPI
+849,2025-09-15,Kavin,Wireless Headphones,Electronics,North,5,3,873.0,377.27,Net Banking
+850,2025-09-15,Aisha,Premium Pen,Stationery,South,4,10,43.2,7.89,UPI
+851,2025-09-16,Arjun,Smart Watch,Accessories,Central,3,8,607.2,181.94,Cash
+852,2025-09-16,Rohan,Laptop Pro 14,Electronics,North,1,10,1080.0,343.24,UPI
+853,2025-09-16,Diya,Smartphone X,Electronics,Central,1,5,807.5,332.82,Cash
+854,2025-09-16,Priya,Office Chair,Furniture,South,2,0,520.0,228.14,UPI
+855,2025-09-17,Anaya,USB-C Hub,Electronics,West,1,15,46.75,7.75,Cash
+856,2025-09-17,Aditya,Standing Desk,Furniture,East,5,0,2100.0,573.81,Net Banking
+857,2025-09-17,Arjun,Monitor 27,Electronics,East,1,8,303.6,58.09,Net Banking
+858,2025-09-18,Priya,Smartphone X,Electronics,Central,1,5,807.5,275.64,UPI
+859,2025-09-18,Arjun,Desk Lamp,Furniture,West,1,0,48.0,20.39,Cash
+860,2025-09-18,Aditya,Printer,Electronics,East,4,15,714.0,196.52,Cash
+861,2025-09-19,Aisha,Smart Watch,Accessories,Central,6,5,1254.0,246.53,Net Banking
+862,2025-09-19,Nila,Premium Pen,Stationery,South,4,10,43.2,14.23,Credit Card
+863,2025-09-19,Rohan,Wireless Headphones,Electronics,Central,1,15,153.0,21.02,Net Banking
+864,2025-09-19,Rohan,Notebook Set,Stationery,North,1,5,17.1,4.88,UPI
+865,2025-09-20,Aditya,Desk Lamp,Furniture,North,1,0,48.0,18.2,Credit Card
+866,2025-09-20,Aarav,USB-C Hub,Electronics,South,2,8,101.2,22.37,UPI
+867,2025-09-20,Aisha,Standing Desk,Furniture,North,4,15,1428.0,318.87,UPI
+868,2025-09-21,Aditya,Premium Pen,Stationery,West,1,8,11.04,1.98,Net Banking
+869,2025-09-21,Aditya,Printer,Electronics,Central,3,10,567.0,177.13,Cash
+870,2025-09-21,Sara,Laptop Pro 14,Electronics,North,1,15,1020.0,268.45,UPI
+871,2025-09-22,Anaya,Office Chair,Furniture,Central,4,5,988.0,180.72,Cash
+872,2025-09-22,Nila,Notebook Set,Stationery,East,1,0,18.0,4.52,Credit Card
+873,2025-09-22,Sara,Office Chair,Furniture,West,2,8,478.4,87.5,Debit Card
+874,2025-09-23,Diya,Mechanical Keyboard,Electronics,South,2,3,213.4,86.72,Credit Card
+875,2025-09-23,Vihaan,Premium Pen,Stationery,South,2,8,22.08,3.88,Debit Card
+876,2025-09-23,Aditya,Printer,Electronics,South,2,10,378.0,117.02,Credit Card
+877,2025-09-23,Vihaan,Monitor 27,Electronics,South,6,10,1782.0,384.82,Credit Card
+878,2025-09-24,Nila,Premium Pen,Stationery,North,2,10,21.6,7.76,Cash
+879,2025-09-24,Meera,Monitor 27,Electronics,Central,1,8,303.6,54.61,Debit Card
+880,2025-09-24,Rohan,Laptop Pro 14,Electronics,East,2,5,2280.0,607.35,UPI
+881,2025-09-25,Vikram,Mechanical Keyboard,Electronics,North,1,10,99.0,30.43,Debit Card
+882,2025-09-25,Meera,Smartphone X,Electronics,South,1,0,850.0,379.52,Cash
+883,2025-09-25,Nila,Standing Desk,Furniture,Central,2,5,798.0,308.65,UPI
+884,2025-09-26,Vikram,Smartphone X,Electronics,North,1,10,765.0,123.07,UPI
+885,2025-09-26,Rahul,Laptop Pro 14,Electronics,North,2,15,2040.0,692.15,Credit Card
+886,2025-09-26,Vikram,Notebook Set,Stationery,Central,2,15,30.6,5.86,Debit Card
+887,2025-09-26,Arjun,Office Chair,Furniture,West,2,3,504.4,133.14,Cash
+888,2025-09-27,Vikram,Smartphone X,Electronics,East,1,15,722.5,163.45,Net Banking
+889,2025-09-27,Kavin,Premium Pen,Stationery,East,1,3,11.64,4.64,Net Banking
+890,2025-09-27,Aditya,Smartphone X,Electronics,West,3,15,2167.5,571.26,Net Banking
+891,2025-09-28,Vikram,Laptop Pro 14,Electronics,South,1,0,1200.0,443.0,Debit Card
+892,2025-09-28,Meera,Water Bottle,Accessories,West,2,10,45.0,16.03,Credit Card
+893,2025-09-28,Vikram,Standing Desk,Furniture,West,2,0,840.0,224.9,Cash
+894,2025-09-29,Aisha,Notebook Set,Stationery,West,1,3,17.46,5.29,Credit Card
+895,2025-09-29,Priya,Standing Desk,Furniture,Central,1,15,357.0,68.91,Debit Card
+896,2025-09-29,Arjun,Backpack,Accessories,Central,3,3,189.15,52.18,Net Banking
+897,2025-09-30,Meera,Wireless Headphones,Electronics,West,2,8,331.2,106.26,UPI
+898,2025-09-30,Rahul,Office Chair,Furniture,East,6,0,1560.0,487.34,Net Banking
+899,2025-09-30,Vihaan,USB-C Hub,Electronics,Central,3,0,165.0,65.99,Credit Card
+900,2025-09-30,Nila,Water Bottle,Accessories,West,1,3,24.25,7.9,Cash
+901,2025-10-01,Aditya,Smart Watch,Accessories,East,2,3,426.8,115.83,Cash
+902,2025-10-01,Priya,Water Bottle,Accessories,East,5,5,118.75,23.59,Credit Card
+903,2025-10-01,Vihaan,Smart Watch,Accessories,East,1,10,198.0,56.55,Credit Card
+904,2025-10-02,Sara,Standing Desk,Furniture,North,5,0,2100.0,944.59,Debit Card
+905,2025-10-02,Rahul,Monitor 27,Electronics,East,1,8,303.6,68.8,Net Banking
+906,2025-10-02,Anaya,Notebook Set,Stationery,West,2,10,32.4,10.85,UPI
+907,2025-10-03,Vihaan,Mechanical Keyboard,Electronics,East,2,5,209.0,45.5,UPI
+908,2025-10-03,Aisha,Smartphone X,Electronics,West,1,15,722.5,251.93,UPI
+909,2025-10-03,Priya,Wireless Headphones,Electronics,Central,1,8,165.6,30.99,UPI
+910,2025-10-03,Rahul,Premium Pen,Stationery,East,2,10,21.6,3.87,UPI
+911,2025-10-04,Ishita,Smartphone X,Electronics,Central,2,0,1700.0,539.03,Debit Card
+912,2025-10-04,Diya,Notebook Set,Stationery,Central,5,10,81.0,23.9,Net Banking
+913,2025-10-04,Arjun,Desk Lamp,Furniture,South,2,10,86.4,22.97,Cash
+914,2025-10-05,Arjun,Monitor 27,Electronics,Central,6,5,1881.0,580.27,Cash
+915,2025-10-05,Arjun,Wireless Headphones,Electronics,Central,1,15,153.0,23.29,Cash
+916,2025-10-05,Aarav,Office Chair,Furniture,West,3,5,741.0,216.02,Net Banking
+917,2025-10-06,Priya,Backpack,Accessories,East,5,10,292.5,58.9,Debit Card
+918,2025-10-06,Nila,Office Chair,Furniture,Central,1,15,221.0,22.81,Debit Card
+919,2025-10-06,Diya,Laptop Pro 14,Electronics,East,3,10,3240.0,1120.0,Cash
+920,2025-10-06,Arjun,Laptop Pro 14,Electronics,East,1,0,1200.0,505.0,Debit Card
+921,2025-10-07,Aarav,Smartphone X,Electronics,North,3,5,2422.5,516.87,Cash
+922,2025-10-07,Vikram,Smartphone X,Electronics,East,5,15,3612.5,1127.26,UPI
+923,2025-10-07,Diya,Office Chair,Furniture,East,4,3,1008.8,320.81,Credit Card
+924,2025-10-08,Priya,Smartphone X,Electronics,West,2,3,1649.0,386.49,UPI
+925,2025-10-08,Sara,USB-C Hub,Electronics,North,2,15,93.5,28.77,Debit Card
+926,2025-10-08,Rahul,Water Bottle,Accessories,West,4,0,100.0,41.15,Debit Card
+927,2025-10-09,Rahul,Premium Pen,Stationery,West,3,10,32.4,10.67,Debit Card
+928,2025-10-09,Vikram,Smartphone X,Electronics,West,2,8,1564.0,624.36,Debit Card
+929,2025-10-09,Sara,Backpack,Accessories,West,3,0,195.0,83.38,Cash
+930,2025-10-10,Kavin,Printer,Electronics,North,3,5,598.5,203.46,Debit Card
+931,2025-10-10,Ishita,USB-C Hub,Electronics,Central,2,8,101.2,21.14,UPI
+932,2025-10-10,Aditya,Backpack,Accessories,Central,2,15,110.5,9.3,Credit Card
+933,2025-10-10,Meera,USB-C Hub,Electronics,Central,1,0,55.0,24.6,Credit Card
+934,2025-10-11,Kavin,USB-C Hub,Electronics,South,2,3,106.7,27.85,Credit Card
+935,2025-10-11,Rohan,Laptop Pro 14,Electronics,Central,3,0,3600.0,842.92,Credit Card
+936,2025-10-11,Vihaan,Desk Lamp,Furniture,West,6,0,288.0,72.87,Cash
+937,2025-10-12,Kavin,Water Bottle,Accessories,East,6,0,150.0,43.5,Net Banking
+938,2025-10-12,Kavin,USB-C Hub,Electronics,West,5,15,233.75,53.82,Debit Card
+939,2025-10-12,Diya,Office Chair,Furniture,West,1,0,260.0,100.42,Net Banking
+940,2025-10-13,Kavin,Standing Desk,Furniture,South,6,5,2394.0,454.13,Net Banking
+941,2025-10-13,Anaya,Wireless Headphones,Electronics,West,2,3,349.2,100.67,Credit Card
+942,2025-10-13,Meera,Smartphone X,Electronics,West,2,8,1564.0,543.61,Debit Card
+943,2025-10-13,Kavin,Wireless Headphones,Electronics,West,1,0,180.0,57.35,Credit Card
+944,2025-10-14,Diya,Printer,Electronics,West,2,15,357.0,64.14,Debit Card
+945,2025-10-14,Aisha,Smartphone X,Electronics,West,3,8,2346.0,606.47,Net Banking
+946,2025-10-14,Aarav,Notebook Set,Stationery,West,4,0,72.0,23.46,Net Banking
+947,2025-10-15,Nila,Wireless Headphones,Electronics,West,2,5,342.0,116.39,Credit Card
+948,2025-10-15,Aditya,USB-C Hub,Electronics,North,6,15,280.5,92.12,Net Banking
+949,2025-10-15,Diya,Water Bottle,Accessories,West,3,15,63.75,19.0,UPI
+950,2025-10-16,Sara,Office Chair,Furniture,West,3,0,780.0,237.87,Credit Card
+951,2025-10-16,Diya,Printer,Electronics,South,3,15,535.5,161.55,Credit Card
+952,2025-10-16,Arjun,Desk Lamp,Furniture,Central,6,3,279.36,88.55,Debit Card
+953,2025-10-17,Aarav,Premium Pen,Stationery,North,2,8,22.08,3.54,Debit Card
+954,2025-10-17,Meera,Laptop Pro 14,Electronics,South,2,15,2040.0,696.37,Cash
+955,2025-10-17,Ishita,Premium Pen,Stationery,North,5,10,54.0,18.94,Credit Card
+956,2025-10-17,Diya,Desk Lamp,Furniture,South,1,15,40.8,14.19,UPI
+957,2025-10-18,Meera,Laptop Pro 14,Electronics,West,1,0,1200.0,290.31,Cash
+958,2025-10-18,Meera,Smartphone X,Electronics,North,4,0,3400.0,890.48,Net Banking
+959,2025-10-18,Rohan,Smart Watch,Accessories,West,4,3,853.6,356.83,Debit Card
+960,2025-10-19,Aditya,Water Bottle,Accessories,North,4,15,85.0,14.4,Cash
+961,2025-10-19,Anaya,Backpack,Accessories,East,1,3,63.05,15.87,Credit Card
+962,2025-10-19,Sara,Wireless Headphones,Electronics,Central,1,8,165.6,59.64,UPI
+963,2025-10-20,Meera,Premium Pen,Stationery,Central,1,10,10.8,4.09,Net Banking
+964,2025-10-20,Aarav,Water Bottle,Accessories,South,1,8,23.0,8.79,Credit Card
+965,2025-10-20,Aisha,Desk Lamp,Furniture,South,3,5,136.8,43.81,UPI
+966,2025-10-20,Ishita,Smartphone X,Electronics,South,3,10,2295.0,628.33,Cash
+967,2025-10-21,Arjun,Desk Lamp,Furniture,East,1,3,46.56,12.24,Debit Card
+968,2025-10-21,Meera,Notebook Set,Stationery,Central,1,3,17.46,6.77,Debit Card
+969,2025-10-21,Vikram,Monitor 27,Electronics,South,3,10,891.0,230.93,Debit Card
+970,2025-10-22,Aisha,Laptop Pro 14,Electronics,West,1,3,1164.0,314.87,UPI
+971,2025-10-22,Sara,Smartphone X,Electronics,East,3,0,2550.0,1115.81,UPI
+972,2025-10-22,Vikram,Notebook Set,Stationery,North,1,10,16.2,2.97,Credit Card
+973,2025-10-23,Aarav,Desk Lamp,Furniture,West,1,10,43.2,14.86,Cash
+974,2025-10-23,Aditya,Wireless Headphones,Electronics,West,1,3,174.6,45.73,UPI
+975,2025-10-23,Meera,Desk Lamp,Furniture,East,3,5,136.8,49.98,UPI
+976,2025-10-23,Rahul,Wireless Headphones,Electronics,South,1,8,165.6,30.59,Credit Card
+977,2025-10-24,Vihaan,Premium Pen,Stationery,South,2,0,24.0,5.88,Cash
+978,2025-10-24,Rohan,Premium Pen,Stationery,East,1,5,11.4,4.42,Debit Card
+979,2025-10-24,Diya,Mechanical Keyboard,Electronics,East,2,0,220.0,63.97,UPI
+980,2025-10-25,Aditya,Wireless Headphones,Electronics,South,4,8,662.4,197.14,Debit Card
+981,2025-10-25,Anaya,Smart Watch,Accessories,Central,1,15,187.0,17.79,Cash
+982,2025-10-25,Aisha,Monitor 27,Electronics,South,1,8,303.6,57.06,Cash
+983,2025-10-26,Priya,Premium Pen,Stationery,South,4,5,45.6,19.04,UPI
+984,2025-10-26,Vihaan,Standing Desk,Furniture,Central,2,3,814.8,180.5,Credit Card
+985,2025-10-26,Diya,Notebook Set,Stationery,West,6,0,108.0,23.98,Cash
+986,2025-10-27,Vikram,Notebook Set,Stationery,West,2,15,30.6,4.0,UPI
+987,2025-10-27,Priya,Wireless Headphones,Electronics,South,2,0,360.0,104.61,UPI
+988,2025-10-27,Aarav,Standing Desk,Furniture,West,1,15,357.0,29.5,Debit Card
+989,2025-10-27,Aarav,Smartphone X,Electronics,West,3,10,2295.0,454.22,Net Banking
+990,2025-10-28,Sara,Water Bottle,Accessories,West,1,15,21.25,5.17,Credit Card
+991,2025-10-28,Aditya,Monitor 27,Electronics,Central,3,8,910.8,162.86,Credit Card
+992,2025-10-28,Rohan,Office Chair,Furniture,North,2,5,494.0,124.51,Cash
+993,2025-10-29,Sara,Printer,Electronics,North,2,0,420.0,139.28,Credit Card
+994,2025-10-29,Sara,Notebook Set,Stationery,South,2,10,32.4,12.26,Cash
+995,2025-10-29,Vihaan,Desk Lamp,Furniture,East,1,15,40.8,5.86,UPI
+996,2025-10-30,Rohan,Backpack,Accessories,South,1,8,59.8,13.03,Debit Card
+997,2025-10-30,Kavin,Standing Desk,Furniture,North,5,10,1890.0,406.45,Credit Card
+998,2025-10-30,Meera,Standing Desk,Furniture,West,2,8,772.8,213.92,Cash
+999,2025-10-30,Sara,USB-C Hub,Electronics,North,4,5,209.0,65.13,UPI
+1000,2025-10-31,Anaya,Printer,Electronics,East,4,0,840.0,362.51,Credit Card
+1001,2025-10-31,Aisha,Wireless Headphones,Electronics,South,1,0,180.0,52.14,UPI
+1002,2025-10-31,Vihaan,Backpack,Accessories,West,6,0,390.0,149.2,Debit Card
+1003,2025-11-01,Rohan,Notebook Set,Stationery,North,2,15,30.6,10.62,Credit Card
+1004,2025-11-01,Priya,Monitor 27,Electronics,Central,4,10,1188.0,266.28,Debit Card
+1005,2025-11-01,Vikram,USB-C Hub,Electronics,West,3,5,156.75,47.55,Debit Card
+1006,2025-11-02,Kavin,Smart Watch,Accessories,South,1,5,209.0,79.31,Net Banking
+1007,2025-11-02,Nila,Standing Desk,Furniture,West,6,0,2520.0,1048.02,UPI
+1008,2025-11-02,Anaya,Smart Watch,Accessories,South,5,15,935.0,194.56,UPI
+1009,2025-11-03,Vihaan,Smartphone X,Electronics,West,1,0,850.0,188.22,Debit Card
+1010,2025-11-03,Aditya,Standing Desk,Furniture,East,1,10,378.0,78.69,UPI
+1011,2025-11-03,Meera,Standing Desk,Furniture,North,2,3,814.8,249.7,Net Banking
+1012,2025-11-03,Aditya,Printer,Electronics,South,2,3,407.4,84.84,Credit Card
+1013,2025-11-04,Nila,Desk Lamp,Furniture,West,2,10,86.4,26.29,Debit Card
+1014,2025-11-04,Vikram,Water Bottle,Accessories,East,6,10,135.0,29.49,Credit Card
+1015,2025-11-04,Meera,Desk Lamp,Furniture,East,2,0,96.0,40.12,Credit Card
+1016,2025-11-05,Arjun,Notebook Set,Stationery,East,3,3,52.38,17.14,Credit Card
+1017,2025-11-05,Kavin,Smart Watch,Accessories,South,3,10,594.0,151.09,Credit Card
+1018,2025-11-05,Arjun,Wireless Headphones,Electronics,Central,2,8,331.2,77.14,Net Banking
+1019,2025-11-06,Diya,Mechanical Keyboard,Electronics,East,2,10,198.0,46.38,Net Banking
+1020,2025-11-06,Sara,Smartphone X,Electronics,North,3,8,2346.0,726.71,Debit Card
+1021,2025-11-06,Arjun,Standing Desk,Furniture,South,2,8,772.8,141.88,Net Banking
+1022,2025-11-06,Priya,Desk Lamp,Furniture,West,6,8,264.96,87.44,UPI
+1023,2025-11-07,Nila,Monitor 27,Electronics,West,2,0,660.0,275.2,Cash
+1024,2025-11-07,Arjun,Standing Desk,Furniture,North,1,10,378.0,73.96,Net Banking
+1025,2025-11-07,Vikram,USB-C Hub,Electronics,Central,5,8,253.0,90.69,UPI
+1026,2025-11-08,Aisha,Mechanical Keyboard,Electronics,North,1,8,101.2,33.38,Debit Card
+1027,2025-11-08,Vikram,Monitor 27,Electronics,South,2,8,607.2,159.3,Credit Card
+1028,2025-11-08,Aisha,Water Bottle,Accessories,North,1,5,23.75,8.27,Debit Card
+1029,2025-11-09,Aarav,Notebook Set,Stationery,North,1,15,15.3,2.73,Debit Card
+1030,2025-11-09,Sara,Premium Pen,Stationery,Central,6,0,72.0,22.48,Net Banking
+1031,2025-11-09,Aisha,Smart Watch,Accessories,North,2,5,418.0,112.45,Debit Card
+1032,2025-11-09,Anaya,Backpack,Accessories,Central,3,0,195.0,49.84,Credit Card
+1033,2025-11-10,Anaya,Smartphone X,Electronics,North,1,15,722.5,228.51,Debit Card
+1034,2025-11-10,Nila,Standing Desk,Furniture,Central,2,5,798.0,326.59,Credit Card
+1035,2025-11-10,Meera,Backpack,Accessories,Central,1,15,55.25,16.76,UPI
+1036,2025-11-11,Nila,Backpack,Accessories,East,2,5,123.5,27.28,Debit Card
+1037,2025-11-11,Aarav,Wireless Headphones,Electronics,South,2,5,342.0,75.83,Cash
+1038,2025-11-11,Anaya,Office Chair,Furniture,North,2,8,478.4,143.13,UPI
+1039,2025-11-12,Meera,Smartphone X,Electronics,West,2,3,1649.0,403.11,Net Banking
+1040,2025-11-12,Aisha,Printer,Electronics,East,1,3,203.7,43.6,Debit Card
+1041,2025-11-12,Aditya,Desk Lamp,Furniture,South,2,8,88.32,15.87,Debit Card
+1042,2025-11-13,Vihaan,Laptop Pro 14,Electronics,South,3,0,3600.0,1435.89,Debit Card
+1043,2025-11-13,Meera,Smartphone X,Electronics,North,1,0,850.0,299.45,Credit Card
+1044,2025-11-13,Meera,Water Bottle,Accessories,North,2,8,46.0,18.01,Cash
+1045,2025-11-13,Diya,Smart Watch,Accessories,North,1,0,220.0,53.03,Debit Card
+1046,2025-11-14,Rohan,USB-C Hub,Electronics,Central,1,0,55.0,14.85,UPI
+1047,2025-11-14,Kavin,Smartphone X,Electronics,Central,3,0,2550.0,1094.26,Debit Card
+1048,2025-11-14,Ishita,Standing Desk,Furniture,Central,1,10,378.0,71.57,Cash
+1049,2025-11-15,Rohan,Wireless Headphones,Electronics,South,1,10,162.0,31.4,Debit Card
+1050,2025-11-15,Meera,Smartphone X,Electronics,South,5,10,3825.0,1483.27,Cash
+1051,2025-11-15,Anaya,Monitor 27,Electronics,West,3,5,940.5,237.04,Credit Card
+1052,2025-11-16,Ishita,Smartphone X,Electronics,West,4,8,3128.0,926.36,Credit Card
+1053,2025-11-16,Vihaan,Water Bottle,Accessories,West,6,0,150.0,51.43,Debit Card
+1054,2025-11-16,Aditya,Desk Lamp,Furniture,West,1,15,40.8,13.95,Credit Card
+1055,2025-11-16,Vikram,Notebook Set,Stationery,South,1,10,16.2,3.25,Cash
+1056,2025-11-17,Arjun,Notebook Set,Stationery,West,1,8,16.56,5.88,Debit Card
+1057,2025-11-17,Meera,Smartphone X,Electronics,West,1,15,722.5,158.88,Net Banking
+1058,2025-11-17,Rahul,Backpack,Accessories,West,3,0,195.0,82.4,Cash
+1059,2025-11-18,Rohan,Wireless Headphones,Electronics,East,3,3,523.8,218.76,UPI
+1060,2025-11-18,Priya,Smart Watch,Accessories,West,4,8,809.6,300.75,Debit Card
+1061,2025-11-18,Rahul,Water Bottle,Accessories,East,3,10,67.5,16.01,Net Banking
+1062,2025-11-19,Kavin,USB-C Hub,Electronics,South,3,8,151.8,23.57,Net Banking
+1063,2025-11-19,Vihaan,Wireless Headphones,Electronics,North,1,8,165.6,46.01,Credit Card
+1064,2025-11-19,Aarav,Desk Lamp,Furniture,South,1,0,48.0,16.1,Net Banking
+1065,2025-11-20,Meera,Smart Watch,Accessories,North,3,3,640.2,231.24,Cash
+1066,2025-11-20,Aisha,Water Bottle,Accessories,West,2,8,46.0,16.18,Cash
+1067,2025-11-20,Diya,Office Chair,Furniture,West,2,10,468.0,116.62,Credit Card
+1068,2025-11-20,Diya,Notebook Set,Stationery,North,2,8,33.12,9.66,UPI
+1069,2025-11-21,Anaya,Backpack,Accessories,West,3,5,185.25,38.32,Net Banking
+1070,2025-11-21,Meera,Smartphone X,Electronics,Central,1,8,782.0,219.2,Net Banking
+1071,2025-11-21,Aisha,USB-C Hub,Electronics,Central,2,10,99.0,24.02,UPI
+1072,2025-11-22,Rahul,Backpack,Accessories,Central,1,5,61.75,18.6,Debit Card
+1073,2025-11-22,Diya,Water Bottle,Accessories,South,6,5,142.5,57.88,Debit Card
+1074,2025-11-22,Aditya,Standing Desk,Furniture,West,4,10,1512.0,577.61,Credit Card
+1075,2025-11-23,Diya,Notebook Set,Stationery,South,2,5,34.2,10.99,UPI
+1076,2025-11-23,Arjun,Mechanical Keyboard,Electronics,East,3,10,297.0,109.05,Credit Card
+1077,2025-11-23,Vikram,Standing Desk,Furniture,West,1,10,378.0,115.5,Cash
+1078,2025-11-23,Aisha,Backpack,Accessories,Central,5,5,308.75,128.47,Credit Card
+1079,2025-11-24,Meera,Standing Desk,Furniture,West,2,8,772.8,248.51,Credit Card
+1080,2025-11-24,Aditya,Desk Lamp,Furniture,South,3,5,136.8,41.15,Cash
+1081,2025-11-24,Arjun,Office Chair,Furniture,Central,2,8,478.4,168.27,UPI
+1082,2025-11-25,Rahul,Office Chair,Furniture,South,1,5,247.0,44.43,Cash
+1083,2025-11-25,Meera,Desk Lamp,Furniture,Central,6,15,244.8,30.48,Debit Card
+1084,2025-11-25,Rohan,Office Chair,Furniture,East,1,10,234.0,62.58,Credit Card
+1085,2025-11-26,Priya,USB-C Hub,Electronics,Central,4,10,198.0,36.31,Debit Card
+1086,2025-11-26,Vikram,Mechanical Keyboard,Electronics,Central,2,5,209.0,56.38,UPI
+1087,2025-11-26,Anaya,Printer,Electronics,Central,1,15,178.5,38.07,Net Banking
+1088,2025-11-26,Kavin,Mechanical Keyboard,Electronics,Central,3,15,280.5,27.8,Cash
+1089,2025-11-27,Diya,Monitor 27,Electronics,Central,3,8,910.8,153.48,UPI
+1090,2025-11-27,Nila,Standing Desk,Furniture,West,2,3,814.8,323.73,Net Banking
+1091,2025-11-27,Priya,Standing Desk,Furniture,East,4,0,1680.0,511.05,Debit Card
+1092,2025-11-28,Rahul,USB-C Hub,Electronics,South,1,15,46.75,8.89,Credit Card
+1093,2025-11-28,Nila,Smartphone X,Electronics,West,1,3,824.5,201.18,Net Banking
+1094,2025-11-28,Diya,Backpack,Accessories,South,6,8,358.8,86.27,UPI
+1095,2025-11-29,Kavin,Office Chair,Furniture,Central,1,5,247.0,56.78,UPI
+1096,2025-11-29,Aarav,USB-C Hub,Electronics,North,4,15,187.0,41.42,Credit Card
+1097,2025-11-29,Priya,Standing Desk,Furniture,East,3,0,1260.0,306.01,Credit Card
+1098,2025-11-30,Ishita,Notebook Set,Stationery,North,5,15,76.5,9.56,Cash
+1099,2025-11-30,Kavin,Desk Lamp,Furniture,West,2,0,96.0,31.68,Credit Card
+1100,2025-11-30,Rahul,Mechanical Keyboard,Electronics,South,2,5,209.0,71.34,Net Banking
+1101,2025-11-30,Kavin,Mechanical Keyboard,Electronics,West,1,3,106.7,40.78,Net Banking
+1102,2025-12-01,Sara,Office Chair,Furniture,North,4,0,1040.0,350.71,Debit Card
+1103,2025-12-01,Kavin,Backpack,Accessories,South,2,15,110.5,31.63,Debit Card
+1104,2025-12-01,Diya,Premium Pen,Stationery,North,3,5,34.2,14.23,UPI
+1105,2025-12-02,Sara,Office Chair,Furniture,North,2,5,494.0,131.58,Cash
+1106,2025-12-02,Rahul,Monitor 27,Electronics,East,1,8,303.6,92.62,Debit Card
+1107,2025-12-02,Anaya,Wireless Headphones,Electronics,West,5,3,873.0,316.43,Debit Card
+1108,2025-12-03,Diya,Printer,Electronics,East,4,15,714.0,173.51,Credit Card
+1109,2025-12-03,Priya,Monitor 27,Electronics,East,3,8,910.8,259.03,Net Banking
+1110,2025-12-03,Kavin,Printer,Electronics,Central,5,0,1050.0,273.41,Credit Card
+1111,2025-12-03,Aditya,Standing Desk,Furniture,West,2,15,714.0,94.85,Credit Card
+1112,2025-12-04,Vikram,Water Bottle,Accessories,South,1,15,21.25,6.44,Credit Card
+1113,2025-12-04,Arjun,Notebook Set,Stationery,North,1,5,17.1,5.9,UPI
+1114,2025-12-04,Priya,Mechanical Keyboard,Electronics,East,2,15,187.0,27.38,Net Banking
+1115,2025-12-05,Aditya,Premium Pen,Stationery,East,4,3,46.56,17.28,UPI
+1116,2025-12-05,Rahul,Wireless Headphones,Electronics,Central,2,3,349.2,118.62,UPI
+1117,2025-12-05,Ishita,Laptop Pro 14,Electronics,North,5,10,5400.0,1206.99,Net Banking
+1118,2025-12-06,Priya,Mechanical Keyboard,Electronics,Central,1,3,106.7,44.94,Debit Card
+1119,2025-12-06,Meera,Smartphone X,Electronics,North,1,5,807.5,306.74,Cash
+1120,2025-12-06,Aisha,Notebook Set,Stationery,North,3,8,49.68,9.71,UPI
+1121,2025-12-07,Aisha,Desk Lamp,Furniture,West,1,5,45.6,16.02,UPI
+1122,2025-12-07,Nila,Notebook Set,Stationery,South,4,10,64.8,21.63,Net Banking
+1123,2025-12-07,Kavin,Smartphone X,Electronics,South,2,3,1649.0,702.75,Cash
+1124,2025-12-07,Vikram,Premium Pen,Stationery,North,5,5,57.0,15.96,Credit Card
+1125,2025-12-08,Rahul,Premium Pen,Stationery,South,1,5,11.4,2.11,Net Banking
+1126,2025-12-08,Meera,Desk Lamp,Furniture,Central,2,10,86.4,27.94,Credit Card
+1127,2025-12-08,Sara,Laptop Pro 14,Electronics,Central,2,3,2328.0,748.05,Cash
+1128,2025-12-09,Rahul,Desk Lamp,Furniture,East,3,0,144.0,64.62,Net Banking
+1129,2025-12-09,Anaya,USB-C Hub,Electronics,East,2,10,99.0,37.46,UPI
+1130,2025-12-09,Vihaan,Backpack,Accessories,North,2,5,123.5,25.75,Debit Card
+1131,2025-12-10,Aditya,Desk Lamp,Furniture,North,2,3,93.12,34.57,UPI
+1132,2025-12-10,Priya,Premium Pen,Stationery,East,4,5,45.6,10.94,Debit Card
+1133,2025-12-10,Priya,Smart Watch,Accessories,South,4,5,836.0,247.36,Debit Card
+1134,2025-12-10,Vikram,Desk Lamp,Furniture,North,6,3,279.36,84.15,UPI
+1135,2025-12-11,Kavin,Smartphone X,Electronics,South,1,3,824.5,349.99,Net Banking
+1136,2025-12-11,Sara,Notebook Set,Stationery,Central,1,8,16.56,6.49,Net Banking
+1137,2025-12-11,Meera,Premium Pen,Stationery,East,2,15,20.4,2.41,Credit Card
+1138,2025-12-12,Kavin,Mechanical Keyboard,Electronics,Central,4,3,426.8,100.3,Cash
+1139,2025-12-12,Anaya,Mechanical Keyboard,Electronics,West,2,0,220.0,72.38,Credit Card
+1140,2025-12-12,Aditya,Mechanical Keyboard,Electronics,North,3,15,280.5,91.84,Debit Card
+1141,2025-12-13,Meera,USB-C Hub,Electronics,East,6,0,330.0,118.58,UPI
+1142,2025-12-13,Vikram,Laptop Pro 14,Electronics,East,1,15,1020.0,177.97,Cash
+1143,2025-12-13,Vikram,USB-C Hub,Electronics,East,1,0,55.0,16.45,Cash
+1144,2025-12-13,Nila,Smartphone X,Electronics,East,1,0,850.0,225.8,Credit Card
+1145,2025-12-14,Rahul,Desk Lamp,Furniture,East,1,10,43.2,12.59,UPI
+1146,2025-12-14,Rohan,Mechanical Keyboard,Electronics,South,6,8,607.2,230.66,Net Banking
+1147,2025-12-14,Vihaan,Water Bottle,Accessories,North,2,15,42.5,6.35,Debit Card
+1148,2025-12-15,Nila,Premium Pen,Stationery,Central,4,15,40.8,5.5,UPI
+1149,2025-12-15,Aisha,Standing Desk,Furniture,West,3,5,1197.0,355.43,Net Banking
+1150,2025-12-15,Priya,Premium Pen,Stationery,East,1,10,10.8,3.03,Cash
+1151,2025-12-16,Aditya,Smartphone X,Electronics,West,2,8,1564.0,592.66,UPI
+1152,2025-12-16,Arjun,USB-C Hub,Electronics,East,3,3,160.05,33.98,Net Banking
+1153,2025-12-16,Vihaan,Notebook Set,Stationery,East,1,8,16.56,5.42,UPI
+1154,2025-12-17,Arjun,Backpack,Accessories,North,2,10,117.0,44.07,Cash
+1155,2025-12-17,Kavin,Wireless Headphones,Electronics,East,2,8,331.2,125.38,Debit Card
+1156,2025-12-17,Vikram,Smart Watch,Accessories,South,1,10,198.0,76.18,UPI
+1157,2025-12-17,Nila,Monitor 27,Electronics,East,2,0,660.0,233.81,Cash
+1158,2025-12-18,Kavin,Desk Lamp,Furniture,East,2,15,81.6,18.87,UPI
+1159,2025-12-18,Kavin,Mechanical Keyboard,Electronics,North,1,15,93.5,8.15,Net Banking
+1160,2025-12-18,Anaya,Backpack,Accessories,West,1,8,59.8,22.31,Net Banking
+1161,2025-12-19,Aisha,Desk Lamp,Furniture,East,2,15,81.6,7.48,Cash
+1162,2025-12-19,Rahul,Monitor 27,Electronics,East,6,5,1881.0,477.47,Credit Card
+1163,2025-12-19,Aarav,Smartphone X,Electronics,South,1,3,824.5,335.12,Credit Card
+1164,2025-12-20,Priya,Mechanical Keyboard,Electronics,Central,2,3,213.4,59.52,UPI
+1165,2025-12-20,Priya,Wireless Headphones,Electronics,North,1,8,165.6,60.47,Credit Card
+1166,2025-12-20,Aisha,Smartphone X,Electronics,West,5,15,3612.5,588.21,Credit Card
+1167,2025-12-20,Rahul,Monitor 27,Electronics,North,2,3,640.2,246.64,Debit Card
+1168,2025-12-21,Priya,Laptop Pro 14,Electronics,West,1,15,1020.0,240.83,Cash
+1169,2025-12-21,Rahul,Smart Watch,Accessories,West,3,5,627.0,258.38,Cash
+1170,2025-12-21,Aisha,Smart Watch,Accessories,South,3,15,561.0,60.61,Credit Card
+1171,2025-12-22,Arjun,Backpack,Accessories,East,1,10,58.5,18.03,Net Banking
+1172,2025-12-22,Sara,Printer,Electronics,West,2,8,386.4,95.25,Net Banking
+1173,2025-12-22,Sara,Laptop Pro 14,Electronics,West,1,15,1020.0,306.95,UPI
+1174,2025-12-23,Vikram,Backpack,Accessories,South,1,15,55.25,14.43,Debit Card
+1175,2025-12-23,Sara,Desk Lamp,Furniture,West,3,8,132.48,25.69,UPI
+1176,2025-12-23,Aisha,Smart Watch,Accessories,South,1,15,187.0,28.09,UPI
+1177,2025-12-24,Priya,Mechanical Keyboard,Electronics,West,1,8,101.2,38.15,Debit Card
+1178,2025-12-24,Sara,Mechanical Keyboard,Electronics,East,1,0,110.0,24.22,Debit Card
+1179,2025-12-24,Arjun,USB-C Hub,Electronics,East,1,10,49.5,18.85,Net Banking
+1180,2025-12-24,Aisha,Wireless Headphones,Electronics,East,3,0,540.0,173.2,Debit Card
+1181,2025-12-25,Kavin,Water Bottle,Accessories,South,2,0,50.0,13.64,Cash
+1182,2025-12-25,Vikram,Smart Watch,Accessories,West,3,15,561.0,190.35,Credit Card
+1183,2025-12-25,Meera,Wireless Headphones,Electronics,Central,4,10,648.0,122.47,Credit Card
+1184,2025-12-26,Rohan,Backpack,Accessories,East,1,15,55.25,17.74,UPI
+1185,2025-12-26,Aisha,Desk Lamp,Furniture,North,1,8,44.16,9.35,UPI
+1186,2025-12-26,Rohan,USB-C Hub,Electronics,West,2,3,106.7,43.09,Net Banking
+1187,2025-12-27,Aisha,Water Bottle,Accessories,East,3,3,72.75,17.1,Debit Card
+1188,2025-12-27,Priya,Backpack,Accessories,East,1,5,61.75,20.43,UPI
+1189,2025-12-27,Ishita,Smartphone X,Electronics,South,3,10,2295.0,645.16,Net Banking
+1190,2025-12-27,Sara,Notebook Set,Stationery,North,5,8,82.8,13.6,Net Banking
+1191,2025-12-28,Arjun,Smartphone X,Electronics,North,3,15,2167.5,292.14,Debit Card
+1192,2025-12-28,Rahul,Standing Desk,Furniture,North,2,3,814.8,268.94,UPI
+1193,2025-12-28,Nila,Printer,Electronics,West,2,15,357.0,31.33,Net Banking
+1194,2025-12-29,Aditya,Printer,Electronics,East,3,10,567.0,93.92,Credit Card
+1195,2025-12-29,Vihaan,Monitor 27,Electronics,West,1,10,297.0,69.17,Net Banking
+1196,2025-12-29,Vikram,USB-C Hub,Electronics,East,1,10,49.5,11.35,Net Banking
+1197,2025-12-30,Aditya,Water Bottle,Accessories,West,1,5,23.75,9.52,UPI
+1198,2025-12-30,Nila,Backpack,Accessories,Central,6,5,370.5,136.83,Debit Card
+1199,2025-12-30,Kavin,Water Bottle,Accessories,South,3,0,75.0,33.27,Debit Card
+1200,2025-12-31,Diya,Desk Lamp,Furniture,East,2,10,86.4,31.16,Debit Card

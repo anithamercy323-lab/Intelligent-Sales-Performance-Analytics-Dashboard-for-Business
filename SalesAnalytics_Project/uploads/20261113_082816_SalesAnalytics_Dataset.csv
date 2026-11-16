@@ -1,0 +1,1001 @@
+order_id,order_date,product,category,customer,region,quantity,revenue,profit
+ORD0359,2025-10-01,Office Chair,Furniture,Online,West,8,1936.99,517.08
+ORD0357,2025-10-02,Desk Lamp,Furniture,Wholesale,West,12,929.1,259.5
+ORD0714,2025-10-02,Smartphone X,Electronics,Corporate,West,10,7878.6,1683.63
+ORD0324,2025-10-03,Wireless Headset,Electronics,Wholesale,South,10,1181.93,213.51
+ORD0532,2025-10-03,Bluetooth Speaker,Electronics,Online,North,3,426.72,82.44
+ORD0680,2025-10-03,Smart Watch,Electronics,Online,East,6,1326.46,284.53
+ORD0347,2025-10-04,Office Chair,Furniture,Wholesale,North,14,3493.51,865.02
+ORD0010,2025-10-05,Laptop Pro,Electronics,Online,East,7,7936.76,1731.59
+ORD0072,2025-10-05,Bluetooth Speaker,Electronics,Corporate,South,10,1466.92,300.3
+ORD0141,2025-10-05,Office Chair,Furniture,Retail,Central,1,260.14,68.15
+ORD0157,2025-10-05,Smartphone X,Electronics,Corporate,North,10,8089.1,1737.66
+ORD0160,2025-10-05,Office Chair,Furniture,Online,West,1,260.26,66.32
+ORD0503,2025-10-05,Bluetooth Speaker,Electronics,Corporate,South,2,293.38,68.34
+ORD0962,2025-10-05,Laptop Pro,Electronics,Retail,Central,6,6902.16,1565.53
+ORD0298,2025-10-06,Smartphone X,Electronics,Online,East,1,822.84,178.97
+ORD0452,2025-10-06,Running Shoes,Sports,Online,West,5,538.66,123.48
+ORD0945,2025-10-06,Smartphone X,Electronics,Retail,East,3,2359.44,486.11
+ORD0294,2025-10-07,Backpack,Accessories,Online,South,2,124.79,38.39
+ORD0836,2025-10-07,Backpack,Accessories,Online,South,7,413.63,140.18
+ORD0918,2025-10-07,Desk Lamp,Furniture,Retail,Central,2,147.1,36.72
+ORD0221,2025-10-08,Laptop Pro,Electronics,Wholesale,East,11,13096.4,2948.35
+ORD0127,2025-10-09,Office Chair,Furniture,Retail,Central,8,1951.72,573.19
+ORD0509,2025-10-09,Bluetooth Speaker,Electronics,Retail,Central,3,452.3,95.84
+ORD0814,2025-10-09,Backpack,Accessories,Retail,East,3,183.73,62.0
+ORD0444,2025-10-10,Skin Care Kit,Beauty,Retail,East,4,339.03,98.37
+ORD0472,2025-10-10,Smartphone X,Electronics,Wholesale,South,11,8963.39,1660.31
+ORD0106,2025-10-11,Backpack,Accessories,Online,Central,7,444.75,135.41
+ORD0544,2025-10-11,Smart Watch,Electronics,Corporate,North,4,915.52,226.31
+ORD0636,2025-10-11,Backpack,Accessories,Corporate,North,8,483.43,164.37
+ORD0879,2025-10-11,Skin Care Kit,Beauty,Wholesale,West,14,1310.76,443.53
+ORD0389,2025-10-12,Backpack,Accessories,Retail,South,7,406.11,138.46
+ORD0398,2025-10-12,Wireless Headset,Electronics,Online,North,6,728.91,156.77
+ORD0355,2025-10-13,Desk Lamp,Furniture,Corporate,West,5,369.44,78.26
+ORD0855,2025-10-13,Backpack,Accessories,Corporate,East,9,535.58,152.97
+ORD0062,2025-10-14,Skin Care Kit,Beauty,Retail,North,3,282.8,90.28
+ORD0822,2025-10-14,Skin Care Kit,Beauty,Retail,East,7,624.25,236.98
+ORD0076,2025-10-15,Backpack,Accessories,Retail,West,7,415.41,123.71
+ORD0590,2025-10-15,Smartphone X,Electronics,Corporate,South,10,8205.11,1937.26
+ORD0599,2025-10-15,Desk Lamp,Furniture,Wholesale,South,13,979.64,178.45
+ORD0830,2025-10-15,Backpack,Accessories,Retail,South,5,285.29,69.48
+ORD0860,2025-10-16,Bluetooth Speaker,Electronics,Retail,North,8,1179.32,207.07
+ORD0907,2025-10-16,Bluetooth Speaker,Electronics,Corporate,South,5,731.13,145.88
+ORD0928,2025-10-16,Desk Lamp,Furniture,Corporate,East,8,615.15,172.14
+ORD0243,2025-10-17,Office Chair,Furniture,Wholesale,Central,9,2318.75,501.53
+ORD0374,2025-10-17,Laptop Pro,Electronics,Retail,East,6,7171.22,1384.29
+ORD0533,2025-10-17,Backpack,Accessories,Online,South,8,491.75,133.18
+ORD0384,2025-10-18,Laptop Pro,Electronics,Online,North,7,7962.22,1891.69
+ORD0431,2025-10-18,Running Shoes,Sports,Retail,Central,4,417.65,104.12
+ORD0501,2025-10-18,Backpack,Accessories,Corporate,Central,8,465.59,136.28
+ORD0993,2025-10-18,Bluetooth Speaker,Electronics,Wholesale,North,13,1947.64,388.1
+ORD0296,2025-10-19,Running Shoes,Sports,Retail,West,6,650.01,179.32
+ORD0318,2025-10-19,Laptop Pro,Electronics,Wholesale,West,4,4629.31,814.9
+ORD0482,2025-10-19,Desk Lamp,Furniture,Wholesale,North,5,364.28,101.83
+ORD0798,2025-10-19,Bluetooth Speaker,Electronics,Wholesale,North,3,443.32,79.78
+ORD0934,2025-10-19,Backpack,Accessories,Online,North,2,117.26,35.59
+ORD0376,2025-10-20,Bluetooth Speaker,Electronics,Corporate,South,4,587.91,142.33
+ORD0626,2025-10-20,Smartphone X,Electronics,Corporate,Central,12,9051.18,1679.09
+ORD0391,2025-10-21,Skin Care Kit,Beauty,Online,West,4,362.05,98.57
+ORD0023,2025-10-22,Office Chair,Furniture,Online,South,5,1248.01,289.7
+ORD0460,2025-10-22,Bluetooth Speaker,Electronics,Online,South,2,306.25,47.5
+ORD0647,2025-10-22,Laptop Pro,Electronics,Corporate,West,9,10412.34,1807.87
+ORD0875,2025-10-22,Running Shoes,Sports,Retail,West,3,341.15,79.47
+ORD0249,2025-10-23,Backpack,Accessories,Retail,East,8,490.79,143.01
+ORD0848,2025-10-23,Desk Lamp,Furniture,Retail,North,2,143.45,29.51
+ORD0998,2025-10-23,Wireless Headset,Electronics,Corporate,South,7,820.39,143.86
+ORD0122,2025-10-24,Bluetooth Speaker,Electronics,Corporate,Central,9,1347.01,205.96
+ORD0283,2025-10-24,Smart Watch,Electronics,Online,South,2,459.85,91.65
+ORD0457,2025-10-24,Laptop Pro,Electronics,Corporate,North,8,9399.68,1389.28
+ORD0081,2025-10-25,Smart Watch,Electronics,Online,Central,7,1511.72,334.28
+ORD0082,2025-10-25,Backpack,Accessories,Wholesale,East,10,590.09,130.82
+ORD0110,2025-10-25,Backpack,Accessories,Retail,East,8,465.75,105.42
+ORD0248,2025-10-25,Smart Watch,Electronics,Retail,West,5,1133.45,254.55
+ORD0286,2025-10-25,Bluetooth Speaker,Electronics,Retail,South,1,147.68,35.33
+ORD0433,2025-10-25,Bluetooth Speaker,Electronics,Corporate,North,4,606.31,92.38
+ORD0873,2025-10-25,Bluetooth Speaker,Electronics,Retail,Central,1,141.11,28.95
+ORD0995,2025-10-25,Office Chair,Furniture,Retail,East,1,249.27,70.6
+ORD0570,2025-10-26,Wireless Headset,Electronics,Online,West,6,745.61,153.22
+ORD0952,2025-10-26,Running Shoes,Sports,Retail,North,4,427.77,107.55
+ORD0513,2025-10-27,Running Shoes,Sports,Wholesale,East,11,1277.77,329.24
+ORD0573,2025-10-27,Skin Care Kit,Beauty,Wholesale,East,8,713.32,253.73
+ORD0843,2025-10-27,Skin Care Kit,Beauty,Corporate,East,6,562.32,199.04
+ORD0990,2025-10-27,Bluetooth Speaker,Electronics,Corporate,Central,10,1412.74,331.62
+ORD0259,2025-10-28,Desk Lamp,Furniture,Wholesale,Central,11,838.31,151.19
+ORD0799,2025-10-28,Smart Watch,Electronics,Wholesale,West,12,2769.8,687.08
+ORD0409,2025-10-29,Backpack,Accessories,Wholesale,West,8,489.6,124.05
+ORD0591,2025-10-29,Wireless Headset,Electronics,Retail,West,1,113.94,18.35
+ORD0729,2025-10-29,Running Shoes,Sports,Corporate,Central,5,531.86,164.69
+ORD0809,2025-10-29,Desk Lamp,Furniture,Corporate,East,10,750.88,171.03
+ORD0567,2025-10-30,Wireless Headset,Electronics,Online,South,2,236.5,35.41
+ORD0260,2025-10-31,Smart Watch,Electronics,Wholesale,West,10,2260.85,477.6
+ORD0764,2025-10-31,Backpack,Accessories,Retail,East,1,61.1,21.01
+ORD0771,2025-10-31,Wireless Headset,Electronics,Corporate,East,10,1264.08,243.97
+ORD0925,2025-10-31,Running Shoes,Sports,Corporate,Central,9,1011.82,301.1
+ORD0124,2025-11-01,Office Chair,Furniture,Online,West,4,1033.58,245.64
+ORD0350,2025-11-01,Laptop Pro,Electronics,Wholesale,Central,9,10786.25,2390.02
+ORD0563,2025-11-01,Skin Care Kit,Beauty,Retail,Central,5,435.92,109.19
+ORD0825,2025-11-01,Backpack,Accessories,Retail,Central,3,176.41,40.46
+ORD0009,2025-11-02,Smartphone X,Electronics,Wholesale,North,14,11508.59,2418.32
+ORD0092,2025-11-03,Office Chair,Furniture,Corporate,East,6,1447.16,284.26
+ORD0516,2025-11-03,Smart Watch,Electronics,Retail,Central,8,1756.88,280.59
+ORD0804,2025-11-03,Skin Care Kit,Beauty,Online,North,1,86.42,21.66
+ORD0005,2025-11-04,Backpack,Accessories,Retail,Central,8,494.71,145.35
+ORD0193,2025-11-04,Skin Care Kit,Beauty,Online,South,5,447.93,148.74
+ORD0247,2025-11-04,Backpack,Accessories,Online,South,7,444.72,103.03
+ORD0491,2025-11-04,Backpack,Accessories,Retail,South,2,126.19,28.63
+ORD0772,2025-11-04,Office Chair,Furniture,Corporate,Central,5,1213.65,302.49
+ORD0802,2025-11-04,Office Chair,Furniture,Retail,Central,2,509.84,99.54
+ORD0039,2025-11-05,Wireless Headset,Electronics,Online,South,8,1002.29,202.27
+ORD0020,2025-11-06,Bluetooth Speaker,Electronics,Retail,Central,1,147.29,32.38
+ORD0515,2025-11-06,Smartphone X,Electronics,Wholesale,Central,9,6879.52,1188.54
+ORD0866,2025-11-06,Skin Care Kit,Beauty,Wholesale,East,3,283.62,74.77
+ORD0222,2025-11-07,Wireless Headset,Electronics,Corporate,East,7,841.25,127.42
+ORD0307,2025-11-07,Smartphone X,Electronics,Wholesale,South,13,10757.89,1976.43
+ORD0393,2025-11-07,Wireless Headset,Electronics,Corporate,South,5,612.46,141.28
+ORD0103,2025-11-08,Wireless Headset,Electronics,Retail,North,1,118.59,22.86
+ORD0214,2025-11-08,Laptop Pro,Electronics,Retail,West,7,8158.37,1956.31
+ORD0539,2025-11-08,Desk Lamp,Furniture,Online,Central,5,366.19,79.18
+ORD0589,2025-11-08,Skin Care Kit,Beauty,Online,Central,6,524.62,173.65
+ORD0619,2025-11-08,Smart Watch,Electronics,Retail,South,8,1689.93,271.9
+ORD0833,2025-11-08,Skin Care Kit,Beauty,Retail,South,1,89.82,31.72
+ORD0983,2025-11-08,Backpack,Accessories,Online,West,8,502.17,143.9
+ORD0133,2025-11-09,Smartphone X,Electronics,Retail,Central,2,1641.44,393.94
+ORD0281,2025-11-09,Skin Care Kit,Beauty,Online,South,7,628.21,184.13
+ORD0373,2025-11-09,Office Chair,Furniture,Corporate,Central,4,1022.65,275.52
+ORD0755,2025-11-09,Office Chair,Furniture,Wholesale,North,5,1256.36,247.42
+ORD0938,2025-11-09,Backpack,Accessories,Wholesale,West,9,533.32,151.84
+ORD0134,2025-11-10,Bluetooth Speaker,Electronics,Online,South,7,1061.71,216.31
+ORD0211,2025-11-10,Smartphone X,Electronics,Retail,West,3,2443.53,508.99
+ORD0300,2025-11-10,Smart Watch,Electronics,Corporate,North,7,1567.44,265.55
+ORD0305,2025-11-10,Running Shoes,Sports,Corporate,South,11,1166.33,268.03
+ORD0042,2025-11-11,Bluetooth Speaker,Electronics,Online,Central,2,297.9,70.8
+ORD0735,2025-11-11,Smart Watch,Electronics,Online,South,3,646.11,141.71
+ORD0883,2025-11-11,Smart Watch,Electronics,Wholesale,Central,15,3247.76,499.37
+ORD0225,2025-11-12,Backpack,Accessories,Retail,Central,7,435.25,112.36
+ORD0250,2025-11-14,Smartphone X,Electronics,Corporate,Central,10,7593.79,1481.31
+ORD0473,2025-11-14,Office Chair,Furniture,Online,North,5,1318.35,293.04
+ORD0940,2025-11-14,Backpack,Accessories,Online,South,3,190.19,49.02
+ORD0282,2025-11-15,Desk Lamp,Furniture,Retail,South,4,292.63,68.83
+ORD0631,2025-11-15,Desk Lamp,Furniture,Retail,East,5,370.76,82.19
+ORD0643,2025-11-15,Bluetooth Speaker,Electronics,Online,West,4,591.09,142.93
+ORD0397,2025-11-16,Laptop Pro,Electronics,Online,South,2,2429.51,476.86
+ORD0548,2025-11-16,Smart Watch,Electronics,Wholesale,Central,11,2297.15,491.09
+ORD0812,2025-11-16,Office Chair,Furniture,Corporate,North,8,2118.36,583.05
+ORD0858,2025-11-16,Running Shoes,Sports,Retail,South,6,623.33,132.97
+ORD0245,2025-11-17,Wireless Headset,Electronics,Retail,Central,5,595.62,138.88
+ORD0302,2025-11-17,Office Chair,Furniture,Online,North,4,1024.14,234.51
+ORD0351,2025-11-17,Wireless Headset,Electronics,Wholesale,South,8,990.23,152.36
+ORD0645,2025-11-17,Wireless Headset,Electronics,Retail,Central,4,504.24,102.85
+ORD0662,2025-11-17,Smart Watch,Electronics,Online,East,8,1689.19,316.35
+ORD0908,2025-11-17,Running Shoes,Sports,Corporate,Central,10,1142.28,303.69
+ORD0262,2025-11-18,Running Shoes,Sports,Wholesale,North,10,1124.82,320.72
+ORD0616,2025-11-18,Wireless Headset,Electronics,Corporate,North,8,903.96,162.64
+ORD0635,2025-11-18,Laptop Pro,Electronics,Retail,Central,8,9497.85,1481.42
+ORD0774,2025-11-18,Laptop Pro,Electronics,Corporate,South,8,9155.05,1695.57
+ORD0780,2025-11-18,Desk Lamp,Furniture,Online,Central,2,145.87,37.03
+ORD0947,2025-11-19,Smart Watch,Electronics,Corporate,South,5,1154.71,164.28
+ORD0057,2025-11-20,Skin Care Kit,Beauty,Online,West,2,189.21,59.42
+ORD0079,2025-11-20,Running Shoes,Sports,Online,West,6,692.53,153.99
+ORD0489,2025-11-20,Bluetooth Speaker,Electronics,Corporate,South,5,723.63,169.08
+ORD0496,2025-11-20,Laptop Pro,Electronics,Wholesale,West,8,9620.75,1996.89
+ORD0927,2025-11-20,Desk Lamp,Furniture,Wholesale,North,6,438.73,121.32
+ORD0011,2025-11-21,Laptop Pro,Electronics,Corporate,East,8,9720.29,1938.06
+ORD0149,2025-11-21,Smart Watch,Electronics,Online,West,4,884.14,154.06
+ORD0725,2025-11-21,Bluetooth Speaker,Electronics,Wholesale,East,7,997.82,218.08
+ORD0016,2025-11-22,Smartphone X,Electronics,Online,East,8,6471.19,963.52
+ORD0048,2025-11-23,Laptop Pro,Electronics,Online,East,1,1259.8,309.23
+ORD0253,2025-11-23,Skin Care Kit,Beauty,Corporate,North,8,738.49,198.34
+ORD0387,2025-11-23,Smartphone X,Electronics,Wholesale,South,6,5006.18,1103.5
+ORD0408,2025-11-23,Backpack,Accessories,Online,Central,6,358.44,93.69
+ORD0779,2025-11-24,Bluetooth Speaker,Electronics,Retail,South,2,315.69,52.32
+ORD0537,2025-11-26,Laptop Pro,Electronics,Corporate,West,8,9570.55,1691.26
+ORD0118,2025-11-27,Wireless Headset,Electronics,Retail,North,2,254.32,47.53
+ORD0569,2025-11-27,Bluetooth Speaker,Electronics,Corporate,North,11,1622.44,361.5
+ORD0610,2025-11-27,Skin Care Kit,Beauty,Wholesale,East,7,652.48,191.75
+ORD0340,2025-11-28,Laptop Pro,Electronics,Online,West,6,7360.45,1767.42
+ORD0454,2025-11-28,Office Chair,Furniture,Online,West,5,1286.3,270.48
+ORD0600,2025-11-28,Desk Lamp,Furniture,Wholesale,West,11,786.23,215.41
+ORD0846,2025-11-29,Laptop Pro,Electronics,Corporate,South,7,8864.41,1728.12
+ORD0059,2025-11-30,Smartphone X,Electronics,Retail,South,5,3925.64,699.7
+ORD0192,2025-11-30,Bluetooth Speaker,Electronics,Retail,Central,3,424.31,98.22
+ORD0040,2025-12-01,Laptop Pro,Electronics,Wholesale,East,9,10281.58,1499.91
+ORD0325,2025-12-01,Smartphone X,Electronics,Wholesale,Central,12,9133.87,1382.91
+ORD0892,2025-12-01,Backpack,Accessories,Corporate,South,11,640.25,214.12
+ORD0008,2025-12-02,Backpack,Accessories,Corporate,West,6,371.72,87.38
+ORD0523,2025-12-02,Smartphone X,Electronics,Corporate,West,8,6681.99,1638.04
+ORD0840,2025-12-02,Laptop Pro,Electronics,Online,North,1,1201.88,256.94
+ORD0942,2025-12-03,Wireless Headset,Electronics,Retail,West,3,377.86,64.35
+ORD0256,2025-12-04,Running Shoes,Sports,Corporate,North,6,665.69,163.28
+ORD0467,2025-12-04,Backpack,Accessories,Retail,Central,8,455.13,117.37
+ORD0709,2025-12-04,Skin Care Kit,Beauty,Online,West,1,93.6,35.35
+ORD0713,2025-12-04,Backpack,Accessories,Online,South,6,342.98,119.07
+ORD0897,2025-12-04,Backpack,Accessories,Retail,North,6,375.35,95.94
+ORD0487,2025-12-05,Backpack,Accessories,Wholesale,North,7,437.09,137.53
+ORD0975,2025-12-05,Skin Care Kit,Beauty,Wholesale,North,11,1001.85,358.77
+ORD0064,2025-12-06,Skin Care Kit,Beauty,Wholesale,West,11,1000.32,297.3
+ORD0074,2025-12-06,Office Chair,Furniture,Wholesale,West,13,3364.67,821.03
+ORD0538,2025-12-06,Smartphone X,Electronics,Retail,North,7,5463.21,1323.53
+ORD0109,2025-12-07,Running Shoes,Sports,Retail,East,1,108.56,32.81
+ORD0312,2025-12-08,Smart Watch,Electronics,Online,North,3,661.19,131.52
+ORD0474,2025-12-08,Running Shoes,Sports,Online,North,1,110.11,32.17
+ORD0490,2025-12-08,Wireless Headset,Electronics,Corporate,West,10,1156.29,188.81
+ORD0546,2025-12-08,Skin Care Kit,Beauty,Wholesale,Central,12,1137.92,419.67
+ORD0811,2025-12-08,Backpack,Accessories,Online,East,2,121.69,39.88
+ORD0197,2025-12-09,Desk Lamp,Furniture,Retail,Central,8,603.48,172.51
+ORD0369,2025-12-09,Running Shoes,Sports,Wholesale,Central,12,1332.9,378.49
+ORD0449,2025-12-09,Skin Care Kit,Beauty,Retail,South,3,274.71,75.77
+ORD0639,2025-12-10,Skin Care Kit,Beauty,Online,Central,3,282.58,106.18
+ORD0205,2025-12-11,Bluetooth Speaker,Electronics,Wholesale,West,15,2258.92,355.5
+ORD0668,2025-12-11,Bluetooth Speaker,Electronics,Retail,Central,5,734.09,178.29
+ORD0737,2025-12-11,Desk Lamp,Furniture,Wholesale,South,3,213.15,63.67
+ORD0105,2025-12-12,Bluetooth Speaker,Electronics,Wholesale,North,9,1423.94,324.34
+ORD0371,2025-12-12,Bluetooth Speaker,Electronics,Online,Central,8,1132.67,240.65
+ORD0561,2025-12-12,Wireless Headset,Electronics,Wholesale,South,7,790.29,151.24
+ORD0611,2025-12-13,Backpack,Accessories,Corporate,South,11,672.95,158.59
+ORD0791,2025-12-13,Office Chair,Furniture,Retail,South,5,1241.5,368.89
+ORD0453,2025-12-14,Wireless Headset,Electronics,Retail,Central,2,228.03,49.05
+ORD0142,2025-12-15,Backpack,Accessories,Online,North,4,245.08,66.47
+ORD0388,2025-12-15,Skin Care Kit,Beauty,Corporate,South,8,682.15,216.05
+ORD0483,2025-12-15,Laptop Pro,Electronics,Wholesale,West,5,6250.9,1124.9
+ORD0502,2025-12-16,Smartphone X,Electronics,Corporate,Central,8,6318.66,1476.07
+ORD0638,2025-12-16,Desk Lamp,Furniture,Corporate,Central,7,498.54,141.09
+ORD0060,2025-12-17,Smartphone X,Electronics,Wholesale,South,4,3192.76,688.54
+ORD0507,2025-12-17,Skin Care Kit,Beauty,Wholesale,North,7,608.47,170.75
+ORD0541,2025-12-18,Skin Care Kit,Beauty,Corporate,North,5,431.82,134.19
+ORD0627,2025-12-18,Desk Lamp,Furniture,Wholesale,South,6,462.7,98.25
+ORD0047,2025-12-19,Bluetooth Speaker,Electronics,Online,East,5,727.77,157.56
+ORD0818,2025-12-19,Smart Watch,Electronics,Wholesale,East,7,1530.27,347.2
+ORD0862,2025-12-19,Desk Lamp,Furniture,Retail,North,4,305.57,76.5
+ORD0968,2025-12-19,Smartphone X,Electronics,Online,West,5,4086.31,945.58
+ORD0090,2025-12-20,Backpack,Accessories,Wholesale,Central,8,479.12,148.93
+ORD0111,2025-12-20,Bluetooth Speaker,Electronics,Online,North,6,909.98,209.95
+ORD0461,2025-12-20,Office Chair,Furniture,Wholesale,Central,8,1893.14,435.88
+ORD0775,2025-12-20,Wireless Headset,Electronics,Online,South,3,365.55,55.0
+ORD0229,2025-12-21,Smart Watch,Electronics,Corporate,North,12,2766.82,510.39
+ORD0786,2025-12-21,Wireless Headset,Electronics,Online,South,3,380.44,94.26
+ORD0912,2025-12-21,Bluetooth Speaker,Electronics,Retail,East,8,1236.73,201.44
+ORD0303,2025-12-22,Smart Watch,Electronics,Wholesale,Central,12,2541.33,543.77
+ORD0559,2025-12-22,Skin Care Kit,Beauty,Retail,West,6,536.91,150.76
+ORD0685,2025-12-22,Desk Lamp,Furniture,Wholesale,South,9,642.7,134.87
+ORD0128,2025-12-23,Desk Lamp,Furniture,Corporate,East,8,598.63,119.53
+ORD0871,2025-12-23,Smart Watch,Electronics,Corporate,South,8,1799.57,274.03
+ORD0125,2025-12-25,Office Chair,Furniture,Wholesale,South,11,2692.73,513.08
+ORD0200,2025-12-25,Running Shoes,Sports,Corporate,East,8,916.63,207.09
+ORD0335,2025-12-25,Wireless Headset,Electronics,Online,North,2,245.94,42.79
+ORD0175,2025-12-26,Laptop Pro,Electronics,Retail,West,1,1235.45,262.53
+ORD0422,2025-12-26,Skin Care Kit,Beauty,Wholesale,South,11,986.38,265.72
+ORD0522,2025-12-26,Laptop Pro,Electronics,Corporate,West,6,7355.26,1491.06
+ORD0981,2025-12-26,Running Shoes,Sports,Retail,East,8,827.76,231.04
+ORD0183,2025-12-27,Desk Lamp,Furniture,Wholesale,South,11,849.1,163.63
+ORD0275,2025-12-27,Smart Watch,Electronics,Online,West,4,828.48,116.81
+ORD0218,2025-12-28,Smart Watch,Electronics,Retail,Central,1,214.72,47.61
+ORD0500,2025-12-28,Backpack,Accessories,Corporate,South,7,419.09,109.53
+ORD0670,2025-12-29,Smart Watch,Electronics,Wholesale,South,9,2004.34,304.25
+ORD0948,2025-12-29,Laptop Pro,Electronics,Retail,South,3,3553.93,828.49
+ORD0440,2025-12-31,Bluetooth Speaker,Electronics,Wholesale,East,4,564.47,109.84
+ORD0542,2025-12-31,Bluetooth Speaker,Electronics,Online,Central,8,1220.61,213.28
+ORD0629,2025-12-31,Bluetooth Speaker,Electronics,Corporate,West,8,1265.44,298.84
+ORD0136,2026-01-01,Skin Care Kit,Beauty,Online,South,1,89.45,26.77
+ORD0224,2026-01-01,Skin Care Kit,Beauty,Corporate,East,9,804.89,206.4
+ORD0946,2026-01-01,Office Chair,Furniture,Wholesale,East,9,2290.37,529.07
+ORD0316,2026-01-02,Smartphone X,Electronics,Retail,North,1,791.76,174.63
+ORD0941,2026-01-02,Bluetooth Speaker,Electronics,Wholesale,North,11,1627.52,286.98
+ORD0407,2026-01-03,Running Shoes,Sports,Corporate,South,7,746.0,165.04
+ORD0519,2026-01-03,Skin Care Kit,Beauty,Online,Central,2,179.73,57.72
+ORD0870,2026-01-03,Smart Watch,Electronics,Retail,Central,4,841.99,147.71
+ORD0475,2026-01-05,Smartphone X,Electronics,Online,Central,3,2493.87,540.23
+ORD0733,2026-01-05,Desk Lamp,Furniture,Retail,Central,8,593.15,175.92
+ORD0741,2026-01-05,Smart Watch,Electronics,Wholesale,West,3,629.92,125.23
+ORD0982,2026-01-05,Bluetooth Speaker,Electronics,Online,West,6,945.57,147.02
+ORD0299,2026-01-06,Skin Care Kit,Beauty,Retail,East,4,362.14,134.11
+ORD0425,2026-01-06,Smart Watch,Electronics,Corporate,West,7,1564.29,353.97
+ORD0278,2026-01-07,Wireless Headset,Electronics,Corporate,Central,7,868.98,145.65
+ORD0545,2026-01-07,Laptop Pro,Electronics,Retail,East,1,1259.3,237.13
+ORD0624,2026-01-07,Running Shoes,Sports,Corporate,Central,11,1281.41,356.04
+ORD0488,2026-01-08,Smartphone X,Electronics,Wholesale,South,10,8015.05,1560.51
+ORD0607,2026-01-08,Bluetooth Speaker,Electronics,Online,West,6,902.18,182.45
+ORD0850,2026-01-09,Office Chair,Furniture,Corporate,East,6,1552.33,334.03
+ORD0910,2026-01-09,Backpack,Accessories,Online,North,2,123.34,31.38
+ORD0097,2026-01-10,Wireless Headset,Electronics,Wholesale,East,8,1008.07,156.3
+ORD0158,2026-01-10,Smartphone X,Electronics,Corporate,East,10,7577.74,1529.59
+ORD0208,2026-01-10,Smart Watch,Electronics,Corporate,Central,11,2474.26,371.72
+ORD0311,2026-01-10,Running Shoes,Sports,Retail,North,5,568.91,170.21
+ORD0361,2026-01-10,Office Chair,Furniture,Online,North,6,1425.76,328.25
+ORD0410,2026-01-10,Wireless Headset,Electronics,Online,North,5,565.85,96.93
+ORD0126,2026-01-11,Office Chair,Furniture,Corporate,North,8,2072.14,414.63
+ORD0476,2026-01-11,Office Chair,Furniture,Online,West,6,1556.59,304.89
+ORD0557,2026-01-11,Smartphone X,Electronics,Retail,Central,7,5433.56,1307.76
+ORD0021,2026-01-12,Laptop Pro,Electronics,Retail,East,6,7580.28,1873.11
+ORD0264,2026-01-12,Laptop Pro,Electronics,Online,North,6,6782.64,1524.18
+ORD0289,2026-01-12,Smartphone X,Electronics,Retail,North,6,5042.49,1091.22
+ORD0328,2026-01-12,Backpack,Accessories,Retail,South,3,187.81,59.53
+ORD0976,2026-01-13,Desk Lamp,Furniture,Retail,East,3,222.02,56.38
+ORD0884,2026-01-14,Smart Watch,Electronics,Retail,West,1,225.34,47.27
+ORD0963,2026-01-14,Smart Watch,Electronics,Retail,West,1,228.32,34.09
+ORD0107,2026-01-15,Skin Care Kit,Beauty,Retail,North,1,94.94,30.13
+ORD0360,2026-01-15,Laptop Pro,Electronics,Wholesale,West,7,8552.73,1395.69
+ORD0723,2026-01-15,Bluetooth Speaker,Electronics,Retail,West,2,306.7,51.37
+ORD0877,2026-01-15,Running Shoes,Sports,Corporate,North,6,667.28,142.78
+ORD0101,2026-01-16,Backpack,Accessories,Retail,North,5,301.09,88.65
+ORD0486,2026-01-16,Smartphone X,Electronics,Online,East,4,3213.68,668.48
+ORD0156,2026-01-17,Desk Lamp,Furniture,Retail,North,1,75.86,17.0
+ORD0314,2026-01-17,Office Chair,Furniture,Retail,East,6,1553.01,343.8
+ORD0869,2026-01-17,Laptop Pro,Electronics,Retail,East,6,7240.11,1297.31
+ORD0146,2026-01-18,Wireless Headset,Electronics,Online,West,1,118.27,27.79
+ORD0330,2026-01-18,Bluetooth Speaker,Electronics,Corporate,South,8,1223.32,280.93
+ORD0346,2026-01-18,Backpack,Accessories,Retail,West,8,458.67,141.1
+ORD0499,2026-01-18,Office Chair,Furniture,Corporate,South,10,2419.41,723.87
+ORD0058,2026-01-19,Wireless Headset,Electronics,Retail,North,7,829.95,179.89
+ORD0078,2026-01-19,Smartphone X,Electronics,Corporate,West,8,6721.6,1525.19
+ORD0251,2026-01-19,Backpack,Accessories,Online,South,3,186.56,63.02
+ORD0263,2026-01-19,Wireless Headset,Electronics,Online,South,4,451.77,86.31
+ORD0691,2026-01-19,Backpack,Accessories,Retail,East,2,116.29,25.79
+ORD0767,2026-01-19,Smartphone X,Electronics,Retail,Central,6,4796.55,734.02
+ORD0824,2026-01-19,Skin Care Kit,Beauty,Online,South,8,686.9,224.21
+ORD0494,2026-01-20,Smart Watch,Electronics,Retail,North,4,880.71,206.23
+ORD0794,2026-01-20,Office Chair,Furniture,Corporate,South,6,1527.89,275.06
+ORD0015,2026-01-21,Desk Lamp,Furniture,Online,North,3,227.96,42.44
+ORD0173,2026-01-21,Skin Care Kit,Beauty,Online,Central,1,94.78,26.81
+ORD0464,2026-01-21,Backpack,Accessories,Online,South,5,308.61,103.1
+ORD0038,2026-01-22,Bluetooth Speaker,Electronics,Online,West,4,594.09,146.4
+ORD0180,2026-01-22,Skin Care Kit,Beauty,Retail,Central,5,459.5,133.81
+ORD0565,2026-01-22,Wireless Headset,Electronics,Retail,East,5,605.73,145.61
+ORD0806,2026-01-22,Smartphone X,Electronics,Corporate,West,8,6541.56,1174.8
+ORD0585,2026-01-23,Bluetooth Speaker,Electronics,Retail,Central,7,1019.48,221.38
+ORD0342,2026-01-24,Smart Watch,Electronics,Corporate,South,6,1320.25,326.6
+ORD0368,2026-01-24,Laptop Pro,Electronics,Corporate,North,5,5847.32,1135.61
+ORD0931,2026-01-24,Laptop Pro,Electronics,Corporate,South,11,13472.04,1996.85
+ORD0973,2026-01-24,Backpack,Accessories,Retail,North,8,470.26,130.37
+ORD0172,2026-01-25,Desk Lamp,Furniture,Retail,East,4,290.77,80.63
+ORD0414,2026-01-25,Wireless Headset,Electronics,Corporate,East,9,1141.58,264.45
+ORD0067,2026-01-26,Office Chair,Furniture,Retail,South,3,778.88,190.21
+ORD0068,2026-01-26,Skin Care Kit,Beauty,Retail,West,4,348.87,94.22
+ORD0191,2026-01-26,Running Shoes,Sports,Wholesale,West,9,1023.94,251.95
+ORD0889,2026-01-26,Bluetooth Speaker,Electronics,Retail,Central,5,739.1,106.3
+ORD0929,2026-01-26,Desk Lamp,Furniture,Wholesale,South,9,679.6,153.15
+ORD0063,2026-01-27,Running Shoes,Sports,Retail,South,1,114.5,27.61
+ORD0344,2026-01-27,Bluetooth Speaker,Electronics,Corporate,South,4,586.04,117.62
+ORD0426,2026-01-27,Wireless Headset,Electronics,Retail,East,6,681.95,140.81
+ORD0219,2026-01-28,Office Chair,Furniture,Retail,North,5,1300.72,301.12
+ORD0321,2026-01-28,Running Shoes,Sports,Wholesale,West,8,878.43,195.02
+ORD0479,2026-01-28,Backpack,Accessories,Retail,East,1,56.44,14.67
+ORD0593,2026-01-28,Office Chair,Furniture,Wholesale,East,7,1695.16,367.19
+ORD0152,2026-01-29,Skin Care Kit,Beauty,Online,Central,8,724.89,244.49
+ORD0217,2026-01-29,Desk Lamp,Furniture,Online,South,6,434.8,81.83
+ORD0881,2026-01-29,Laptop Pro,Electronics,Corporate,Central,9,10673.39,1684.0
+ORD0415,2026-01-30,Desk Lamp,Furniture,Online,South,7,543.27,135.58
+ORD0428,2026-01-30,Backpack,Accessories,Wholesale,North,9,512.21,171.15
+ORD0969,2026-01-30,Bluetooth Speaker,Electronics,Wholesale,Central,4,564.02,89.42
+ORD0427,2026-01-31,Desk Lamp,Furniture,Retail,North,4,290.79,65.78
+ORD0701,2026-01-31,Running Shoes,Sports,Retail,West,6,641.18,157.35
+ORD0031,2026-02-01,Smartphone X,Electronics,Retail,West,8,6224.0,1171.9
+ORD0201,2026-02-02,Wireless Headset,Electronics,Retail,West,7,841.26,192.4
+ORD0235,2026-02-03,Wireless Headset,Electronics,Retail,East,8,972.19,175.1
+ORD0442,2026-02-03,Laptop Pro,Electronics,Online,East,2,2436.57,557.79
+ORD0689,2026-02-03,Running Shoes,Sports,Retail,Central,3,339.09,103.55
+ORD0721,2026-02-03,Backpack,Accessories,Retail,East,7,403.05,124.48
+ORD0436,2026-02-04,Smartphone X,Electronics,Corporate,South,7,5613.18,1401.15
+ORD0184,2026-02-05,Running Shoes,Sports,Retail,South,2,207.05,43.87
+ORD0213,2026-02-05,Desk Lamp,Furniture,Corporate,West,4,292.99,53.91
+ORD0297,2026-02-05,Wireless Headset,Electronics,Retail,West,5,587.42,143.06
+ORD0348,2026-02-05,Backpack,Accessories,Corporate,North,12,718.95,186.81
+ORD0711,2026-02-05,Smartphone X,Electronics,Wholesale,South,7,5363.09,768.38
+ORD0032,2026-02-06,Running Shoes,Sports,Retail,North,2,213.13,58.95
+ORD0553,2026-02-06,Bluetooth Speaker,Electronics,Wholesale,North,8,1175.31,242.41
+ORD0652,2026-02-06,Smartphone X,Electronics,Wholesale,North,11,8532.14,1253.87
+ORD0580,2026-02-07,Running Shoes,Sports,Wholesale,North,12,1325.28,366.08
+ORD0655,2026-02-07,Skin Care Kit,Beauty,Retail,South,7,620.85,199.21
+ORD0353,2026-02-08,Wireless Headset,Electronics,Online,North,6,728.97,148.29
+ORD0727,2026-02-08,Laptop Pro,Electronics,Online,East,1,1168.26,179.93
+ORD0144,2026-02-09,Office Chair,Furniture,Online,West,2,522.67,148.58
+ORD0421,2026-02-09,Desk Lamp,Furniture,Wholesale,South,7,551.19,119.52
+ORD0558,2026-02-09,Running Shoes,Sports,Corporate,East,12,1323.31,317.97
+ORD0719,2026-02-09,Wireless Headset,Electronics,Online,North,1,123.75,30.73
+ORD0170,2026-02-10,Office Chair,Furniture,Wholesale,North,9,2120.18,575.07
+ORD0651,2026-02-10,Skin Care Kit,Beauty,Corporate,South,4,353.38,122.54
+ORD0769,2026-02-11,Running Shoes,Sports,Retail,South,2,215.93,44.02
+ORD0834,2026-02-11,Bluetooth Speaker,Electronics,Wholesale,North,10,1505.38,275.61
+ORD0744,2026-02-12,Office Chair,Furniture,Retail,East,8,2096.46,439.07
+ORD0898,2026-02-13,Wireless Headset,Electronics,Retail,North,1,118.67,18.1
+ORD0071,2026-02-14,Backpack,Accessories,Wholesale,South,8,453.97,144.17
+ORD0958,2026-02-14,Laptop Pro,Electronics,Corporate,West,9,10784.57,2354.52
+ORD0654,2026-02-15,Wireless Headset,Electronics,Retail,West,7,818.18,140.09
+ORD0747,2026-02-15,Office Chair,Furniture,Wholesale,East,8,1919.53,464.04
+ORD0322,2026-02-16,Wireless Headset,Electronics,Wholesale,North,11,1383.64,224.68
+ORD0337,2026-02-16,Desk Lamp,Furniture,Wholesale,Central,9,672.51,160.93
+ORD0676,2026-02-16,Bluetooth Speaker,Electronics,Corporate,Central,9,1391.32,297.68
+ORD0577,2026-02-17,Skin Care Kit,Beauty,Corporate,West,11,975.25,271.76
+ORD0808,2026-02-17,Skin Care Kit,Beauty,Online,North,7,637.31,226.89
+ORD0820,2026-02-17,Desk Lamp,Furniture,Corporate,Central,10,768.28,181.66
+ORD0290,2026-02-18,Running Shoes,Sports,Corporate,South,8,839.75,223.3
+ORD0447,2026-02-18,Smart Watch,Electronics,Retail,West,8,1662.91,326.5
+ORD0622,2026-02-18,Smartphone X,Electronics,Retail,West,4,3145.0,497.13
+ORD0687,2026-02-18,Running Shoes,Sports,Wholesale,East,8,931.14,217.99
+ORD0827,2026-02-18,Desk Lamp,Furniture,Retail,Central,1,72.28,14.78
+ORD0865,2026-02-18,Smart Watch,Electronics,Retail,Central,1,208.98,32.16
+ORD0215,2026-02-19,Office Chair,Furniture,Corporate,Central,6,1585.82,365.86
+ORD0365,2026-02-19,Backpack,Accessories,Online,East,3,174.53,55.44
+ORD0960,2026-02-19,Running Shoes,Sports,Retail,North,8,928.27,226.25
+ORD0145,2026-02-20,Bluetooth Speaker,Electronics,Corporate,West,8,1182.78,236.95
+ORD0154,2026-02-20,Bluetooth Speaker,Electronics,Retail,South,3,435.53,79.7
+ORD0564,2026-02-20,Smartphone X,Electronics,Online,South,7,5516.22,1152.57
+ORD0679,2026-02-20,Smart Watch,Electronics,Online,East,6,1264.09,275.82
+ORD0845,2026-02-20,Skin Care Kit,Beauty,Wholesale,Central,14,1247.62,462.29
+ORD0847,2026-02-21,Skin Care Kit,Beauty,Wholesale,Central,10,846.89,230.63
+ORD0153,2026-02-23,Running Shoes,Sports,Retail,West,7,778.0,175.83
+ORD0155,2026-02-23,Bluetooth Speaker,Electronics,Wholesale,South,9,1381.17,343.96
+ORD0166,2026-02-23,Smart Watch,Electronics,Online,South,8,1700.03,353.87
+ORD0420,2026-02-23,Running Shoes,Sports,Online,North,3,316.2,98.89
+ORD0571,2026-02-23,Skin Care Kit,Beauty,Retail,North,6,549.31,181.74
+ORD0813,2026-02-23,Skin Care Kit,Beauty,Online,Central,3,281.89,95.99
+ORD0293,2026-02-24,Wireless Headset,Electronics,Retail,South,2,248.89,53.38
+ORD0690,2026-02-24,Wireless Headset,Electronics,Wholesale,East,4,477.42,96.03
+ORD0977,2026-02-24,Office Chair,Furniture,Retail,East,7,1706.61,474.26
+ORD0985,2026-02-24,Desk Lamp,Furniture,Retail,Central,6,439.4,93.55
+ORD0077,2026-02-25,Bluetooth Speaker,Electronics,Online,North,6,870.55,162.44
+ORD0404,2026-02-26,Bluetooth Speaker,Electronics,Corporate,West,9,1387.06,243.55
+ORD0602,2026-02-26,Office Chair,Furniture,Wholesale,North,8,2093.3,489.85
+ORD0805,2026-02-26,Backpack,Accessories,Wholesale,East,15,893.82,208.46
+ORD0130,2026-02-27,Wireless Headset,Electronics,Corporate,South,6,683.84,126.07
+ORD0182,2026-02-27,Office Chair,Furniture,Online,Central,5,1284.19,336.76
+ORD0216,2026-02-27,Desk Lamp,Furniture,Retail,Central,3,233.8,65.64
+ORD0644,2026-02-27,Skin Care Kit,Beauty,Wholesale,South,7,606.64,219.04
+ORD0019,2026-02-28,Running Shoes,Sports,Corporate,East,11,1162.8,371.57
+ORD0390,2026-02-28,Bluetooth Speaker,Electronics,Online,South,5,783.36,175.08
+ORD0448,2026-02-28,Bluetooth Speaker,Electronics,Wholesale,South,7,1006.14,177.22
+ORD0505,2026-02-28,Backpack,Accessories,Wholesale,Central,12,749.26,165.69
+ORD0972,2026-02-28,Smartphone X,Electronics,Wholesale,Central,9,7303.59,1088.97
+ORD0036,2026-03-01,Smart Watch,Electronics,Corporate,West,2,456.43,105.1
+ORD0366,2026-03-01,Wireless Headset,Electronics,Online,West,8,992.74,189.48
+ORD0693,2026-03-01,Smartphone X,Electronics,Corporate,East,9,6800.81,1696.16
+ORD0891,2026-03-01,Smartphone X,Electronics,Online,North,5,3996.68,676.31
+ORD0950,2026-03-01,Skin Care Kit,Beauty,Retail,East,1,91.59,31.64
+ORD0228,2026-03-02,Backpack,Accessories,Retail,West,5,311.87,79.02
+ORD0265,2026-03-02,Bluetooth Speaker,Electronics,Wholesale,West,6,886.15,124.19
+ORD0640,2026-03-02,Desk Lamp,Furniture,Corporate,West,8,617.54,134.67
+ORD0096,2026-03-03,Running Shoes,Sports,Wholesale,East,10,1088.49,227.62
+ORD0279,2026-03-03,Skin Care Kit,Beauty,Retail,Central,2,187.34,63.38
+ORD0671,2026-03-03,Desk Lamp,Furniture,Online,South,7,498.4,107.86
+ORD0338,2026-03-04,Smartphone X,Electronics,Wholesale,West,11,8448.73,1647.84
+ORD0520,2026-03-05,Running Shoes,Sports,Wholesale,South,14,1623.56,484.59
+ORD0849,2026-03-05,Laptop Pro,Electronics,Online,South,5,6221.87,991.65
+ORD0915,2026-03-05,Skin Care Kit,Beauty,Wholesale,West,8,692.32,236.92
+ORD0922,2026-03-05,Bluetooth Speaker,Electronics,Retail,East,5,779.06,125.25
+ORD0481,2026-03-06,Laptop Pro,Electronics,Online,South,4,4847.88,987.45
+ORD0159,2026-03-07,Skin Care Kit,Beauty,Online,East,1,87.85,33.09
+ORD0970,2026-03-07,Wireless Headset,Electronics,Online,East,6,758.69,136.86
+ORD0529,2026-03-08,Office Chair,Furniture,Corporate,South,9,2128.31,473.37
+ORD0979,2026-03-08,Wireless Headset,Electronics,Online,South,3,371.36,83.02
+ORD0266,2026-03-09,Running Shoes,Sports,Online,Central,1,107.24,30.59
+ORD0924,2026-03-09,Running Shoes,Sports,Wholesale,West,6,655.92,198.83
+ORD0022,2026-03-10,Running Shoes,Sports,Wholesale,North,13,1407.09,373.03
+ORD0199,2026-03-10,Running Shoes,Sports,Retail,North,2,209.15,47.54
+ORD0776,2026-03-10,Office Chair,Furniture,Wholesale,North,11,2703.58,604.58
+ORD1000,2026-03-10,Smart Watch,Electronics,Retail,West,2,451.89,111.23
+ORD0189,2026-03-11,Backpack,Accessories,Corporate,East,8,469.75,145.81
+ORD0606,2026-03-11,Desk Lamp,Furniture,Retail,East,4,316.12,69.69
+ORD0135,2026-03-12,Smartphone X,Electronics,Wholesale,West,13,9939.33,2451.84
+ORD0416,2026-03-13,Laptop Pro,Electronics,Retail,North,4,5086.7,964.9
+ORD0642,2026-03-13,Smart Watch,Electronics,Retail,West,6,1302.02,242.47
+ORD0198,2026-03-14,Running Shoes,Sports,Retail,Central,3,338.92,106.3
+ORD0163,2026-03-15,Skin Care Kit,Beauty,Wholesale,West,11,1033.73,312.59
+ORD0518,2026-03-15,Backpack,Accessories,Retail,East,2,112.95,31.2
+ORD0576,2026-03-15,Smartphone X,Electronics,Corporate,North,5,4057.0,604.43
+ORD0740,2026-03-15,Running Shoes,Sports,Retail,West,4,442.23,97.39
+ORD0234,2026-03-16,Laptop Pro,Electronics,Retail,East,7,8039.73,1912.74
+ORD0527,2026-03-16,Smartphone X,Electronics,Retail,Central,8,6463.83,1415.46
+ORD0663,2026-03-16,Skin Care Kit,Beauty,Wholesale,South,6,525.38,169.89
+ORD0203,2026-03-17,Running Shoes,Sports,Online,Central,7,774.85,191.3
+ORD0227,2026-03-17,Laptop Pro,Electronics,Wholesale,South,14,17231.49,3564.67
+ORD0656,2026-03-17,Smart Watch,Electronics,Wholesale,South,15,3188.44,492.13
+ORD0996,2026-03-17,Office Chair,Furniture,Wholesale,East,7,1697.59,373.42
+ORD0405,2026-03-18,Laptop Pro,Electronics,Wholesale,East,11,13824.52,2916.13
+ORD0560,2026-03-18,Smartphone X,Electronics,Retail,South,4,3270.15,683.99
+ORD0672,2026-03-18,Wireless Headset,Electronics,Corporate,North,8,1001.0,188.0
+ORD0012,2026-03-19,Smartphone X,Electronics,Corporate,West,10,8291.53,1330.98
+ORD0276,2026-03-19,Backpack,Accessories,Online,South,8,497.76,135.57
+ORD0511,2026-03-23,Wireless Headset,Electronics,Retail,Central,1,117.68,26.77
+ORD0761,2026-03-23,Desk Lamp,Furniture,Online,South,5,353.6,86.94
+ORD0137,2026-03-24,Bluetooth Speaker,Electronics,Wholesale,West,6,894.21,210.2
+ORD0100,2026-03-25,Running Shoes,Sports,Wholesale,North,8,905.88,251.24
+ORD0332,2026-03-25,Smartphone X,Electronics,Online,South,3,2404.09,531.27
+ORD0728,2026-03-25,Office Chair,Furniture,Corporate,West,11,2799.77,684.18
+ORD0900,2026-03-25,Smart Watch,Electronics,Corporate,West,10,2184.94,449.93
+ORD0914,2026-03-25,Skin Care Kit,Beauty,Online,Central,1,88.11,31.45
+ORD0715,2026-03-27,Laptop Pro,Electronics,Wholesale,North,5,5901.06,869.25
+ORD0748,2026-03-27,Backpack,Accessories,Retail,North,5,311.23,72.93
+ORD0343,2026-03-28,Running Shoes,Sports,Online,North,7,779.52,167.87
+ORD0035,2026-03-29,Smartphone X,Electronics,Corporate,South,6,5005.34,1063.42
+ORD0498,2026-03-29,Running Shoes,Sports,Wholesale,South,9,1030.87,261.73
+ORD0139,2026-03-30,Smart Watch,Electronics,Corporate,East,8,1722.65,425.56
+ORD0592,2026-03-30,Wireless Headset,Electronics,Wholesale,East,14,1749.91,405.13
+ORD0726,2026-03-30,Wireless Headset,Electronics,Retail,South,3,340.78,80.99
+ORD0333,2026-03-31,Laptop Pro,Electronics,Online,West,3,3815.52,671.27
+ORD0628,2026-03-31,Backpack,Accessories,Corporate,North,12,744.57,234.93
+ORD0842,2026-04-02,Running Shoes,Sports,Online,West,7,754.23,186.55
+ORD0310,2026-04-03,Skin Care Kit,Beauty,Corporate,South,8,717.37,180.41
+ORD0187,2026-04-04,Bluetooth Speaker,Electronics,Wholesale,South,7,1098.66,225.48
+ORD0257,2026-04-04,Wireless Headset,Electronics,Corporate,North,7,874.7,187.49
+ORD0937,2026-04-04,Wireless Headset,Electronics,Wholesale,Central,5,565.02,88.64
+ORD0471,2026-04-05,Running Shoes,Sports,Retail,Central,7,770.34,195.25
+ORD0797,2026-04-05,Running Shoes,Sports,Online,East,8,921.78,280.58
+ORD0003,2026-04-06,Skin Care Kit,Beauty,Wholesale,South,14,1214.59,330.57
+ORD0113,2026-04-06,Office Chair,Furniture,Online,North,2,497.93,89.93
+ORD0352,2026-04-06,Running Shoes,Sports,Corporate,East,8,885.56,237.78
+ORD0854,2026-04-06,Skin Care Kit,Beauty,Retail,South,2,174.64,45.48
+ORD0890,2026-04-06,Smart Watch,Electronics,Online,Central,6,1300.71,264.57
+ORD0209,2026-04-07,Wireless Headset,Electronics,Retail,South,6,723.52,157.82
+ORD0395,2026-04-07,Bluetooth Speaker,Electronics,Online,West,8,1217.19,225.46
+ORD0446,2026-04-07,Skin Care Kit,Beauty,Online,South,8,704.43,178.36
+ORD0484,2026-04-07,Backpack,Accessories,Wholesale,West,4,227.4,63.75
+ORD0013,2026-04-08,Desk Lamp,Furniture,Retail,North,6,423.03,91.62
+ORD0162,2026-04-08,Smart Watch,Electronics,Corporate,East,9,2079.65,404.84
+ORD0608,2026-04-08,Desk Lamp,Furniture,Retail,South,5,357.96,97.97
+ORD0633,2026-04-08,Office Chair,Furniture,Online,West,1,238.51,46.56
+ORD0601,2026-04-09,Wireless Headset,Electronics,Retail,West,7,795.94,127.83
+ORD0766,2026-04-09,Office Chair,Furniture,Retail,West,6,1534.54,436.26
+ORD0143,2026-04-10,Smartphone X,Electronics,Online,North,1,847.36,188.76
+ORD0459,2026-04-10,Smartphone X,Electronics,Retail,East,8,6320.71,1214.47
+ORD0700,2026-04-10,Office Chair,Furniture,Wholesale,East,13,3177.63,850.29
+ORD0517,2026-04-11,Wireless Headset,Electronics,Retail,West,5,619.14,92.07
+ORD0673,2026-04-11,Running Shoes,Sports,Wholesale,South,10,1158.5,252.47
+ORD0841,2026-04-11,Bluetooth Speaker,Electronics,Corporate,South,6,891.18,194.77
+ORD0936,2026-04-11,Backpack,Accessories,Wholesale,Central,6,347.32,108.6
+ORD0653,2026-04-12,Skin Care Kit,Beauty,Corporate,East,4,375.74,111.11
+ORD0659,2026-04-12,Backpack,Accessories,Online,North,1,60.51,21.14
+ORD0770,2026-04-12,Wireless Headset,Electronics,Retail,Central,8,946.99,200.0
+ORD0089,2026-04-13,Skin Care Kit,Beauty,Retail,East,5,441.64,166.36
+ORD0751,2026-04-13,Backpack,Accessories,Online,North,3,172.86,50.83
+ORD0839,2026-04-13,Smartphone X,Electronics,Retail,Central,5,3842.95,683.64
+ORD0116,2026-04-14,Office Chair,Furniture,Online,North,4,976.12,183.59
+ORD0704,2026-04-14,Desk Lamp,Furniture,Online,North,8,583.09,149.45
+ORD0738,2026-04-14,Office Chair,Furniture,Corporate,Central,5,1236.34,291.51
+ORD0939,2026-04-14,Running Shoes,Sports,Retail,West,2,219.74,50.38
+ORD0524,2026-04-15,Running Shoes,Sports,Online,North,5,532.0,169.62
+ORD0666,2026-04-15,Smartphone X,Electronics,Retail,North,3,2485.12,478.35
+ORD0017,2026-04-16,Smartphone X,Electronics,Online,South,8,6657.51,1166.97
+ORD0583,2026-04-16,Skin Care Kit,Beauty,Retail,East,4,377.17,133.09
+ORD0954,2026-04-17,Running Shoes,Sports,Corporate,Central,5,568.45,119.12
+ORD0411,2026-04-18,Smart Watch,Electronics,Retail,Central,2,429.34,73.23
+ORD0528,2026-04-18,Running Shoes,Sports,Online,Central,5,550.92,168.96
+ORD0675,2026-04-18,Wireless Headset,Electronics,Corporate,North,7,794.88,131.48
+ORD0784,2026-04-18,Desk Lamp,Furniture,Corporate,East,6,471.28,132.44
+ORD0317,2026-04-19,Smartphone X,Electronics,Wholesale,South,14,10887.66,1926.29
+ORD0716,2026-04-19,Backpack,Accessories,Corporate,South,5,307.3,76.18
+ORD0006,2026-04-20,Smartphone X,Electronics,Corporate,Central,11,8365.45,1351.51
+ORD0760,2026-04-20,Desk Lamp,Furniture,Online,South,3,223.31,57.14
+ORD0244,2026-04-21,Desk Lamp,Furniture,Wholesale,Central,5,392.75,91.6
+ORD0434,2026-04-21,Desk Lamp,Furniture,Wholesale,Central,9,712.39,170.11
+ORD0480,2026-04-21,Backpack,Accessories,Wholesale,South,8,481.99,163.46
+ORD0034,2026-04-22,Smart Watch,Electronics,Online,North,5,1096.5,174.4
+ORD0554,2026-04-22,Smartphone X,Electronics,Wholesale,West,13,10575.28,1846.0
+ORD0648,2026-04-22,Smart Watch,Electronics,Wholesale,North,6,1370.34,274.65
+ORD0742,2026-04-22,Laptop Pro,Electronics,Online,South,3,3751.27,936.82
+ORD0267,2026-04-23,Smartphone X,Electronics,Wholesale,West,7,5907.63,1439.69
+ORD0731,2026-04-23,Laptop Pro,Electronics,Retail,Central,1,1253.5,237.09
+ORD0403,2026-04-24,Office Chair,Furniture,Online,West,8,2070.13,541.45
+ORD0641,2026-04-24,Running Shoes,Sports,Corporate,South,7,749.97,186.3
+ORD0510,2026-04-25,Smartphone X,Electronics,Online,South,4,3123.17,600.19
+ORD0819,2026-04-25,Running Shoes,Sports,Wholesale,East,5,535.3,127.87
+ORD0246,2026-04-26,Desk Lamp,Furniture,Online,West,6,462.03,90.62
+ORD0477,2026-04-26,Backpack,Accessories,Wholesale,West,8,462.96,112.69
+ORD0796,2026-04-26,Skin Care Kit,Beauty,Corporate,North,5,443.19,129.29
+ORD0987,2026-04-26,Laptop Pro,Electronics,Retail,South,4,4792.4,1186.81
+ORD0272,2026-04-27,Laptop Pro,Electronics,Online,Central,3,3553.28,755.08
+ORD0308,2026-04-27,Skin Care Kit,Beauty,Corporate,Central,4,350.01,108.18
+ORD0445,2026-04-27,Skin Care Kit,Beauty,Retail,North,4,368.94,93.14
+ORD0102,2026-04-28,Office Chair,Furniture,Wholesale,East,11,2722.78,813.68
+ORD0364,2026-04-28,Laptop Pro,Electronics,Corporate,Central,8,10105.72,1918.16
+ORD0579,2026-04-28,Wireless Headset,Electronics,Retail,Central,5,633.44,108.85
+ORD0750,2026-04-28,Backpack,Accessories,Corporate,East,8,506.77,173.26
+ORD0991,2026-04-28,Desk Lamp,Furniture,Corporate,South,5,354.28,68.84
+ORD0050,2026-04-30,Bluetooth Speaker,Electronics,Retail,East,5,786.98,181.38
+ORD0468,2026-04-30,Office Chair,Furniture,Corporate,West,4,1040.8,275.88
+ORD0195,2026-05-01,Smart Watch,Electronics,Retail,North,6,1246.55,212.32
+ORD0241,2026-05-02,Backpack,Accessories,Corporate,East,8,473.96,137.73
+ORD0383,2026-05-02,Running Shoes,Sports,Wholesale,Central,6,650.67,208.03
+ORD0437,2026-05-02,Desk Lamp,Furniture,Online,Central,1,74.18,16.05
+ORD0863,2026-05-02,Backpack,Accessories,Online,South,7,439.08,115.38
+ORD0327,2026-05-03,Laptop Pro,Electronics,Wholesale,East,7,8755.41,1747.41
+ORD0478,2026-05-03,Running Shoes,Sports,Retail,South,2,215.15,53.02
+ORD0667,2026-05-03,Running Shoes,Sports,Online,West,2,232.3,52.41
+ORD0823,2026-05-03,Wireless Headset,Electronics,Online,West,7,867.76,175.96
+ORD0906,2026-05-03,Office Chair,Furniture,Wholesale,West,4,945.37,201.95
+ORD0112,2026-05-04,Office Chair,Furniture,Corporate,West,4,1044.08,292.8
+ORD0210,2026-05-04,Bluetooth Speaker,Electronics,Online,East,4,601.83,100.43
+ORD0292,2026-05-04,Desk Lamp,Furniture,Online,West,1,75.31,17.44
+ORD0495,2026-05-04,Smart Watch,Electronics,Retail,South,2,452.52,65.18
+ORD0749,2026-05-04,Desk Lamp,Furniture,Retail,Central,6,442.31,113.73
+ORD0196,2026-05-05,Skin Care Kit,Beauty,Retail,West,5,469.07,136.49
+ORD0896,2026-05-05,Bluetooth Speaker,Electronics,Wholesale,West,8,1219.86,273.99
+ORD0419,2026-05-06,Office Chair,Furniture,Retail,South,2,522.31,115.67
+ORD0547,2026-05-06,Wireless Headset,Electronics,Corporate,West,9,1049.95,183.45
+ORD0697,2026-05-06,Wireless Headset,Electronics,Retail,East,1,119.69,19.03
+ORD0816,2026-05-06,Desk Lamp,Furniture,Online,Central,7,539.57,103.47
+ORD0356,2026-05-07,Backpack,Accessories,Retail,North,8,504.45,111.4
+ORD0455,2026-05-07,Laptop Pro,Electronics,Retail,South,7,8065.62,1871.29
+ORD0470,2026-05-07,Wireless Headset,Electronics,Retail,West,3,375.29,53.09
+ORD0372,2026-05-08,Office Chair,Furniture,Retail,Central,7,1809.23,356.99
+ORD0432,2026-05-08,Backpack,Accessories,Retail,South,2,113.4,39.15
+ORD0506,2026-05-08,Laptop Pro,Electronics,Wholesale,East,11,13391.96,2052.75
+ORD0280,2026-05-09,Running Shoes,Sports,Corporate,South,11,1199.47,301.8
+ORD0508,2026-05-09,Bluetooth Speaker,Electronics,Retail,South,4,632.73,152.51
+ORD0617,2026-05-09,Office Chair,Furniture,Online,South,5,1259.29,239.42
+ORD0707,2026-05-09,Backpack,Accessories,Retail,Central,6,353.23,112.82
+ORD0933,2026-05-09,Wireless Headset,Electronics,Wholesale,North,12,1434.65,253.58
+ORD0055,2026-05-10,Bluetooth Speaker,Electronics,Corporate,West,10,1485.7,336.23
+ORD0852,2026-05-10,Office Chair,Furniture,Corporate,South,8,2052.13,552.28
+ORD0859,2026-05-10,Skin Care Kit,Beauty,Wholesale,Central,11,997.89,336.15
+ORD0623,2026-05-12,Backpack,Accessories,Retail,Central,5,307.85,69.88
+ORD0661,2026-05-13,Laptop Pro,Electronics,Retail,North,7,8876.3,1773.87
+ORD0161,2026-05-14,Office Chair,Furniture,Retail,North,7,1700.25,323.93
+ORD0349,2026-05-14,Backpack,Accessories,Corporate,East,10,612.04,159.62
+ORD0543,2026-05-14,Office Chair,Furniture,Wholesale,Central,12,3084.93,791.88
+ORD0646,2026-05-14,Running Shoes,Sports,Retail,North,6,691.65,188.58
+ORD0874,2026-05-14,Desk Lamp,Furniture,Retail,North,2,152.58,43.82
+ORD0456,2026-05-15,Laptop Pro,Electronics,Online,West,3,3690.46,559.45
+ORD0762,2026-05-15,Smart Watch,Electronics,Online,North,1,212.97,35.99
+ORD0821,2026-05-16,Wireless Headset,Electronics,Retail,North,4,485.17,91.94
+ORD0382,2026-05-17,Running Shoes,Sports,Retail,Central,8,831.35,262.61
+ORD0895,2026-05-17,Running Shoes,Sports,Corporate,South,3,329.89,70.97
+ORD0913,2026-05-17,Running Shoes,Sports,Corporate,South,7,752.5,226.66
+ORD0341,2026-05-18,Laptop Pro,Electronics,Retail,West,3,3640.11,651.73
+ORD0169,2026-05-19,Office Chair,Furniture,Online,West,7,1739.45,389.86
+ORD0621,2026-05-19,Desk Lamp,Furniture,Online,Central,8,632.76,137.53
+ORD0810,2026-05-19,Wireless Headset,Electronics,Online,West,5,595.77,84.58
+ORD0413,2026-05-20,Wireless Headset,Electronics,Retail,East,7,826.37,173.96
+ORD0451,2026-05-20,Office Chair,Furniture,Retail,West,8,2074.12,448.62
+ORD0512,2026-05-20,Laptop Pro,Electronics,Retail,West,7,8652.33,1507.05
+ORD0551,2026-05-20,Running Shoes,Sports,Corporate,North,10,1060.78,338.78
+ORD0861,2026-05-20,Wireless Headset,Electronics,Retail,South,6,736.13,171.19
+ORD0252,2026-05-21,Laptop Pro,Electronics,Retail,South,3,3538.58,747.56
+ORD0268,2026-05-21,Office Chair,Furniture,Corporate,South,9,2356.94,513.38
+ORD0485,2026-05-21,Desk Lamp,Furniture,Retail,South,6,438.76,104.39
+ORD0826,2026-05-22,Running Shoes,Sports,Corporate,North,8,917.88,196.24
+ORD0872,2026-05-22,Office Chair,Furniture,Online,North,1,250.42,58.41
+ORD0091,2026-05-23,Office Chair,Furniture,Retail,South,5,1200.75,218.78
+ORD0575,2026-05-23,Laptop Pro,Electronics,Retail,West,2,2359.32,588.7
+ORD0620,2026-05-23,Office Chair,Furniture,Online,West,7,1702.47,428.26
+ORD0724,2026-05-23,Bluetooth Speaker,Electronics,Corporate,South,6,864.98,177.91
+ORD0768,2026-05-23,Backpack,Accessories,Corporate,North,8,489.3,126.09
+ORD0800,2026-05-23,Running Shoes,Sports,Online,North,8,931.85,223.31
+ORD0613,2026-05-24,Smartphone X,Electronics,Retail,West,4,3241.01,756.59
+ORD0777,2026-05-24,Laptop Pro,Electronics,Online,Central,2,2524.39,430.85
+ORD0904,2026-05-24,Bluetooth Speaker,Electronics,Corporate,South,6,922.03,179.04
+ORD0385,2026-05-25,Smartphone X,Electronics,Wholesale,East,9,7393.74,1596.64
+ORD0596,2026-05-25,Smartphone X,Electronics,Retail,Central,6,4617.73,1063.47
+ORD0717,2026-05-25,Running Shoes,Sports,Retail,North,5,532.45,140.58
+ORD0165,2026-05-26,Office Chair,Furniture,Wholesale,North,8,1915.13,360.39
+ORD0712,2026-05-27,Laptop Pro,Electronics,Retail,West,5,5741.16,1196.92
+ORD0710,2026-05-28,Skin Care Kit,Beauty,Online,Central,3,259.97,71.46
+ORD0108,2026-05-29,Smart Watch,Electronics,Wholesale,North,5,1125.87,176.68
+ORD0270,2026-05-29,Skin Care Kit,Beauty,Wholesale,Central,5,425.41,158.84
+ORD0287,2026-05-29,Bluetooth Speaker,Electronics,Wholesale,South,5,706.86,119.88
+ORD0320,2026-05-29,Laptop Pro,Electronics,Online,West,3,3588.88,723.79
+ORD0171,2026-05-30,Bluetooth Speaker,Electronics,Retail,West,5,791.36,153.26
+ORD0736,2026-05-30,Smartphone X,Electronics,Corporate,East,11,8361.39,1280.3
+ORD0894,2026-05-30,Desk Lamp,Furniture,Wholesale,West,13,978.97,179.9
+ORD0556,2026-05-31,Laptop Pro,Electronics,Retail,South,1,1178.51,272.94
+ORD0562,2026-05-31,Smartphone X,Electronics,Online,South,2,1577.5,330.28
+ORD0773,2026-05-31,Laptop Pro,Electronics,Retail,South,7,8293.93,1610.21
+ORD0304,2026-06-01,Wireless Headset,Electronics,Online,West,4,500.81,115.14
+ORD0497,2026-06-01,Running Shoes,Sports,Retail,Central,3,320.31,81.98
+ORD0807,2026-06-01,Smartphone X,Electronics,Online,South,8,6209.39,1539.39
+ORD0319,2026-06-02,Laptop Pro,Electronics,Wholesale,North,11,13219.46,2016.91
+ORD0396,2026-06-02,Desk Lamp,Furniture,Retail,South,3,226.52,41.21
+ORD0756,2026-06-02,Office Chair,Furniture,Retail,Central,4,1009.58,263.4
+ORD0765,2026-06-02,Office Chair,Furniture,Online,Central,3,735.24,140.73
+ORD0793,2026-06-02,Skin Care Kit,Beauty,Retail,West,6,570.7,160.64
+ORD0815,2026-06-02,Bluetooth Speaker,Electronics,Online,South,7,1022.86,162.33
+ORD0831,2026-06-02,Backpack,Accessories,Retail,Central,4,235.19,52.42
+ORD0886,2026-06-02,Laptop Pro,Electronics,Retail,Central,6,7023.43,1432.18
+ORD0964,2026-06-02,Skin Care Kit,Beauty,Online,West,7,628.59,226.53
+ORD0095,2026-06-03,Backpack,Accessories,Wholesale,North,7,422.01,139.28
+ORD0207,2026-06-03,Office Chair,Furniture,Retail,Central,3,750.47,172.71
+ORD0682,2026-06-03,Running Shoes,Sports,Retail,South,6,685.97,181.37
+ORD0832,2026-06-03,Office Chair,Furniture,Corporate,North,6,1517.31,325.54
+ORD0961,2026-06-03,Skin Care Kit,Beauty,Wholesale,South,8,717.9,263.04
+ORD0980,2026-06-03,Backpack,Accessories,Wholesale,East,13,789.74,234.48
+ORD0732,2026-06-05,Laptop Pro,Electronics,Corporate,Central,7,8006.23,1470.76
+ORD0550,2026-06-06,Smartphone X,Electronics,Corporate,East,8,6594.4,1450.9
+ORD0856,2026-06-06,Wireless Headset,Electronics,Corporate,North,9,1047.79,166.7
+ORD0919,2026-06-06,Desk Lamp,Furniture,Corporate,West,8,601.91,121.37
+ORD0955,2026-06-06,Running Shoes,Sports,Retail,Central,1,116.22,32.09
+ORD0132,2026-06-07,Running Shoes,Sports,Wholesale,West,5,569.34,138.41
+ORD0867,2026-06-08,Desk Lamp,Furniture,Online,West,6,467.51,130.87
+ORD0531,2026-06-09,Wireless Headset,Electronics,Wholesale,South,9,1078.98,268.14
+ORD0916,2026-06-09,Backpack,Accessories,Online,North,2,124.4,39.99
+ORD0037,2026-06-10,Smartphone X,Electronics,Corporate,North,3,2347.86,546.9
+ORD0043,2026-06-10,Laptop Pro,Electronics,Wholesale,Central,11,13036.3,3104.06
+ORD0649,2026-06-10,Desk Lamp,Furniture,Wholesale,North,10,759.18,144.9
+ORD0971,2026-06-10,Laptop Pro,Electronics,Retail,West,8,9536.66,2383.65
+ORD0999,2026-06-10,Backpack,Accessories,Online,West,6,367.82,127.61
+ORD0681,2026-06-12,Smartphone X,Electronics,Corporate,South,7,5835.49,1082.93
+ORD0354,2026-06-13,Skin Care Kit,Beauty,Corporate,North,8,745.57,271.11
+ORD0597,2026-06-13,Backpack,Accessories,Retail,North,7,444.02,129.13
+ORD0817,2026-06-13,Skin Care Kit,Beauty,Online,West,3,262.93,70.27
+ORD0903,2026-06-13,Office Chair,Furniture,Corporate,South,5,1193.39,279.84
+ORD0061,2026-06-14,Smart Watch,Electronics,Corporate,North,7,1546.76,373.77
+ORD0492,2026-06-14,Wireless Headset,Electronics,Corporate,East,7,827.88,172.11
+ORD0612,2026-06-15,Running Shoes,Sports,Online,North,3,322.2,66.98
+ORD0921,2026-06-15,Wireless Headset,Electronics,Corporate,South,8,1008.89,202.18
+ORD0986,2026-06-15,Laptop Pro,Electronics,Corporate,East,11,13195.29,1893.88
+ORD0441,2026-06-16,Backpack,Accessories,Wholesale,North,12,730.86,210.33
+ORD0188,2026-06-17,Office Chair,Furniture,Wholesale,North,6,1501.82,289.1
+ORD0734,2026-06-17,Laptop Pro,Electronics,Online,South,1,1261.98,292.86
+ORD0587,2026-06-18,Wireless Headset,Electronics,Corporate,Central,2,253.32,49.91
+ORD0120,2026-06-19,Smart Watch,Electronics,Wholesale,West,5,1076.34,236.46
+ORD0237,2026-06-19,Smartphone X,Electronics,Wholesale,West,9,7545.67,1152.79
+ORD0493,2026-06-19,Smartphone X,Electronics,Corporate,South,8,6478.7,1256.07
+ORD0965,2026-06-19,Laptop Pro,Electronics,Corporate,West,2,2379.21,384.77
+ORD0151,2026-06-20,Smart Watch,Electronics,Wholesale,West,8,1678.12,235.41
+ORD0168,2026-06-20,Wireless Headset,Electronics,Retail,West,4,487.67,80.55
+ORD0261,2026-06-20,Backpack,Accessories,Corporate,North,10,567.76,167.66
+ORD0789,2026-06-20,Smartphone X,Electronics,Wholesale,South,5,3822.35,835.94
+ORD0803,2026-06-20,Smart Watch,Electronics,Retail,West,4,904.46,163.14
+ORD0030,2026-06-21,Bluetooth Speaker,Electronics,Retail,West,5,746.15,173.57
+ORD0085,2026-06-21,Smart Watch,Electronics,Online,Central,8,1711.91,408.66
+ORD0254,2026-06-21,Desk Lamp,Furniture,Wholesale,South,9,645.34,120.37
+ORD0549,2026-06-21,Backpack,Accessories,Corporate,East,7,407.61,127.86
+ORD0277,2026-06-22,Smart Watch,Electronics,Online,North,2,466.04,67.55
+ORD0386,2026-06-23,Smartphone X,Electronics,Retail,South,5,4215.16,731.36
+ORD0412,2026-06-24,Desk Lamp,Furniture,Online,West,6,451.25,102.84
+ORD0181,2026-06-25,Desk Lamp,Furniture,Retail,Central,5,362.45,97.78
+ORD0179,2026-06-26,Smartphone X,Electronics,Corporate,East,12,9780.26,1507.05
+ORD0578,2026-06-26,Smart Watch,Electronics,Online,Central,3,661.37,98.72
+ORD0745,2026-06-26,Running Shoes,Sports,Corporate,Central,4,450.06,113.8
+ORD0781,2026-06-26,Skin Care Kit,Beauty,Wholesale,West,12,1032.95,387.3
+ORD0882,2026-06-26,Wireless Headset,Electronics,Online,North,6,747.04,107.78
+ORD0708,2026-06-27,Running Shoes,Sports,Wholesale,West,15,1730.31,355.83
+ORD0753,2026-06-27,Desk Lamp,Furniture,Online,West,3,226.46,55.37
+ORD0828,2026-06-27,Office Chair,Furniture,Retail,Central,7,1709.86,505.58
+ORD0121,2026-06-28,Smartphone X,Electronics,Corporate,East,6,4629.33,694.53
+ORD0291,2026-06-28,Skin Care Kit,Beauty,Wholesale,East,7,593.41,213.41
+ORD0790,2026-06-28,Skin Care Kit,Beauty,Online,Central,3,258.4,96.53
+ORD0837,2026-06-28,Bluetooth Speaker,Electronics,Corporate,South,9,1365.18,307.06
+ORD0594,2026-06-29,Desk Lamp,Furniture,Retail,Central,6,442.25,130.85
+ORD0657,2026-06-29,Bluetooth Speaker,Electronics,Retail,West,3,463.27,66.65
+ORD0027,2026-06-30,Smartphone X,Electronics,Retail,Central,6,4719.07,813.07
+ORD0406,2026-06-30,Wireless Headset,Electronics,Retail,East,6,723.48,169.02
+ORD0535,2026-06-30,Office Chair,Furniture,Retail,North,1,256.05,58.66
+ORD0801,2026-06-30,Office Chair,Furniture,Retail,West,2,492.67,128.72
+ORD0978,2026-06-30,Office Chair,Furniture,Online,Central,2,496.13,130.2
+ORD0004,2026-07-01,Desk Lamp,Furniture,Online,Central,2,147.94,30.73
+ORD0424,2026-07-01,Office Chair,Furniture,Online,East,4,1030.26,288.72
+ORD0435,2026-07-02,Backpack,Accessories,Corporate,South,8,484.51,161.16
+ORD0678,2026-07-02,Skin Care Kit,Beauty,Wholesale,North,8,725.99,232.24
+ORD0901,2026-07-02,Office Chair,Furniture,Retail,South,2,526.52,120.2
+ORD0174,2026-07-04,Backpack,Accessories,Wholesale,Central,12,715.69,199.38
+ORD0202,2026-07-04,Desk Lamp,Furniture,Wholesale,North,11,826.92,235.95
+ORD0669,2026-07-04,Smart Watch,Electronics,Corporate,East,4,881.53,155.51
+ORD0033,2026-07-05,Bluetooth Speaker,Electronics,Retail,West,2,294.82,65.85
+ORD0462,2026-07-05,Office Chair,Furniture,Online,Central,3,711.08,207.25
+ORD0469,2026-07-05,Backpack,Accessories,Retail,West,1,56.91,18.6
+ORD0204,2026-07-06,Desk Lamp,Furniture,Wholesale,Central,9,712.62,173.02
+ORD0232,2026-07-06,Running Shoes,Sports,Retail,West,5,562.7,133.22
+ORD0686,2026-07-06,Desk Lamp,Furniture,Retail,North,5,356.03,96.03
+ORD0944,2026-07-06,Bluetooth Speaker,Electronics,Online,East,8,1160.38,228.76
+ORD0007,2026-07-07,Bluetooth Speaker,Electronics,Retail,South,4,583.87,100.77
+ORD0025,2026-07-07,Bluetooth Speaker,Electronics,Corporate,South,10,1586.46,235.25
+ORD0402,2026-07-07,Desk Lamp,Furniture,Corporate,South,7,501.53,142.21
+ORD0605,2026-07-07,Bluetooth Speaker,Electronics,Online,South,7,1074.18,168.8
+ORD0702,2026-07-07,Wireless Headset,Electronics,Online,East,8,954.94,175.48
+ORD0943,2026-07-07,Wireless Headset,Electronics,Corporate,South,6,720.68,113.76
+ORD0026,2026-07-08,Smartphone X,Electronics,Online,South,3,2420.18,364.7
+ORD0757,2026-07-08,Smartphone X,Electronics,Retail,North,2,1631.18,256.77
+ORD0917,2026-07-09,Backpack,Accessories,Corporate,East,5,284.04,98.91
+ORD0206,2026-07-10,Wireless Headset,Electronics,Online,South,1,121.41,17.44
+ORD0375,2026-07-10,Office Chair,Furniture,Retail,West,8,2103.81,614.42
+ORD0463,2026-07-10,Smartphone X,Electronics,Corporate,South,6,4575.71,658.51
+ORD0595,2026-07-10,Backpack,Accessories,Retail,West,4,244.72,62.94
+ORD0706,2026-07-10,Smart Watch,Electronics,Corporate,East,7,1616.18,394.46
+ORD0238,2026-07-12,Running Shoes,Sports,Online,South,4,415.23,106.86
+ORD0315,2026-07-12,Running Shoes,Sports,Wholesale,East,15,1627.19,493.94
+ORD0674,2026-07-12,Running Shoes,Sports,Wholesale,Central,4,460.92,115.51
+ORD0051,2026-07-13,Backpack,Accessories,Retail,Central,7,415.53,144.64
+ORD0084,2026-07-13,Laptop Pro,Electronics,Corporate,Central,3,3692.47,731.26
+ORD0525,2026-07-13,Laptop Pro,Electronics,Retail,West,1,1256.98,179.98
+ORD0658,2026-07-13,Smartphone X,Electronics,Retail,East,3,2524.84,449.18
+ORD0705,2026-07-13,Wireless Headset,Electronics,Wholesale,East,8,993.95,189.04
+ORD0054,2026-07-15,Smart Watch,Electronics,Retail,North,7,1571.71,309.99
+ORD0119,2026-07-15,Smart Watch,Electronics,Corporate,North,9,1926.13,471.12
+ORD0233,2026-07-15,Smartphone X,Electronics,Online,Central,7,5774.28,871.2
+ORD0698,2026-07-15,Desk Lamp,Furniture,Online,North,5,380.68,74.29
+ORD0759,2026-07-15,Smartphone X,Electronics,Online,West,5,4105.13,802.26
+ORD0966,2026-07-15,Wireless Headset,Electronics,Retail,North,7,795.46,143.94
+ORD0075,2026-07-16,Laptop Pro,Electronics,Corporate,North,3,3762.76,668.38
+ORD0212,2026-07-16,Wireless Headset,Electronics,Corporate,North,5,613.42,90.58
+ORD0614,2026-07-16,Smart Watch,Electronics,Retail,East,1,218.21,53.75
+ORD0989,2026-07-16,Smartphone X,Electronics,Corporate,East,9,6788.94,1417.21
+ORD0699,2026-07-17,Smart Watch,Electronics,Corporate,Central,12,2551.0,481.46
+ORD0888,2026-07-17,Desk Lamp,Furniture,Online,West,7,552.31,148.85
+ORD0932,2026-07-17,Running Shoes,Sports,Online,North,5,532.01,149.22
+ORD0087,2026-07-18,Backpack,Accessories,Corporate,South,10,623.78,153.85
+ORD0094,2026-07-19,Bluetooth Speaker,Electronics,Retail,West,3,438.59,78.56
+ORD0178,2026-07-19,Laptop Pro,Electronics,Online,West,1,1266.22,243.88
+ORD0752,2026-07-19,Wireless Headset,Electronics,Retail,East,3,356.3,76.91
+ORD0138,2026-07-20,Running Shoes,Sports,Retail,Central,7,744.56,201.15
+ORD0630,2026-07-20,Desk Lamp,Furniture,Online,East,8,595.03,150.23
+ORD0835,2026-07-20,Running Shoes,Sports,Wholesale,East,12,1381.39,388.04
+ORD0056,2026-07-21,Smartphone X,Electronics,Corporate,East,10,7607.36,1672.89
+ORD0271,2026-07-21,Bluetooth Speaker,Electronics,Online,Central,6,905.03,169.79
+ORD0194,2026-07-22,Desk Lamp,Furniture,Wholesale,East,6,464.34,117.58
+ORD0399,2026-07-25,Skin Care Kit,Beauty,Corporate,South,3,260.89,66.75
+ORD0530,2026-07-25,Smartphone X,Electronics,Online,South,2,1653.64,326.55
+ORD0911,2026-07-25,Running Shoes,Sports,Retail,East,8,910.18,249.34
+ORD0306,2026-07-26,Bluetooth Speaker,Electronics,Retail,South,5,743.23,121.66
+ORD0363,2026-07-26,Laptop Pro,Electronics,Wholesale,South,4,4918.8,1025.55
+ORD0581,2026-07-26,Skin Care Kit,Beauty,Retail,South,8,706.31,190.04
+ORD0568,2026-07-27,Desk Lamp,Furniture,Retail,North,2,142.26,27.66
+ORD0129,2026-07-28,Running Shoes,Sports,Wholesale,West,11,1245.47,273.26
+ORD0829,2026-07-28,Smart Watch,Electronics,Corporate,Central,8,1764.77,398.86
+ORD0926,2026-07-28,Wireless Headset,Electronics,Wholesale,Central,14,1725.38,264.52
+ORD0313,2026-07-29,Desk Lamp,Furniture,Online,Central,4,304.76,64.79
+ORD0584,2026-07-29,Backpack,Accessories,Online,West,1,63.17,16.99
+ORD0634,2026-07-30,Wireless Headset,Electronics,Wholesale,South,7,828.27,154.62
+ORD0650,2026-07-30,Office Chair,Furniture,Wholesale,Central,10,2481.41,574.37
+ORD0787,2026-07-30,Bluetooth Speaker,Electronics,Wholesale,South,8,1191.22,181.55
+ORD0147,2026-07-31,Bluetooth Speaker,Electronics,Corporate,East,10,1547.68,355.08
+ORD0783,2026-07-31,Backpack,Accessories,Retail,Central,7,396.8,120.14
+ORD0857,2026-07-31,Running Shoes,Sports,Retail,West,6,661.83,195.26
+ORD0226,2026-08-01,Bluetooth Speaker,Electronics,Retail,West,3,470.51,95.62
+ORD0552,2026-08-01,Wireless Headset,Electronics,Corporate,West,8,980.19,159.42
+ORD0117,2026-08-02,Smartphone X,Electronics,Corporate,Central,8,6513.34,1337.73
+ORD0430,2026-08-02,Laptop Pro,Electronics,Retail,North,2,2473.95,531.56
+ORD0014,2026-08-03,Laptop Pro,Electronics,Retail,South,3,3523.62,694.39
+ORD0230,2026-08-03,Skin Care Kit,Beauty,Retail,East,2,172.2,59.64
+ORD0696,2026-08-04,Bluetooth Speaker,Electronics,Wholesale,West,9,1270.75,275.89
+ORD0792,2026-08-04,Laptop Pro,Electronics,Online,West,6,7101.64,1739.79
+ORD0838,2026-08-04,Backpack,Accessories,Corporate,East,6,377.28,102.29
+ORD0994,2026-08-04,Wireless Headset,Electronics,Online,West,3,355.32,85.53
+ORD0002,2026-08-05,Office Chair,Furniture,Online,Central,6,1410.14,358.31
+ORD0093,2026-08-05,Running Shoes,Sports,Online,North,2,217.48,68.51
+ORD0239,2026-08-05,Office Chair,Furniture,Wholesale,Central,5,1213.9,226.9
+ORD0588,2026-08-05,Wireless Headset,Electronics,Retail,Central,8,989.2,152.9
+ORD0615,2026-08-06,Bluetooth Speaker,Electronics,Online,Central,4,612.39,133.03
+ORD0684,2026-08-06,Office Chair,Furniture,Corporate,Central,3,787.04,200.37
+ORD0718,2026-08-06,Smart Watch,Electronics,Wholesale,South,10,2100.45,437.21
+ORD0878,2026-08-06,Laptop Pro,Electronics,Wholesale,North,6,7052.04,1546.14
+ORD0885,2026-08-06,Running Shoes,Sports,Corporate,South,6,661.33,157.26
+ORD0066,2026-08-07,Backpack,Accessories,Retail,Central,7,415.48,112.89
+ORD0514,2026-08-08,Desk Lamp,Furniture,Online,West,2,155.88,29.08
+ORD0028,2026-08-09,Skin Care Kit,Beauty,Retail,West,8,737.45,193.37
+ORD0284,2026-08-09,Running Shoes,Sports,Retail,East,6,624.73,147.73
+ORD0572,2026-08-09,Smartphone X,Electronics,Retail,Central,8,6679.39,1233.98
+ORD0618,2026-08-09,Smart Watch,Electronics,Wholesale,South,3,645.38,138.81
+ORD0176,2026-08-10,Backpack,Accessories,Online,East,4,247.91,60.15
+ORD0186,2026-08-10,Skin Care Kit,Beauty,Corporate,North,7,664.63,241.9
+ORD0326,2026-08-10,Desk Lamp,Furniture,Retail,West,3,228.25,45.74
+ORD0844,2026-08-12,Running Shoes,Sports,Wholesale,South,9,956.91,284.28
+ORD0024,2026-08-13,Laptop Pro,Electronics,Corporate,East,9,10208.51,2546.01
+ORD0664,2026-08-13,Desk Lamp,Furniture,Retail,South,5,366.76,78.59
+ORD0080,2026-08-15,Laptop Pro,Electronics,Retail,South,7,8298.19,1211.73
+ORD0123,2026-08-15,Running Shoes,Sports,Wholesale,West,6,698.36,172.82
+ORD0694,2026-08-15,Skin Care Kit,Beauty,Online,South,7,610.09,201.17
+ORD0065,2026-08-16,Skin Care Kit,Beauty,Wholesale,East,12,1093.71,296.27
+ORD0177,2026-08-16,Backpack,Accessories,Retail,South,8,506.95,152.7
+ORD0598,2026-08-16,Wireless Headset,Electronics,Corporate,North,9,1041.39,158.4
+ORD0339,2026-08-17,Wireless Headset,Electronics,Corporate,West,11,1352.49,257.07
+ORD0401,2026-08-17,Smartphone X,Electronics,Corporate,West,9,7315.27,1672.33
+ORD0521,2026-08-19,Backpack,Accessories,Wholesale,West,10,586.78,202.82
+ORD0536,2026-08-19,Desk Lamp,Furniture,Wholesale,South,14,1074.31,222.4
+ORD0240,2026-08-20,Desk Lamp,Furniture,Corporate,South,9,670.47,160.02
+ORD0288,2026-08-20,Laptop Pro,Electronics,Corporate,Central,4,4834.61,1092.04
+ORD0394,2026-08-20,Skin Care Kit,Beauty,Retail,South,2,178.8,62.4
+ORD0534,2026-08-20,Wireless Headset,Electronics,Retail,South,6,707.79,119.94
+ORD0220,2026-08-21,Bluetooth Speaker,Electronics,Retail,South,4,572.28,86.03
+ORD0236,2026-08-21,Smartphone X,Electronics,Online,South,3,2533.64,461.79
+ORD0660,2026-08-21,Wireless Headset,Electronics,Corporate,South,4,456.18,63.94
+ORD0743,2026-08-21,Skin Care Kit,Beauty,Retail,South,2,181.73,60.19
+ORD0967,2026-08-21,Office Chair,Furniture,Corporate,South,7,1703.58,419.59
+ORD0788,2026-08-22,Wireless Headset,Electronics,Corporate,North,10,1251.85,192.15
+ORD0887,2026-08-22,Backpack,Accessories,Wholesale,South,11,630.84,173.46
+ORD0902,2026-08-22,Wireless Headset,Electronics,Retail,Central,6,722.83,132.41
+ORD0429,2026-08-23,Running Shoes,Sports,Retail,North,1,115.32,31.22
+ORD0070,2026-08-25,Bluetooth Speaker,Electronics,Corporate,West,10,1484.13,264.73
+ORD0953,2026-08-25,Bluetooth Speaker,Electronics,Corporate,South,10,1415.94,330.92
+ORD0088,2026-08-26,Desk Lamp,Furniture,Retail,North,3,214.81,55.24
+ORD0418,2026-08-26,Running Shoes,Sports,Corporate,East,7,760.9,167.03
+ORD0703,2026-08-26,Smart Watch,Electronics,Wholesale,East,4,842.5,141.56
+ORD0754,2026-08-26,Office Chair,Furniture,Online,North,3,767.57,197.09
+ORD0295,2026-08-27,Bluetooth Speaker,Electronics,Wholesale,South,8,1190.0,281.53
+ORD0555,2026-08-27,Desk Lamp,Furniture,Corporate,South,7,523.97,152.23
+ORD0637,2026-08-27,Smartphone X,Electronics,Retail,East,5,4118.67,671.49
+ORD0273,2026-08-28,Skin Care Kit,Beauty,Wholesale,South,10,913.21,340.34
+ORD0851,2026-08-28,Backpack,Accessories,Online,East,2,121.84,38.66
+ORD0864,2026-08-28,Wireless Headset,Electronics,Retail,West,2,252.77,36.55
+ORD0069,2026-08-29,Smart Watch,Electronics,Retail,East,2,437.59,87.67
+ORD0730,2026-08-29,Laptop Pro,Electronics,Online,Central,3,3649.32,645.04
+ORD0868,2026-08-29,Smartphone X,Electronics,Retail,South,7,5885.37,896.79
+ORD0899,2026-08-29,Bluetooth Speaker,Electronics,Online,Central,4,565.13,137.17
+ORD0992,2026-08-29,Skin Care Kit,Beauty,Online,East,4,354.39,127.53
+ORD0582,2026-08-30,Wireless Headset,Electronics,Retail,West,5,608.82,105.92
+ORD0959,2026-08-30,Laptop Pro,Electronics,Online,West,2,2450.63,494.02
+ORD0323,2026-08-31,Smart Watch,Electronics,Corporate,North,7,1516.99,346.51
+ORD0695,2026-08-31,Smart Watch,Electronics,Retail,North,2,441.48,108.89
+ORD0909,2026-08-31,Bluetooth Speaker,Electronics,Corporate,West,8,1205.93,180.57
+ORD0148,2026-09-01,Desk Lamp,Furniture,Online,West,1,76.39,15.56
+ORD0274,2026-09-01,Bluetooth Speaker,Electronics,Online,Central,5,781.88,175.95
+ORD0400,2026-09-01,Running Shoes,Sports,Wholesale,South,7,754.47,174.31
+ORD0443,2026-09-01,Laptop Pro,Electronics,Retail,South,2,2381.57,489.04
+ORD0782,2026-09-01,Wireless Headset,Electronics,Retail,South,2,228.61,50.12
+ORD0358,2026-09-02,Desk Lamp,Furniture,Corporate,East,5,375.44,69.84
+ORD0377,2026-09-02,Wireless Headset,Electronics,Retail,West,3,355.82,82.44
+ORD0604,2026-09-02,Smartphone X,Electronics,Retail,East,6,4524.66,1032.97
+ORD0625,2026-09-02,Laptop Pro,Electronics,Retail,Central,6,7501.57,1416.3
+ORD0988,2026-09-02,Smart Watch,Electronics,Corporate,East,9,1958.14,319.65
+ORD0722,2026-09-03,Office Chair,Furniture,Corporate,Central,5,1217.43,222.67
+ORD0041,2026-09-04,Smart Watch,Electronics,Retail,East,5,1072.7,188.96
+ORD0098,2026-09-04,Backpack,Accessories,Online,West,7,431.29,145.53
+ORD0362,2026-09-04,Backpack,Accessories,Corporate,West,9,520.06,154.95
+ORD0140,2026-09-05,Office Chair,Furniture,Retail,North,4,1024.56,267.22
+ORD0331,2026-09-05,Bluetooth Speaker,Electronics,Wholesale,South,7,1019.71,146.54
+ORD0367,2026-09-05,Smartphone X,Electronics,Retail,West,8,6546.73,1112.16
+ORD0677,2026-09-05,Bluetooth Speaker,Electronics,Corporate,Central,6,887.28,151.72
+ORD0923,2026-09-05,Bluetooth Speaker,Electronics,Retail,South,8,1193.71,217.78
+ORD0974,2026-09-05,Skin Care Kit,Beauty,Wholesale,West,6,554.47,194.12
+ORD0336,2026-09-06,Bluetooth Speaker,Electronics,Wholesale,South,10,1524.9,336.44
+ORD0504,2026-09-06,Smart Watch,Electronics,Retail,South,4,892.32,128.88
+ORD0586,2026-09-06,Smart Watch,Electronics,Wholesale,East,11,2473.56,483.22
+ORD0935,2026-09-06,Smartphone X,Electronics,Online,Central,1,818.31,162.63
+ORD0029,2026-09-07,Desk Lamp,Furniture,Retail,South,6,438.47,80.53
+ORD0044,2026-09-07,Laptop Pro,Electronics,Online,West,1,1213.23,216.59
+ORD0052,2026-09-07,Running Shoes,Sports,Corporate,Central,3,311.66,88.2
+ORD0285,2026-09-07,Wireless Headset,Electronics,Online,West,6,740.02,155.75
+ORD0739,2026-09-07,Smart Watch,Electronics,Online,East,6,1345.94,205.22
+ORD0438,2026-09-08,Smartphone X,Electronics,Corporate,South,10,7822.41,1288.4
+ORD0880,2026-09-08,Smart Watch,Electronics,Retail,West,5,1055.83,261.37
+ORD0167,2026-09-10,Skin Care Kit,Beauty,Online,North,5,456.45,160.56
+ORD0370,2026-09-10,Skin Care Kit,Beauty,Retail,Central,3,279.75,105.6
+ORD0758,2026-09-10,Office Chair,Furniture,Online,Central,4,941.74,234.74
+ORD0853,2026-09-10,Bluetooth Speaker,Electronics,Corporate,Central,5,770.4,187.74
+ORD0984,2026-09-10,Office Chair,Furniture,Retail,West,2,483.8,125.04
+ORD0018,2026-09-11,Wireless Headset,Electronics,Retail,East,8,913.48,222.39
+ORD0045,2026-09-11,Skin Care Kit,Beauty,Wholesale,South,11,978.74,339.38
+ORD0329,2026-09-11,Smartphone X,Electronics,Online,East,1,778.11,168.2
+ORD0379,2026-09-11,Smart Watch,Electronics,Online,North,7,1465.29,256.35
+ORD0893,2026-09-11,Skin Care Kit,Beauty,Online,West,1,90.38,31.95
+ORD0164,2026-09-12,Smartphone X,Electronics,Wholesale,West,7,5694.73,1312.48
+ORD0223,2026-09-12,Smartphone X,Electronics,Wholesale,West,14,10623.33,1784.54
+ORD0439,2026-09-12,Smart Watch,Electronics,Corporate,South,6,1366.92,301.89
+ORD0746,2026-09-12,Desk Lamp,Furniture,Corporate,East,4,317.41,58.8
+ORD0905,2026-09-12,Running Shoes,Sports,Corporate,North,10,1074.15,236.62
+ORD0046,2026-09-13,Wireless Headset,Electronics,Wholesale,Central,3,375.92,61.87
+ORD0049,2026-09-13,Skin Care Kit,Beauty,Wholesale,West,7,612.3,175.34
+ORD0001,2026-09-14,Desk Lamp,Furniture,Online,North,5,359.52,67.22
+ORD0086,2026-09-14,Desk Lamp,Furniture,Corporate,South,7,505.86,127.18
+ORD0255,2026-09-14,Skin Care Kit,Beauty,Retail,North,6,565.64,147.49
+ORD0540,2026-09-14,Laptop Pro,Electronics,Online,East,1,1194.0,236.6
+ORD0131,2026-09-15,Laptop Pro,Electronics,Wholesale,Central,13,15841.05,3499.11
+ORD0150,2026-09-15,Running Shoes,Sports,Corporate,North,5,551.66,127.32
+ORD0231,2026-09-15,Office Chair,Furniture,Retail,North,6,1505.85,286.3
+ORD0381,2026-09-15,Desk Lamp,Furniture,Online,East,6,428.81,102.94
+ORD0423,2026-09-15,Office Chair,Furniture,Online,North,5,1176.94,291.91
+ORD0920,2026-09-15,Laptop Pro,Electronics,Corporate,South,8,9609.68,1511.71
+ORD0269,2026-09-16,Smart Watch,Electronics,Retail,West,1,231.81,41.06
+ORD0334,2026-09-16,Wireless Headset,Electronics,Wholesale,North,5,565.61,101.61
+ORD0301,2026-09-17,Laptop Pro,Electronics,Wholesale,West,8,9712.51,2285.07
+ORD0574,2026-09-17,Skin Care Kit,Beauty,Retail,South,4,341.39,109.37
+ORD0073,2026-09-18,Office Chair,Furniture,Wholesale,West,3,785.96,192.74
+ORD0566,2026-09-18,Desk Lamp,Furniture,Online,Central,4,309.72,92.49
+ORD0603,2026-09-18,Smartphone X,Electronics,Retail,East,1,832.3,163.39
+ORD0185,2026-09-19,Skin Care Kit,Beauty,Corporate,South,10,912.53,228.75
+ORD0242,2026-09-19,Bluetooth Speaker,Electronics,Corporate,West,6,860.11,195.21
+ORD0458,2026-09-19,Running Shoes,Sports,Wholesale,West,15,1731.48,455.91
+ORD0465,2026-09-19,Skin Care Kit,Beauty,Online,East,8,704.51,212.64
+ORD0665,2026-09-19,Laptop Pro,Electronics,Retail,North,2,2361.19,469.63
+ORD0683,2026-09-19,Running Shoes,Sports,Online,East,5,548.07,125.45
+ORD0795,2026-09-19,Wireless Headset,Electronics,Corporate,West,7,827.26,177.83
+ORD0876,2026-09-19,Backpack,Accessories,Wholesale,East,7,427.3,141.4
+ORD0378,2026-09-20,Laptop Pro,Electronics,Wholesale,South,9,10512.42,1722.62
+ORD0632,2026-09-20,Skin Care Kit,Beauty,Retail,West,4,353.81,109.11
+ORD0956,2026-09-20,Smart Watch,Electronics,Online,East,2,422.87,78.8
+ORD0114,2026-09-21,Smartphone X,Electronics,Online,East,4,3010.45,516.52
+ORD0190,2026-09-21,Bluetooth Speaker,Electronics,Wholesale,East,11,1615.98,303.39
+ORD0392,2026-09-21,Office Chair,Furniture,Wholesale,East,8,1939.16,429.29
+ORD0720,2026-09-21,Laptop Pro,Electronics,Retail,South,8,9453.93,1836.49
+ORD0951,2026-09-21,Desk Lamp,Furniture,Online,West,5,373.3,100.16
+ORD0957,2026-09-21,Bluetooth Speaker,Electronics,Wholesale,South,7,1105.17,220.66
+ORD0763,2026-09-22,Bluetooth Speaker,Electronics,Retail,Central,2,291.25,41.44
+ORD0785,2026-09-22,Smartphone X,Electronics,Online,North,7,5805.7,1038.54
+ORD0930,2026-09-22,Office Chair,Furniture,Online,North,8,1898.21,483.76
+ORD0053,2026-09-23,Bluetooth Speaker,Electronics,Corporate,Central,6,927.76,168.45
+ORD0345,2026-09-23,Smartphone X,Electronics,Retail,Central,7,5362.97,1324.86
+ORD0417,2026-09-23,Wireless Headset,Electronics,Corporate,South,10,1221.35,179.24
+ORD0778,2026-09-23,Wireless Headset,Electronics,Corporate,East,7,804.75,116.08
+ORD0104,2026-09-24,Running Shoes,Sports,Corporate,East,4,438.27,118.64
+ORD0949,2026-09-25,Laptop Pro,Electronics,Retail,South,4,4924.21,1122.75
+ORD0083,2026-09-26,Smart Watch,Electronics,Wholesale,North,10,2116.7,366.1
+ORD0450,2026-09-26,Backpack,Accessories,Online,South,7,433.37,131.49
+ORD0997,2026-09-26,Running Shoes,Sports,Retail,North,1,103.65,29.65
+ORD0692,2026-09-27,Bluetooth Speaker,Electronics,Retail,West,7,1067.31,214.78
+ORD0309,2026-09-28,Skin Care Kit,Beauty,Online,West,8,715.04,205.94
+ORD0466,2026-09-28,Smartphone X,Electronics,Corporate,South,4,3133.14,767.45
+ORD0258,2026-09-29,Backpack,Accessories,Corporate,North,3,175.01,61.24
+ORD0380,2026-09-29,Desk Lamp,Furniture,Corporate,Central,5,370.64,90.35
+ORD0609,2026-09-29,Wireless Headset,Electronics,Wholesale,North,8,976.61,206.63
+ORD0099,2026-09-30,Running Shoes,Sports,Retail,West,8,924.91,188.75
+ORD0115,2026-09-30,Backpack,Accessories,Retail,West,6,339.2,91.92
+ORD0526,2026-09-30,Wireless Headset,Electronics,Retail,West,1,123.61,20.51
+ORD0688,2026-09-30,Running Shoes,Sports,Online,East,2,233.12,63.15
